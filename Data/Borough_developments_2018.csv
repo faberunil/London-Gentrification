@@ -1,0 +1,2762 @@
+lpa_name,borough,actual_completion_date,development_type
+Greenwich,Greenwich,17/12/2018,New Build
+Merton,Merton,25/05/2018,Conversion
+Merton,Merton,04/06/2018,Conversion
+Merton,Merton,11/08/2018,New Build
+Merton,Merton,15/06/2018,Major all other major developments
+Merton,Merton,03/08/2018,New Build
+Merton,Merton,11/08/2018,Conversion
+Merton,Merton,01/07/2018,New Build
+Merton,Merton,10/08/2018,Conversion
+Merton,Merton,01/05/2018,New Build
+Merton,Merton,01/05/2018,Conversion
+Merton,Merton,13/11/2018,Conversion
+Merton,Merton,08/10/2018,New Build
+Merton,Merton,01/04/2018,Conversion
+Merton,Merton,01/11/2018,New Build
+Merton,Merton,01/07/2018,Conversion
+Merton,Merton,12/06/2018,New Build
+Merton,Merton,01/06/2018,Conversion
+Merton,Merton,05/06/2018,Conversion
+Merton,Merton,13/07/2018,Conversion
+Merton,Merton,20/09/2018,Conversion
+Merton,Merton,11/09/2018,Conversion
+Merton,Merton,09/10/2018,Conversion
+Merton,Merton,01/12/2018,New Build
+Merton,Merton,18/06/2018,Conversion
+Merton,Merton,26/12/2018,New Build
+Merton,Merton,04/06/2018,Conversion
+Merton,Merton,24/12/2018,New Build
+Merton,Merton,13/11/2018,New Build
+Merton,Merton,28/09/2018,New Build
+Merton,Merton,24/10/2018,Conversion
+Merton,Merton,26/06/2018,Conversion
+Merton,Merton,26/10/2018,New Build
+Merton,Merton,07/08/2018,New Build
+Croydon,Croydon,21/12/2018,Conversion
+Tower Hamlets,Tower Hamlets,16/01/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Westminster,Westminster,31/03/2018,Conversion
+Tower Hamlets,Tower Hamlets,20/11/2018,New Build
+Westminster,Westminster,21/06/2018,Conversion
+Wandsworth,Wandsworth,01/04/2018,Conversion
+Hackney,Hackney,24/06/2018,New Build
+Hackney,Hackney,08/01/2018,Conversion
+Hackney,Hackney,24/06/2018,Conversion
+Redbridge,Redbridge,06/11/2018,New Build
+Redbridge,Redbridge,01/08/2018,New Build
+Redbridge,Redbridge,15/02/2018,New Build
+Tower Hamlets,Tower Hamlets,25/09/2018,New Build
+Tower Hamlets,Tower Hamlets,22/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Enfield,Enfield,01/12/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Brent,Brent,30/05/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Brent,Brent,26/02/2018,Conversion
+Tower Hamlets,Tower Hamlets,12/11/2018,New Build
+Brent,Brent,27/06/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Redbridge,Redbridge,10/02/2018,Conversion
+Hackney,Hackney,01/05/2018,New Build
+Westminster,Westminster,01/12/2018,New Build
+Enfield,Enfield,22/08/2018,New Build
+Enfield,Enfield,30/03/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Lewisham,Lewisham,15/03/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Brent,Brent,22/06/2018,Conversion
+Enfield,Enfield,19/07/2018,Conversion
+Brent,Brent,18/07/2018,New Build
+Enfield,Enfield,31/03/2018,New Build
+Enfield,Enfield,02/08/2018,New Build
+Brent,Brent,07/06/2018,New Build
+Enfield,Enfield,01/05/2018,New Build
+Redbridge,Redbridge,19/05/2018,New Build
+Enfield,Enfield,21/08/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Enfield,Enfield,25/07/2018,New Build
+Lambeth,Lambeth,05/10/2018,New Build
+Lewisham,Lewisham,15/02/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Redbridge,Redbridge,21/12/2018,Conversion
+Brent,Brent,06/04/2018,New Build
+Croydon,Croydon,29/06/2018,New Build
+Ealing,Ealing,10/04/2018,Minor dwellings
+Hackney,Hackney,01/04/2018,Conversion
+Wandsworth,Wandsworth,19/09/2018,New Build
+Brent,Brent,26/10/2018,Conversion
+Brent,Brent,01/12/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Brent,Brent,20/06/2018,New Build
+Lewisham,Lewisham,01/04/2018,New Build
+Hillingdon,Hillingdon,18/05/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Wandsworth,Wandsworth,20/12/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Ealing,Ealing,13/03/2018,Minor dwellings
+Ealing,Ealing,02/03/2018,Minor dwellings
+Barnet,Barnet,20/02/2018,New Build
+Barnet,Barnet,01/05/2018,New Build
+Barnet,Barnet,01/10/2018,New Build
+Barnet,Barnet,01/01/2018,New Build
+Barnet,Barnet,25/06/2018,New Build
+Barnet,Barnet,01/01/2018,New Build
+Barnet,Barnet,01/06/2018,New Build
+Barnet,Barnet,17/05/2018,New Build
+Hillingdon,Hillingdon,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/04/2018,New Build
+Tower Hamlets,Tower Hamlets,11/04/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Tower Hamlets,Tower Hamlets,27/03/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,23/01/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,11/12/2018,Conversion
+Richmond,Richmond upon Thames,01/04/2018,Conversion
+Newham,Newham,31/03/2018,New Build
+Bromley,Bromley,30/11/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Ealing,Ealing,02/08/2018,New Build
+Sutton,Sutton,01/04/2018,Conversion
+Barnet,Barnet,15/02/2018,Conversion
+Lambeth,Lambeth,14/03/2018,Conversion
+Croydon,Croydon,03/08/2018,New Build
+Barnet,Barnet,01/05/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/03/2018,Conversion
+Ealing,Ealing,15/08/2018,Conversion
+Lambeth,Lambeth,10/07/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Barnet,Barnet,08/03/2018,New Build
+Westminster,Westminster,29/03/2018,New Build
+Croydon,Croydon,11/05/2018,Conversion
+Sutton,Sutton,01/06/2018,New Build
+Croydon,Croydon,25/10/2018,Conversion
+Lambeth,Lambeth,20/11/2018,Conversion
+Lambeth,Lambeth,10/05/2018,Conversion
+Croydon,Croydon,01/01/2018,New Build
+Westminster,Westminster,17/10/2018,New Build
+Ealing,Ealing,23/08/2018,New Build
+Bromley,Bromley,19/12/2018,New Build
+Croydon,Croydon,16/03/2018,Conversion
+Croydon,Croydon,18/10/2018,New Build
+Barnet,Barnet,20/04/2018,Conversion
+Ealing,Ealing,01/04/2018,Conversion
+Barnet,Barnet,01/05/2018,New Build
+Barnet,Barnet,20/12/2018,Conversion
+Westminster,Westminster,19/04/2018,Conversion
+Bexley,Bexley,26/11/2018,New Build
+Bromley,Bromley,20/07/2018,New Build
+Lambeth,Lambeth,20/04/2018,New Build
+Barnet,Barnet,23/08/2018,New Build
+Barnet,Barnet,12/03/2018,Conversion
+Enfield,Enfield,20/07/2018,Conversion
+Croydon,Croydon,02/08/2018,Conversion
+Westminster,Westminster,01/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,21/02/2018,Conversion
+Southwark,Southwark,01/08/2018,New Build
+Barnet,Barnet,12/12/2018,Conversion
+Westminster,Westminster,25/06/2018,Conversion
+Ealing,Ealing,01/10/2018,New Build
+Ealing,Ealing,04/09/2018,Conversion
+Newham,Newham,31/03/2018,Conversion
+Bromley,Bromley,18/04/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Westminster,Westminster,31/12/2018,New Build
+Croydon,Croydon,18/12/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Ealing,Ealing,21/09/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,23/01/2018,Conversion
+Kingston,Kingston upon Thames,13/02/2018,New Build
+Croydon,Croydon,09/05/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Croydon,Croydon,19/06/2018,New Build
+Southwark,Southwark,01/08/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,23/05/2018,Conversion
+Lambeth,Lambeth,01/07/2018,New Build
+Lambeth,Lambeth,19/03/2018,Conversion
+Westminster,Westminster,01/06/2018,New Build
+Barnet,Barnet,01/05/2018,Conversion
+Kingston,Kingston upon Thames,05/03/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Bromley,Bromley,01/02/2018,New Build
+Bexley,Bexley,09/07/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Richmond,Richmond upon Thames,14/08/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Kingston,Kingston upon Thames,07/09/2018,New Build
+Richmond,Richmond upon Thames,30/03/2018,Conversion
+Newham,Newham,08/06/2018,Conversion
+Croydon,Croydon,22/10/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,24/05/2018,Conversion
+Newham,Newham,04/06/2018,Conversion
+Barnet,Barnet,01/04/2018,Conversion
+Barnet,Barnet,01/05/2018,Conversion
+Southwark,Southwark,01/06/2018,Conversion
+Westminster,Westminster,07/03/2018,New Build
+Bromley,Bromley,26/03/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/05/2018,Conversion
+Ealing,Ealing,25/04/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Croydon,Croydon,01/03/2018,New Build
+Enfield,Enfield,01/04/2018,Conversion
+Barnet,Barnet,14/06/2018,New Build
+Southwark,Southwark,30/06/2018,Conversion
+Enfield,Enfield,01/08/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Bexley,Bexley,26/10/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Bromley,Bromley,01/06/2018,Conversion
+Sutton,Sutton,01/08/2018,New Build
+Southwark,Southwark,01/08/2018,New Build
+Richmond,Richmond upon Thames,26/01/2018,New Build
+Bromley,Bromley,01/05/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,22/08/2018,Conversion
+Southwark,Southwark,09/09/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/01/2018,Conversion
+Newham,Newham,24/07/2018,Conversion
+Kingston,Kingston upon Thames,20/08/2018,Conversion
+Southwark,Southwark,12/07/2018,New Build
+Enfield,Enfield,13/07/2018,New Build
+Bromley,Bromley,05/02/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Barnet,Barnet,01/02/2018,New Build
+Barnet,Barnet,11/01/2018,New Build
+Barnet,Barnet,02/11/2018,New Build
+Southwark,Southwark,10/11/2018,Conversion
+Kingston,Kingston upon Thames,02/01/2018,Conversion
+Lambeth,Lambeth,31/03/2018,Conversion
+Bromley,Bromley,12/03/2018,New Build
+Croydon,Croydon,22/08/2018,New Build
+Ealing,Ealing,30/10/2018,Conversion
+Barnet,Barnet,25/07/2018,Conversion
+Kingston,Kingston upon Thames,04/04/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Ealing,Ealing,01/04/2018,Conversion
+Croydon,Croydon,15/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/04/2018,New Build
+Sutton,Sutton,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,19/02/2018,Conversion
+Ealing,Ealing,09/07/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Barnet,Barnet,20/04/2018,Conversion
+Barnet,Barnet,15/05/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,28/06/2018,Conversion
+Croydon,Croydon,15/06/2018,New Build
+Barnet,Barnet,26/11/2018,Conversion
+Sutton,Sutton,01/01/2018,New Build
+Bexley,Bexley,29/06/2018,New Build
+Richmond,Richmond upon Thames,01/02/2018,Conversion
+Enfield,Enfield,30/05/2018,New Build
+Kingston,Kingston upon Thames,03/09/2018,New Build
+Southwark,Southwark,31/12/2018,New Build
+Enfield,Enfield,01/05/2018,New Build
+Ealing,Ealing,01/04/2018,New Build
+Lambeth,Lambeth,20/01/2018,Conversion
+Richmond,Richmond upon Thames,18/05/2018,New Build
+Bromley,Bromley,12/04/2018,New Build
+Ealing,Ealing,16/03/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Bexley,Bexley,13/07/2018,New Build
+Richmond,Richmond upon Thames,03/09/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Ealing,Ealing,01/08/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Barnet,Barnet,09/11/2018,New Build
+Croydon,Croydon,01/01/2018,New Build
+Croydon,Croydon,09/08/2018,New Build
+Bromley,Bromley,11/12/2018,New Build
+Bromley,Bromley,11/05/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,23/08/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/01/2018,Conversion
+Westminster,Westminster,17/08/2018,New Build
+Southwark,Southwark,30/09/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Ealing,Ealing,01/09/2018,New Build
+Enfield,Enfield,08/08/2018,New Build
+Bromley,Bromley,25/04/2018,New Build
+Bexley,Bexley,27/07/2018,New Build
+Kingston,Kingston upon Thames,23/05/2018,Conversion
+Ealing,Ealing,07/09/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Barnet,Barnet,01/05/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,27/03/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Bexley,Bexley,05/07/2018,New Build
+Kingston,Kingston upon Thames,30/10/2018,New Build
+Croydon,Croydon,13/06/2018,New Build
+Sutton,Sutton,31/05/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Kingston,Kingston upon Thames,20/04/2018,New Build
+Kingston,Kingston upon Thames,28/09/2018,New Build
+Southwark,Southwark,03/08/2018,Conversion
+Barnet,Barnet,16/02/2018,Conversion
+Enfield,Enfield,07/06/2018,Conversion
+Kingston,Kingston upon Thames,03/09/2018,Conversion
+Kingston,Kingston upon Thames,13/06/2018,Conversion
+Kingston,Kingston upon Thames,26/11/2018,New Build
+Croydon,Croydon,10/08/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Sutton,Sutton,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,26/06/2018,Conversion
+Newham,Newham,27/06/2018,Conversion
+Richmond,Richmond upon Thames,01/11/2018,New Build
+Westminster,Westminster,12/09/2018,Conversion
+Sutton,Sutton,11/12/2018,New Build
+Kingston,Kingston upon Thames,11/05/2018,New Build
+Lambeth,Lambeth,10/12/2018,New Build
+Bexley,Bexley,17/07/2018,New Build
+Lewisham,Lewisham,03/02/2018,New Build
+Hillingdon,Hillingdon,18/05/2018,New Build
+Wandsworth,Wandsworth,17/07/2018,Conversion
+Redbridge,Redbridge,21/09/2018,Conversion
+Wandsworth,Wandsworth,09/05/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Camden,Camden,03/09/2018,New Build
+Havering,Havering,01/04/2018,Conversion
+Brent,Brent,09/08/2018,Conversion
+Brent,Brent,13/06/2018,Conversion
+Merton,Merton,12/03/2018,New Build
+Merton,Merton,08/02/2018,Conversion
+Wandsworth,Wandsworth,07/09/2018,Conversion
+Havering,Havering,19/06/2018,New Build
+Hillingdon,Hillingdon,21/09/2018,New Build
+Redbridge,Redbridge,06/09/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hackney,Hackney,05/01/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Wandsworth,Wandsworth,19/06/2018,Conversion
+Tower Hamlets,Tower Hamlets,03/10/2018,New Build
+Brent,Brent,23/04/2018,New Build
+Hackney,Hackney,09/03/2018,Conversion
+Hillingdon,Hillingdon,10/08/2018,Conversion
+Wandsworth,Wandsworth,12/12/2018,Conversion
+Redbridge,Redbridge,07/05/2018,New Build
+Hackney,Hackney,20/07/2018,New Build
+Hillingdon,Hillingdon,14/12/2018,Conversion
+Hillingdon,Hillingdon,01/04/2018,Conversion
+Camden,Camden,15/03/2018,New Build
+Tower Hamlets,Tower Hamlets,06/03/2018,New Build
+Brent,Brent,11/04/2018,Conversion
+Brent,Brent,06/06/2018,Conversion
+Hillingdon,Hillingdon,24/09/2018,New Build
+Lewisham,Lewisham,01/04/2018,New Build
+Lewisham,Lewisham,01/01/2018,Conversion
+Hillingdon,Hillingdon,05/01/2018,New Build
+Havering,Havering,27/06/2018,New Build
+Wandsworth,Wandsworth,28/02/2018,New Build
+Hillingdon,Hillingdon,31/12/2018,New Build
+Brent,Brent,18/01/2018,Conversion
+Havering,Havering,05/01/2018,New Build
+Lewisham,Lewisham,09/12/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hackney,Hackney,22/12/2018,Conversion
+Camden,Camden,02/07/2018,Conversion
+Wandsworth,Wandsworth,01/04/2018,New Build
+Lewisham,Lewisham,01/07/2018,New Build
+Camden,Camden,26/11/2018,New Build
+Lewisham,Lewisham,13/09/2018,Conversion
+Hillingdon,Hillingdon,13/08/2018,New Build
+Hillingdon,Hillingdon,14/12/2018,New Build
+Hillingdon,Hillingdon,01/04/2018,Conversion
+Wandsworth,Wandsworth,17/05/2018,New Build
+Hackney,Hackney,26/06/2018,Conversion
+Hackney,Hackney,09/02/2018,Conversion
+Camden,Camden,06/10/2018,Conversion
+Redbridge,Redbridge,08/02/2018,New Build
+City of London,City of London,31/03/2018,New Build
+Lewisham,Lewisham,12/06/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Hillingdon,Hillingdon,13/07/2018,New Build
+Redbridge,Redbridge,18/04/2018,New Build
+Redbridge,Redbridge,31/07/2018,Conversion
+Hillingdon,Hillingdon,01/07/2018,Conversion
+Hillingdon,Hillingdon,09/01/2018,Conversion
+Hackney,Hackney,15/05/2018,New Build
+Hackney,Hackney,21/12/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Brent,Brent,05/11/2018,New Build
+Redbridge,Redbridge,28/12/2018,Conversion
+Redbridge,Redbridge,09/03/2018,Conversion
+Wandsworth,Wandsworth,04/04/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+City of London,City of London,30/09/2018,New Build
+Tower Hamlets,Tower Hamlets,03/01/2018,New Build
+Hackney,Hackney,10/10/2018,Conversion
+Redbridge,Redbridge,21/02/2018,Conversion
+Havering,Havering,04/04/2018,New Build
+Camden,Camden,09/08/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hackney,Hackney,05/07/2018,Conversion
+Camden,Camden,18/06/2018,Conversion
+Hackney,Hackney,25/09/2018,Conversion
+Redbridge,Redbridge,08/10/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hillingdon,Hillingdon,01/04/2018,New Build
+Camden,Camden,27/07/2018,Conversion
+Havering,Havering,05/07/2018,New Build
+Hackney,Hackney,01/11/2018,Conversion
+Camden,Camden,16/03/2018,Conversion
+Hackney,Hackney,09/04/2018,Conversion
+Redbridge,Redbridge,19/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Hillingdon,Hillingdon,25/10/2018,New Build
+Redbridge,Redbridge,22/11/2018,New Build
+Havering,Havering,17/12/2018,New Build
+Camden,Camden,27/02/2018,New Build
+Brent,Brent,01/03/2018,Conversion
+Redbridge,Redbridge,10/12/2018,Conversion
+Brent,Brent,08/02/2018,New Build
+Camden,Camden,04/07/2018,Conversion
+Redbridge,Redbridge,27/04/2018,New Build
+Tower Hamlets,Tower Hamlets,09/02/2018,New Build
+Camden,Camden,01/03/2018,New Build
+Redbridge,Redbridge,13/04/2018,New Build
+Brent,Brent,15/02/2018,Conversion
+Wandsworth,Wandsworth,24/10/2018,Conversion
+Camden,Camden,25/04/2018,New Build
+Camden,Camden,17/08/2018,Conversion
+Hackney,Hackney,01/09/2018,New Build
+Wandsworth,Wandsworth,10/07/2018,Conversion
+Tower Hamlets,Tower Hamlets,23/03/2018,New Build
+Camden,Camden,26/04/2018,Conversion
+Merton,Merton,05/02/2018,New Build
+Redbridge,Redbridge,20/04/2018,New Build
+Camden,Camden,01/02/2018,Conversion
+Wandsworth,Wandsworth,05/02/2018,Conversion
+Havering,Havering,27/07/2018,New Build
+Wandsworth,Wandsworth,01/11/2018,New Build
+Hackney,Hackney,01/06/2018,New Build
+Hackney,Hackney,13/06/2018,Conversion
+Redbridge,Redbridge,01/03/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Lewisham,Lewisham,19/12/2018,New Build
+Hackney,Hackney,15/05/2018,New Build
+Lewisham,Lewisham,24/05/2018,New Build
+Hackney,Hackney,11/07/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,03/04/2018,Conversion
+Hackney,Hackney,24/07/2018,New Build
+Lewisham,Lewisham,05/12/2018,New Build
+Camden,Camden,20/02/2018,Conversion
+Camden,Camden,07/12/2018,Conversion
+Lewisham,Lewisham,01/03/2018,Conversion
+City of London,City of London,30/09/2018,New Build
+Merton,Merton,12/02/2018,Conversion
+Hackney,Hackney,23/07/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Brent,Brent,27/06/2018,New Build
+Hackney,Hackney,11/07/2018,Conversion
+Camden,Camden,19/04/2018,New Build
+Camden,Camden,08/03/2018,Conversion
+Camden,Camden,09/04/2018,Conversion
+Hackney,Hackney,14/02/2018,Conversion
+Brent,Brent,04/12/2018,Conversion
+Camden,Camden,01/11/2018,Conversion
+Wandsworth,Wandsworth,20/07/2018,New Build
+Tower Hamlets,Tower Hamlets,04/04/2018,Conversion
+Merton,Merton,01/03/2018,New Build
+Brent,Brent,18/07/2018,Conversion
+Havering,Havering,01/04/2018,New Build
+Redbridge,Redbridge,01/03/2018,Conversion
+Hackney,Hackney,06/08/2018,New Build
+Camden,Camden,06/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Hillingdon,Hillingdon,26/03/2018,Conversion
+Lewisham,Lewisham,10/12/2018,New Build
+Havering,Havering,09/08/2018,New Build
+Havering,Havering,09/08/2018,New Build
+Havering,Havering,22/06/2018,New Build
+Brent,Brent,15/10/2018,Conversion
+Redbridge,Redbridge,27/07/2018,New Build
+Brent,Brent,20/06/2018,Conversion
+Tower Hamlets,Tower Hamlets,26/01/2018,New Build
+Redbridge,Redbridge,31/03/2018,New Build
+Wandsworth,Wandsworth,02/02/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hackney,Hackney,12/02/2018,New Build
+Tower Hamlets,Tower Hamlets,04/05/2018,New Build
+Hackney,Hackney,22/08/2018,Conversion
+Tower Hamlets,Tower Hamlets,09/03/2018,New Build
+Havering,Havering,17/05/2018,New Build
+Hillingdon,Hillingdon,20/10/2018,Conversion
+Wandsworth,Wandsworth,18/11/2018,New Build
+Wandsworth,Wandsworth,04/04/2018,Conversion
+Camden,Camden,22/08/2018,New Build
+Havering,Havering,05/07/2018,New Build
+Lewisham,Lewisham,10/02/2018,New Build
+Camden,Camden,22/10/2018,New Build
+Brent,Brent,05/09/2018,New Build
+Lewisham,Lewisham,01/05/2018,New Build
+Havering,Havering,01/04/2018,New Build
+Wandsworth,Wandsworth,27/12/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,12/01/2018,New Build
+Lewisham,Lewisham,21/09/2018,Conversion
+Havering,Havering,22/08/2018,New Build
+Bromley,Bromley,28/11/2018,New Build
+Newham,Newham,10/09/2018,Conversion
+Richmond,Richmond upon Thames,13/06/2018,New Build
+Enfield,Enfield,02/08/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Southwark,Southwark,01/09/2018,New Build
+Bexley,Bexley,13/07/2018,New Build
+Bexley,Bexley,11/07/2018,Conversion
+Richmond,Richmond upon Thames,22/03/2018,New Build
+Sutton,Sutton,01/01/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Westminster,Westminster,31/03/2018,Conversion
+Ealing,Ealing,15/01/2018,Conversion
+Westminster,Westminster,30/03/2018,New Build
+Croydon,Croydon,10/08/2018,New Build
+Sutton,Sutton,31/03/2018,Conversion
+Lambeth,Lambeth,01/02/2018,Conversion
+Westminster,Westminster,05/11/2018,Conversion
+Bexley,Bexley,13/07/2018,Conversion
+Bromley,Bromley,02/08/2018,Conversion
+Bexley,Bexley,11/10/2018,New Build
+Lambeth,Lambeth,01/11/2018,Conversion
+Westminster,Westminster,10/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,02/05/2018,Conversion
+Croydon,Croydon,08/08/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Lambeth,Lambeth,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,24/04/2018,Conversion
+Kingston,Kingston upon Thames,15/12/2018,New Build
+Lambeth,Lambeth,01/04/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,29/03/2018,Conversion
+Westminster,Westminster,01/07/2018,New Build
+Barnet,Barnet,01/01/2018,Conversion
+Barnet,Barnet,20/08/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Southwark,Southwark,01/12/2018,New Build
+Ealing,Ealing,01/02/2018,Conversion
+Kingston,Kingston upon Thames,11/05/2018,Conversion
+Ealing,Ealing,15/05/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,08/02/2018,Conversion
+Kingston,Kingston upon Thames,30/08/2018,New Build
+Sutton,Sutton,01/06/2018,New Build
+Enfield,Enfield,01/05/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Ealing,Ealing,01/03/2018,Conversion
+Richmond,Richmond upon Thames,31/08/2018,New Build
+Bromley,Bromley,12/03/2018,New Build
+Lambeth,Lambeth,16/08/2018,New Build
+Bromley,Bromley,06/11/2018,New Build
+Ealing,Ealing,01/03/2018,Conversion
+Croydon,Croydon,16/10/2018,New Build
+Newham,Newham,20/12/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/12/2018,Conversion
+Ealing,Ealing,01/05/2018,New Build
+Bexley,Bexley,05/06/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Barnet,Barnet,22/05/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,21/11/2018,Conversion
+Sutton,Sutton,31/08/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Ealing,Ealing,20/03/2018,New Build
+Bromley,Bromley,12/03/2018,Conversion
+Croydon,Croydon,09/05/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Southwark,Southwark,10/10/2018,New Build
+Westminster,Westminster,01/03/2018,New Build
+Croydon,Croydon,09/08/2018,New Build
+Kingston,Kingston upon Thames,30/05/2018,New Build
+Southwark,Southwark,01/02/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Barnet,Barnet,07/12/2018,New Build
+Sutton,Sutton,30/04/2018,Conversion
+Barnet,Barnet,01/01/2018,New Build
+Richmond,Richmond upon Thames,02/07/2018,New Build
+Bexley,Bexley,21/06/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Newham,Newham,18/12/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Ealing,Ealing,09/07/2018,New Build
+Ealing,Ealing,14/05/2018,New Build
+Enfield,Enfield,08/08/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Sutton,Sutton,01/04/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,19/06/2018,Conversion
+Newham,Newham,04/10/2018,Conversion
+Barnet,Barnet,01/05/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Lambeth,Lambeth,08/12/2018,New Build
+Ealing,Ealing,15/12/2018,Conversion
+Croydon,Croydon,26/09/2018,New Build
+Bexley,Bexley,27/07/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/07/2018,Conversion
+Southwark,Southwark,01/08/2018,New Build
+Ealing,Ealing,01/07/2018,Conversion
+Bexley,Bexley,09/04/2018,New Build
+Ealing,Ealing,09/08/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Barnet,Barnet,16/08/2018,New Build
+Bromley,Bromley,24/01/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Croydon,Croydon,15/08/2018,New Build
+Southwark,Southwark,23/08/2018,Conversion
+Croydon,Croydon,14/08/2018,New Build
+Kingston,Kingston upon Thames,28/02/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Lambeth,Lambeth,08/10/2018,Conversion
+Sutton,Sutton,01/06/2018,New Build
+Westminster,Westminster,06/07/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Croydon,Croydon,01/01/2018,New Build
+Ealing,Ealing,26/02/2018,New Build
+Barnet,Barnet,21/11/2018,New Build
+Lambeth,Lambeth,29/11/2018,Conversion
+Sutton,Sutton,21/11/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,25/10/2018,Conversion
+Bromley,Bromley,01/05/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Bromley,Bromley,31/01/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Westminster,Westminster,16/11/2018,New Build
+Sutton,Sutton,23/02/2018,Conversion
+Sutton,Sutton,01/07/2018,New Build
+Kingston,Kingston upon Thames,10/09/2018,Conversion
+Westminster,Westminster,01/04/2018,Conversion
+Lambeth,Lambeth,01/09/2018,Conversion
+Kingston,Kingston upon Thames,17/08/2018,New Build
+Ealing,Ealing,01/09/2018,New Build
+Sutton,Sutton,01/03/2018,New Build
+Bexley,Bexley,27/07/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,04/05/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/03/2018,Conversion
+Barnet,Barnet,04/04/2018,New Build
+Sutton,Sutton,01/01/2018,Conversion
+Southwark,Southwark,07/08/2018,New Build
+Croydon,Croydon,14/08/2018,New Build
+Ealing,Ealing,09/03/2018,New Build
+Newham,Newham,03/05/2018,Conversion
+Croydon,Croydon,02/08/2018,New Build
+Southwark,Southwark,16/07/2018,New Build
+Croydon,Croydon,05/03/2018,New Build
+Newham,Newham,16/05/2018,Conversion
+Enfield,Enfield,31/03/2018,New Build
+Croydon,Croydon,28/09/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/07/2018,Conversion
+Sutton,Sutton,31/03/2018,Conversion
+Lambeth,Lambeth,15/12/2018,New Build
+Westminster,Westminster,20/03/2018,New Build
+Ealing,Ealing,01/02/2018,Conversion
+Kingston,Kingston upon Thames,21/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,19/06/2018,Conversion
+Croydon,Croydon,18/03/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Lambeth,Lambeth,01/10/2018,Conversion
+Kingston,Kingston upon Thames,06/12/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,18/01/2018,Conversion
+Kingston,Kingston upon Thames,10/07/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/01/2018,Conversion
+Lambeth,Lambeth,04/07/2018,Conversion
+Bexley,Bexley,06/02/2018,New Build
+Westminster,Westminster,08/04/2018,New Build
+Croydon,Croydon,16/07/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,05/08/2018,Conversion
+Westminster,Westminster,01/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Sutton,Sutton,01/05/2018,New Build
+Barnet,Barnet,14/08/2018,Conversion
+Bexley,Bexley,02/07/2018,New Build
+Bexley,Bexley,27/07/2018,Conversion
+Richmond,Richmond upon Thames,31/08/2018,New Build
+Richmond,Richmond upon Thames,31/08/2018,New Build
+Southwark,Southwark,31/12/2018,Conversion
+Croydon,Croydon,10/08/2018,New Build
+Westminster,Westminster,09/03/2018,New Build
+Kingston,Kingston upon Thames,22/01/2018,New Build
+Bexley,Bexley,14/05/2018,New Build
+Croydon,Croydon,19/06/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Richmond,Richmond upon Thames,31/08/2018,New Build
+Barnet,Barnet,01/03/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Sutton,Sutton,01/04/2018,Conversion
+Sutton,Sutton,31/03/2018,Conversion
+Bexley,Bexley,16/02/2018,Conversion
+Kingston,Kingston upon Thames,14/09/2018,New Build
+Richmond,Richmond upon Thames,31/07/2018,New Build
+Southwark,Southwark,01/12/2018,New Build
+Westminster,Westminster,19/07/2018,New Build
+Croydon,Croydon,18/12/2018,Conversion
+Newham,Newham,16/07/2018,Conversion
+Newham,Newham,03/05/2018,Conversion
+Lambeth,Lambeth,11/12/2018,Conversion
+Croydon,Croydon,08/08/2018,New Build
+Ealing,Ealing,20/12/2018,Conversion
+Westminster,Westminster,31/01/2018,Conversion
+Kingston,Kingston upon Thames,22/11/2018,Conversion
+Westminster,Westminster,01/09/2018,Conversion
+Barnet,Barnet,01/05/2018,Conversion
+Lambeth,Lambeth,01/04/2018,Conversion
+Croydon,Croydon,10/05/2018,New Build
+Southwark,Southwark,31/12/2018,New Build
+Richmond,Richmond upon Thames,18/04/2018,Conversion
+Enfield,Enfield,25/07/2018,Conversion
+Lambeth,Lambeth,02/07/2018,New Build
+Richmond,Richmond upon Thames,07/11/2018,Conversion
+Richmond,Richmond upon Thames,01/12/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Newham,Newham,24/09/2018,Conversion
+Bromley,Bromley,26/06/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Southwark,Southwark,08/08/2018,New Build
+Richmond,Richmond upon Thames,31/07/2018,New Build
+Ealing,Ealing,14/05/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Croydon,Croydon,10/05/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,03/10/2018,Conversion
+Barnet,Barnet,15/03/2018,New Build
+Kingston,Kingston upon Thames,14/06/2018,New Build
+Lambeth,Lambeth,10/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,30/03/2018,New Build
+Richmond,Richmond upon Thames,02/07/2018,New Build
+Croydon,Croydon,05/09/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Westminster,Westminster,11/07/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Barnet,Barnet,06/11/2018,Conversion
+Lambeth,Lambeth,10/06/2018,Conversion
+Westminster,Westminster,09/10/2018,New Build
+Ealing,Ealing,16/05/2018,Conversion
+Lambeth,Lambeth,17/11/2018,New Build
+Kingston,Kingston upon Thames,16/04/2018,New Build
+Westminster,Westminster,04/09/2018,Conversion
+Barnet,Barnet,21/12/2018,Conversion
+Barnet,Barnet,11/05/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Bexley,Bexley,11/07/2018,New Build
+Lambeth,Lambeth,26/07/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,27/03/2018,Conversion
+Ealing,Ealing,15/06/2018,Conversion
+Barnet,Barnet,17/07/2018,Conversion
+Southwark,Southwark,02/08/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Newham,Newham,31/03/2018,New Build
+Sutton,Sutton,31/03/2018,Conversion
+Ealing,Ealing,01/10/2018,Conversion
+Bexley,Bexley,27/07/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,08/05/2018,Conversion
+Barnet,Barnet,01/01/2018,New Build
+Bromley,Bromley,27/09/2018,Conversion
+Barnet,Barnet,01/09/2018,Conversion
+Westminster,Westminster,07/05/2018,Conversion
+Kingston,Kingston upon Thames,14/12/2018,New Build
+Barnet,Barnet,07/02/2018,New Build
+Bromley,Bromley,22/12/2018,New Build
+Lambeth,Lambeth,28/02/2018,Conversion
+Southwark,Southwark,15/05/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Ealing,Ealing,16/03/2018,Conversion
+Westminster,Westminster,02/05/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,09/03/2018,Conversion
+Bromley,Bromley,17/10/2018,New Build
+Barnet,Barnet,09/08/2018,New Build
+Bexley,Bexley,22/08/2018,New Build
+Ealing,Ealing,02/06/2018,New Build
+Westminster,Westminster,12/12/2018,Conversion
+Lambeth,Lambeth,15/12/2018,Conversion
+Newham,Newham,21/09/2018,Conversion
+Kingston,Kingston upon Thames,06/12/2018,New Build
+Lambeth,Lambeth,25/01/2018,Conversion
+Barnet,Barnet,08/03/2018,New Build
+Barnet,Barnet,02/05/2018,Conversion
+Bromley,Bromley,05/06/2018,New Build
+Lambeth,Lambeth,18/11/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Kingston,Kingston upon Thames,06/08/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Southwark,Southwark,20/07/2018,New Build
+Kingston,Kingston upon Thames,19/11/2018,Conversion
+Westminster,Westminster,08/03/2018,New Build
+Lambeth,Lambeth,29/11/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,26/06/2018,Conversion
+Bexley,Bexley,01/10/2018,New Build
+Newham,Newham,15/11/2018,Conversion
+Southwark,Southwark,10/08/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Westminster,Westminster,01/04/2018,Conversion
+Westminster,Westminster,01/12/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,20/03/2018,New Build
+Croydon,Croydon,25/04/2018,New Build
+Barnet,Barnet,14/06/2018,Conversion
+Barnet,Barnet,01/01/2018,Conversion
+Kingston,Kingston upon Thames,17/05/2018,New Build
+Sutton,Sutton,01/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,23/07/2018,Conversion
+Westminster,Westminster,01/10/2018,Conversion
+Barnet,Barnet,01/01/2018,Conversion
+Westminster,Westminster,01/04/2018,Conversion
+Barnet,Barnet,01/06/2018,Conversion
+Sutton,Sutton,01/03/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,19/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,26/06/2018,Conversion
+Enfield,Enfield,02/08/2018,New Build
+Bromley,Bromley,07/11/2018,Conversion
+Richmond,Richmond upon Thames,07/12/2018,Conversion
+Westminster,Westminster,01/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,21/02/2018,New Build
+Enfield,Enfield,01/01/2018,New Build
+Lambeth,Lambeth,29/08/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Croydon,Croydon,13/03/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Lambeth,Lambeth,09/07/2018,Conversion
+Newham,Newham,31/03/2018,New Build
+Kingston,Kingston upon Thames,23/10/2018,Conversion
+Westminster,Westminster,10/08/2018,Conversion
+Bexley,Bexley,22/03/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Hackney,Hackney,10/07/2018,Conversion
+Wandsworth,Wandsworth,22/10/2018,New Build
+Wandsworth,Wandsworth,01/09/2018,New Build
+Camden,Camden,08/08/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Brent,Brent,12/04/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hillingdon,Hillingdon,27/04/2018,Conversion
+Camden,Camden,22/02/2018,Conversion
+Camden,Camden,10/07/2018,New Build
+Hackney,Hackney,13/08/2018,New Build
+Havering,Havering,25/05/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Lewisham,Lewisham,08/02/2018,Conversion
+Camden,Camden,31/03/2018,New Build
+Tower Hamlets,Tower Hamlets,19/09/2018,New Build
+Havering,Havering,09/08/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Havering,Havering,06/06/2018,New Build
+Wandsworth,Wandsworth,12/04/2018,New Build
+Merton,Merton,01/02/2018,New Build
+Lewisham,Lewisham,20/11/2018,Conversion
+Hackney,Hackney,30/05/2018,New Build
+Tower Hamlets,Tower Hamlets,13/03/2018,New Build
+Camden,Camden,11/05/2018,New Build
+Hackney,Hackney,14/02/2018,Conversion
+Camden,Camden,24/05/2018,New Build
+Hillingdon,Hillingdon,22/01/2018,Conversion
+Brent,Brent,16/07/2018,Conversion
+Camden,Camden,30/08/2018,Conversion
+Hackney,Hackney,08/02/2018,New Build
+Merton,Merton,01/02/2018,New Build
+Brent,Brent,27/04/2018,Conversion
+Redbridge,Redbridge,18/06/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Camden,Camden,01/04/2018,New Build
+Merton,Merton,01/03/2018,New Build
+Brent,Brent,18/05/2018,Conversion
+Wandsworth,Wandsworth,18/07/2018,Conversion
+Hackney,Hackney,12/08/2018,Conversion
+Hillingdon,Hillingdon,16/01/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Hillingdon,Hillingdon,17/12/2018,New Build
+Redbridge,Redbridge,10/09/2018,Conversion
+Wandsworth,Wandsworth,26/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Camden,Camden,04/01/2018,Conversion
+LLDC,Hackney,15/02/2018,New Build
+Brent,Brent,19/02/2018,Conversion
+OPDC,Ealing,10/12/2018,Conversion
+Brent,Brent,26/10/2018,Conversion
+Lewisham,Lewisham,21/09/2018,Conversion
+Hillingdon,Hillingdon,08/02/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Havering,Havering,19/07/2018,New Build
+Hackney,Hackney,20/06/2018,New Build
+Hillingdon,Hillingdon,19/12/2018,New Build
+Camden,Camden,01/07/2018,New Build
+Hillingdon,Hillingdon,11/01/2018,New Build
+Hackney,Hackney,12/02/2018,Conversion
+Havering,Havering,01/04/2018,Conversion
+Lewisham,Lewisham,27/11/2018,Conversion
+LLDC,Newham,18/10/2018,Conversion
+LLDC,Newham,05/04/2018,New Build
+Havering,Havering,27/07/2018,New Build
+Hackney,Hackney,03/04/2018,New Build
+Hackney,Hackney,03/05/2018,New Build
+Havering,Havering,15/11/2018,Conversion
+Havering,Havering,01/04/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Wandsworth,Wandsworth,03/12/2018,Conversion
+Wandsworth,Wandsworth,01/03/2018,Conversion
+Redbridge,Redbridge,06/04/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Redbridge,Redbridge,07/08/2018,New Build
+Redbridge,Redbridge,09/11/2018,Conversion
+Merton,Merton,01/01/2018,Conversion
+Havering,Havering,09/08/2018,New Build
+Wandsworth,Wandsworth,06/04/2018,Conversion
+LLDC,Hackney,01/12/2018,Conversion
+Hillingdon,Hillingdon,12/06/2018,New Build
+Hillingdon,Hillingdon,25/01/2018,New Build
+Camden,Camden,29/05/2018,Conversion
+Havering,Havering,14/08/2018,New Build
+Camden,Camden,12/04/2018,New Build
+Camden,Camden,07/08/2018,New Build
+Brent,Brent,22/06/2018,Conversion
+Camden,Camden,21/08/2018,New Build
+Brent,Brent,20/06/2018,New Build
+Tower Hamlets,Tower Hamlets,01/08/2018,New Build
+Havering,Havering,11/07/2018,New Build
+Camden,Camden,01/06/2018,New Build
+Tower Hamlets,Tower Hamlets,10/01/2018,Conversion
+Redbridge,Redbridge,03/12/2018,New Build
+Wandsworth,Wandsworth,24/01/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Redbridge,Redbridge,12/03/2018,Conversion
+Camden,Camden,01/04/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Havering,Havering,01/04/2018,Conversion
+Camden,Camden,01/04/2018,New Build
+Camden,Camden,23/01/2018,Conversion
+Redbridge,Redbridge,27/07/2018,New Build
+Redbridge,Redbridge,01/10/2018,Conversion
+Wandsworth,Wandsworth,03/08/2018,Conversion
+Camden,Camden,24/07/2018,New Build
+Hillingdon,Hillingdon,10/12/2018,Conversion
+Camden,Camden,01/04/2018,Conversion
+Brent,Brent,10/07/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hillingdon,Hillingdon,08/11/2018,New Build
+Lewisham,Lewisham,01/06/2018,New Build
+Camden,Camden,02/01/2018,Conversion
+Camden,Camden,21/03/2018,Conversion
+Merton,Merton,16/03/2018,New Build
+Merton,Merton,31/01/2018,New Build
+Brent,Brent,23/05/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Havering,Havering,09/08/2018,New Build
+Camden,Camden,17/07/2018,New Build
+Hackney,Hackney,20/07/2018,Conversion
+Redbridge,Redbridge,17/12/2018,New Build
+Camden,Camden,31/03/2018,New Build
+Havering,Havering,07/06/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Redbridge,Redbridge,13/12/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Camden,Camden,31/03/2018,New Build
+Lewisham,Lewisham,01/05/2018,New Build
+Brent,Brent,20/06/2018,Conversion
+Redbridge,Redbridge,23/03/2018,Conversion
+Brent,Brent,19/07/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Havering,Havering,01/04/2018,New Build
+Tower Hamlets,Tower Hamlets,12/09/2018,Conversion
+Havering,Havering,17/07/2018,New Build
+Havering,Havering,08/06/2018,Conversion
+Havering,Havering,01/04/2018,Conversion
+Camden,Camden,26/03/2018,Conversion
+Tower Hamlets,Tower Hamlets,27/09/2018,New Build
+LLDC,Tower Hamlets,01/08/2018,New Build
+Brent,Brent,14/02/2018,Conversion
+Hackney,Hackney,22/10/2018,Conversion
+Redbridge,Redbridge,22/11/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hillingdon,Hillingdon,09/07/2018,New Build
+Brent,Brent,31/10/2018,Conversion
+Hackney,Hackney,19/05/2018,Conversion
+Tower Hamlets,Tower Hamlets,05/06/2018,New Build
+Redbridge,Redbridge,22/02/2018,Conversion
+Lewisham,Lewisham,08/08/2018,Conversion
+Tower Hamlets,Tower Hamlets,13/03/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Brent,Brent,11/10/2018,New Build
+Hillingdon,Hillingdon,01/01/2018,Conversion
+Hillingdon,Hillingdon,10/04/2018,Conversion
+Lewisham,Lewisham,08/08/2018,New Build
+City of London,City of London,31/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Brent,Brent,31/03/2018,New Build
+Hackney,Hackney,08/01/2018,Conversion
+Wandsworth,Wandsworth,15/10/2018,Conversion
+Redbridge,Redbridge,05/01/2018,Conversion
+Havering,Havering,17/05/2018,New Build
+Hackney,Hackney,16/08/2018,New Build
+Lewisham,Lewisham,22/03/2018,Conversion
+Brent,Brent,20/06/2018,New Build
+Havering,Havering,09/08/2018,New Build
+Brent,Brent,09/10/2018,New Build
+Havering,Havering,08/02/2018,New Build
+Havering,Havering,01/04/2018,New Build
+Redbridge,Redbridge,26/07/2018,New Build
+Tower Hamlets,Tower Hamlets,23/01/2018,New Build
+Hackney,Hackney,05/04/2018,Conversion
+Camden,Camden,01/04/2018,New Build
+Redbridge,Redbridge,09/04/2018,New Build
+Wandsworth,Wandsworth,11/01/2018,Conversion
+Hackney,Hackney,21/04/2018,Conversion
+Sutton,Sutton,01/09/2018,New Build
+Barnet,Barnet,01/09/2018,Conversion
+Lambeth,Lambeth,30/07/2018,New Build
+Lambeth,Lambeth,05/09/2018,New Build
+Newham,Newham,09/04/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Lambeth,Lambeth,20/01/2018,New Build
+Southwark,Southwark,07/08/2018,New Build
+Westminster,Westminster,18/12/2018,Conversion
+Lambeth,Lambeth,10/12/2018,Conversion
+Newham,Newham,12/02/2018,Conversion
+Lambeth,Lambeth,10/03/2018,Conversion
+Westminster,Westminster,03/07/2018,Conversion
+Enfield,Enfield,01/12/2018,New Build
+Richmond,Richmond upon Thames,09/11/2018,Conversion
+Croydon,Croydon,03/08/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Ealing,Ealing,17/12/2018,Conversion
+Barnet,Barnet,05/03/2018,Conversion
+Enfield,Enfield,20/07/2018,New Build
+Bromley,Bromley,11/05/2018,New Build
+Lambeth,Lambeth,16/11/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Lambeth,Lambeth,08/11/2018,New Build
+Sutton,Sutton,01/09/2018,New Build
+Croydon,Croydon,20/06/2018,Conversion
+Bromley,Bromley,19/01/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Lambeth,Lambeth,16/07/2018,New Build
+Richmond,Richmond upon Thames,03/04/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,06/12/2018,Conversion
+Ealing,Ealing,19/02/2018,New Build
+Bromley,Bromley,15/08/2018,Conversion
+Croydon,Croydon,01/05/2018,New Build
+Ealing,Ealing,15/01/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Croydon,Croydon,28/10/2018,Conversion
+Lambeth,Lambeth,09/10/2018,Conversion
+Croydon,Croydon,04/10/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,New Build
+Bromley,Bromley,24/12/2018,New Build
+Lambeth,Lambeth,31/03/2018,New Build
+Croydon,Croydon,15/08/2018,New Build
+Ealing,Ealing,01/07/2018,New Build
+Bexley,Bexley,13/07/2018,New Build
+Westminster,Westminster,15/08/2018,New Build
+Bexley,Bexley,05/09/2018,New Build
+Ealing,Ealing,11/11/2018,New Build
+Bexley,Bexley,22/10/2018,New Build
+Croydon,Croydon,10/12/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,23/01/2018,Conversion
+Bromley,Bromley,31/03/2018,New Build
+Newham,Newham,24/09/2018,Conversion
+Lambeth,Lambeth,17/11/2018,New Build
+Croydon,Croydon,17/10/2018,Conversion
+Westminster,Westminster,01/04/2018,Conversion
+Bexley,Bexley,17/09/2018,New Build
+Barnet,Barnet,01/05/2018,New Build
+Bexley,Bexley,11/06/2018,Conversion
+Barnet,Barnet,21/08/2018,New Build
+Lambeth,Lambeth,31/10/2018,Conversion
+Newham,Newham,20/11/2018,Conversion
+Southwark,Southwark,15/10/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Kingston,Kingston upon Thames,08/08/2018,Conversion
+Barnet,Barnet,18/05/2018,New Build
+Ealing,Ealing,01/06/2018,Conversion
+Barnet,Barnet,27/04/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Sutton,Sutton,01/03/2018,Conversion
+Ealing,Ealing,01/02/2018,Conversion
+Croydon,Croydon,08/08/2018,New Build
+Newham,Newham,13/03/2018,Conversion
+Westminster,Westminster,17/08/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Sutton,Sutton,01/04/2018,New Build
+Ealing,Ealing,01/06/2018,Conversion
+Southwark,Southwark,26/04/2018,Conversion
+Bexley,Bexley,14/05/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,30/03/2018,Conversion
+Barnet,Barnet,12/07/2018,Conversion
+Barnet,Barnet,01/06/2018,Conversion
+Barnet,Barnet,01/11/2018,New Build
+Newham,Newham,19/01/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Southwark,Southwark,01/01/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Lambeth,Lambeth,15/03/2018,Conversion
+Ealing,Ealing,17/07/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,07/03/2018,Conversion
+Sutton,Sutton,01/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,10/12/2018,Conversion
+Southwark,Southwark,01/05/2018,Conversion
+Ealing,Ealing,01/03/2018,Conversion
+Southwark,Southwark,20/12/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,05/10/2018,Conversion
+Kingston,Kingston upon Thames,21/07/2018,Conversion
+Kingston,Kingston upon Thames,01/08/2018,Conversion
+Kingston,Kingston upon Thames,03/07/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Bexley,Bexley,11/05/2018,Conversion
+Croydon,Croydon,24/04/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,05/12/2018,Conversion
+Barnet,Barnet,31/12/2018,Conversion
+Westminster,Westminster,08/02/2018,New Build
+Lambeth,Lambeth,11/05/2018,Conversion
+Croydon,Croydon,25/04/2018,New Build
+Bexley,Bexley,14/02/2018,Conversion
+Ealing,Ealing,12/07/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Westminster,Westminster,02/05/2018,New Build
+Barnet,Barnet,01/01/2018,New Build
+Kingston,Kingston upon Thames,21/11/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,23/08/2018,Conversion
+Barnet,Barnet,20/03/2018,Conversion
+Barnet,Barnet,23/05/2018,New Build
+Ealing,Ealing,01/02/2018,Conversion
+Lambeth,Lambeth,19/06/2018,Conversion
+Richmond,Richmond upon Thames,20/09/2018,Conversion
+Croydon,Croydon,16/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Bromley,Bromley,08/08/2018,Conversion
+Southwark,Southwark,03/10/2018,Conversion
+Westminster,Westminster,07/02/2018,New Build
+Lambeth,Lambeth,07/02/2018,New Build
+Croydon,Croydon,01/01/2018,New Build
+Westminster,Westminster,30/06/2018,New Build
+Southwark,Southwark,11/07/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Southwark,Southwark,01/08/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Bexley,Bexley,12/12/2018,New Build
+Bromley,Bromley,19/11/2018,Conversion
+Barnet,Barnet,18/09/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Croydon,Croydon,13/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,16/03/2018,Conversion
+Enfield,Enfield,01/05/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Lambeth,Lambeth,15/11/2018,Conversion
+Bromley,Bromley,04/04/2018,Conversion
+Southwark,Southwark,01/08/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Barnet,Barnet,21/02/2018,Conversion
+Newham,Newham,04/06/2018,Conversion
+Barnet,Barnet,01/10/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,05/11/2018,Conversion
+Ealing,Ealing,26/03/2018,New Build
+Bromley,Bromley,06/04/2018,New Build
+Barnet,Barnet,01/04/2018,New Build
+Sutton,Sutton,06/09/2018,New Build
+Westminster,Westminster,20/03/2018,New Build
+Ealing,Ealing,15/11/2018,Conversion
+Croydon,Croydon,20/11/2018,Conversion
+Ealing,Ealing,01/09/2018,Conversion
+Bexley,Bexley,19/10/2018,New Build
+Richmond,Richmond upon Thames,29/06/2018,Conversion
+Lambeth,Lambeth,01/06/2018,New Build
+Kingston,Kingston upon Thames,11/12/2018,New Build
+Barnet,Barnet,01/12/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,19/06/2018,Conversion
+Lambeth,Lambeth,23/05/2018,New Build
+Westminster,Westminster,12/09/2018,Conversion
+Bromley,Bromley,31/10/2018,New Build
+Westminster,Westminster,01/11/2018,Conversion
+Enfield,Enfield,22/08/2018,Conversion
+Lambeth,Lambeth,10/10/2018,Conversion
+Enfield,Enfield,01/12/2018,New Build
+Richmond,Richmond upon Thames,01/03/2018,Conversion
+Bromley,Bromley,31/01/2018,Conversion
+Barnet,Barnet,24/04/2018,New Build
+Bexley,Bexley,27/03/2018,New Build
+Croydon,Croydon,15/08/2018,New Build
+Enfield,Enfield,26/12/2018,Conversion
+Ealing,Ealing,01/04/2018,Conversion
+Bexley,Bexley,29/03/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Kingston,Kingston upon Thames,06/12/2018,New Build
+Barnet,Barnet,01/03/2018,New Build
+Barnet,Barnet,30/07/2018,Conversion
+Bexley,Bexley,23/11/2018,Conversion
+Southwark,Southwark,31/12/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Barnet,Barnet,01/05/2018,Conversion
+Barnet,Barnet,10/08/2018,New Build
+Richmond,Richmond upon Thames,29/06/2018,Conversion
+Bexley,Bexley,30/07/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Enfield,Enfield,30/03/2018,New Build
+Bromley,Bromley,26/06/2018,New Build
+Barnet,Barnet,01/05/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,30/07/2018,Conversion
+Newham,Newham,31/03/2018,New Build
+Barnet,Barnet,04/04/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Ealing,Ealing,01/04/2018,Conversion
+Bromley,Bromley,10/07/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Newham,Newham,19/07/2018,Conversion
+Barnet,Barnet,28/11/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,16/03/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Ealing,Ealing,03/09/2018,Conversion
+Lambeth,Lambeth,10/09/2018,Conversion
+Barnet,Barnet,01/08/2018,New Build
+Barnet,Barnet,19/12/2018,Conversion
+Kingston,Kingston upon Thames,21/09/2018,New Build
+Sutton,Sutton,01/03/2018,New Build
+Bromley,Bromley,14/05/2018,New Build
+Westminster,Westminster,01/06/2018,Conversion
+Barnet,Barnet,01/05/2018,New Build
+Croydon,Croydon,04/07/2018,New Build
+Enfield,Enfield,01/04/2018,Conversion
+Croydon,Croydon,22/11/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Ealing,Ealing,15/02/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,25/06/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Westminster,Westminster,11/06/2018,Conversion
+Southwark,Southwark,01/05/2018,Conversion
+Southwark,Southwark,31/12/2018,New Build
+Bromley,Bromley,14/12/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Bromley,Bromley,28/11/2018,New Build
+Lambeth,Lambeth,20/12/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Croydon,Croydon,03/10/2018,Conversion
+Kingston,Kingston upon Thames,21/11/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,06/07/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Sutton,Sutton,01/03/2018,New Build
+Croydon,Croydon,13/01/2018,New Build
+Barnet,Barnet,30/04/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Sutton,Sutton,01/05/2018,Conversion
+Westminster,Westminster,21/11/2018,New Build
+Kingston,Kingston upon Thames,13/07/2018,New Build
+Lambeth,Lambeth,31/03/2018,Conversion
+Barnet,Barnet,01/01/2018,Conversion
+Bromley,Bromley,25/04/2018,Conversion
+Barnet,Barnet,28/08/2018,Conversion
+Lambeth,Lambeth,16/03/2018,New Build
+Croydon,Croydon,03/08/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Barnet,Barnet,01/06/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Croydon,Croydon,12/12/2018,New Build
+Newham,Newham,27/06/2018,Conversion
+Ealing,Ealing,11/04/2018,Conversion
+Bexley,Bexley,19/12/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Southwark,Southwark,01/08/2018,New Build
+Barnet,Barnet,22/09/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,09/07/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,26/06/2018,Conversion
+Barnet,Barnet,05/04/2018,New Build
+Sutton,Sutton,01/08/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Barnet,Barnet,18/05/2018,Conversion
+Enfield,Enfield,22/08/2018,New Build
+Sutton,Sutton,31/03/2018,Conversion
+Bexley,Bexley,07/12/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Sutton,Sutton,09/11/2018,Conversion
+Newham,Newham,31/03/2018,New Build
+Enfield,Enfield,08/08/2018,New Build
+Newham,Newham,28/06/2018,Conversion
+Kingston,Kingston upon Thames,30/11/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Kingston,Kingston upon Thames,26/04/2018,New Build
+Enfield,Enfield,01/01/2018,New Build
+Richmond,Richmond upon Thames,23/11/2018,New Build
+Ealing,Ealing,27/06/2018,Conversion
+Barnet,Barnet,01/04/2018,Conversion
+Lambeth,Lambeth,29/10/2018,Conversion
+Croydon,Croydon,01/03/2018,Conversion
+Barnet,Barnet,05/04/2018,New Build
+Bromley,Bromley,12/06/2018,New Build
+Lambeth,Lambeth,01/06/2018,New Build
+Southwark,Southwark,04/04/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Westminster,Westminster,01/06/2018,Conversion
+Croydon,Croydon,18/12/2018,Conversion
+Richmond,Richmond upon Thames,08/06/2018,New Build
+Lambeth,Lambeth,01/05/2018,Conversion
+Bromley,Bromley,23/02/2018,Conversion
+Sutton,Sutton,31/03/2018,Conversion
+Croydon,Croydon,26/07/2018,Conversion
+Lambeth,Lambeth,20/11/2018,New Build
+Croydon,Croydon,03/08/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Croydon,Croydon,16/05/2018,New Build
+Southwark,Southwark,31/01/2018,Conversion
+Kingston,Kingston upon Thames,11/09/2018,New Build
+Richmond,Richmond upon Thames,14/07/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Kingston,Kingston upon Thames,02/02/2018,New Build
+Westminster,Westminster,17/06/2018,Conversion
+Sutton,Sutton,01/08/2018,New Build
+Southwark,Southwark,31/12/2018,New Build
+Lambeth,Lambeth,29/01/2018,New Build
+Barnet,Barnet,01/12/2018,New Build
+Barnet,Barnet,01/12/2018,New Build
+Enfield,Enfield,02/08/2018,New Build
+Lambeth,Lambeth,07/09/2018,Conversion
+Kingston,Kingston upon Thames,18/01/2018,New Build
+Southwark,Southwark,16/07/2018,New Build
+Westminster,Westminster,05/09/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Kingston,Kingston upon Thames,10/08/2018,New Build
+Enfield,Enfield,02/08/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Bexley,Bexley,01/10/2018,New Build
+Richmond,Richmond upon Thames,10/05/2018,New Build
+Bexley,Bexley,12/03/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Westminster,Westminster,02/03/2018,New Build
+Barnet,Barnet,08/08/2018,New Build
+Lambeth,Lambeth,01/11/2018,Conversion
+Enfield,Enfield,02/08/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Barnet,Barnet,26/09/2018,Conversion
+Southwark,Southwark,01/03/2018,New Build
+Kingston,Kingston upon Thames,01/03/2018,New Build
+Lambeth,Lambeth,02/10/2018,Conversion
+Sutton,Sutton,31/03/2018,Conversion
+Newham,Newham,31/03/2018,New Build
+Barnet,Barnet,01/05/2018,Conversion
+Bexley,Bexley,18/06/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Barnet,Barnet,17/10/2018,New Build
+Bromley,Bromley,01/03/2018,Conversion
+Ealing,Ealing,01/04/2018,Conversion
+Bexley,Bexley,09/09/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Sutton,Sutton,01/08/2018,New Build
+Ealing,Ealing,21/12/2018,New Build
+Newham,Newham,24/09/2018,Conversion
+Barnet,Barnet,05/09/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Croydon,Croydon,30/07/2018,New Build
+Lambeth,Lambeth,12/10/2018,Conversion
+Bromley,Bromley,10/05/2018,New Build
+Kingston,Kingston upon Thames,05/04/2018,Conversion
+Enfield,Enfield,08/08/2018,New Build
+Richmond,Richmond upon Thames,29/01/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Kingston,Kingston upon Thames,10/12/2018,New Build
+Kingston,Kingston upon Thames,06/10/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Newham,Newham,02/02/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Croydon,Croydon,07/06/2018,New Build
+Barnet,Barnet,01/06/2018,New Build
+Ealing,Ealing,01/12/2018,New Build
+Richmond,Richmond upon Thames,31/08/2018,New Build
+Ealing,Ealing,14/08/2018,Conversion
+Ealing,Ealing,15/04/2018,Conversion
+Richmond,Richmond upon Thames,16/05/2018,New Build
+Croydon,Croydon,31/05/2018,Conversion
+Southwark,Southwark,17/08/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,26/06/2018,Conversion
+Barnet,Barnet,06/08/2018,Conversion
+Barnet,Barnet,19/06/2018,Conversion
+Richmond,Richmond upon Thames,01/03/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Kingston,Kingston upon Thames,01/04/2018,New Build
+Enfield,Enfield,01/01/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,29/01/2018,Conversion
+Newham,Newham,26/09/2018,Conversion
+Bexley,Bexley,13/11/2018,New Build
+Bromley,Bromley,29/05/2018,New Build
+Bromley,Bromley,20/10/2018,Conversion
+Westminster,Westminster,20/04/2018,Conversion
+Richmond,Richmond upon Thames,01/12/2018,Conversion
+Kingston,Kingston upon Thames,06/08/2018,New Build
+Kingston,Kingston upon Thames,31/08/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Newham,Newham,21/12/2018,Conversion
+Lambeth,Lambeth,09/02/2018,New Build
+Lambeth,Lambeth,05/09/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Westminster,Westminster,12/12/2018,New Build
+Southwark,Southwark,01/05/2018,Conversion
+Sutton,Sutton,01/01/2018,New Build
+Ealing,Ealing,07/04/2018,Conversion
+Bromley,Bromley,01/05/2018,New Build
+Bexley,Bexley,31/08/2018,New Build
+Kingston,Kingston upon Thames,06/08/2018,New Build
+Bromley,Bromley,07/12/2018,New Build
+Westminster,Westminster,20/12/2018,Conversion
+Croydon,Croydon,09/05/2018,New Build
+Ealing,Ealing,01/06/2018,Conversion
+Lambeth,Lambeth,14/12/2018,Conversion
+Bromley,Bromley,23/01/2018,New Build
+Sutton,Sutton,01/09/2018,New Build
+Lambeth,Lambeth,01/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,11/04/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,30/03/2018,Conversion
+Bexley,Bexley,14/05/2018,New Build
+Ealing,Ealing,01/07/2018,Conversion
+Sutton,Sutton,01/06/2018,New Build
+Bromley,Bromley,10/10/2018,New Build
+Southwark,Southwark,08/08/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,17/03/2018,Conversion
+Croydon,Croydon,01/11/2018,New Build
+Barnet,Barnet,11/06/2018,New Build
+Southwark,Southwark,12/07/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Barnet,Barnet,01/08/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Ealing,Ealing,12/07/2018,Conversion
+Enfield,Enfield,01/09/2018,New Build
+Croydon,Croydon,16/05/2018,Conversion
+Barnet,Barnet,28/09/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/11/2018,Conversion
+Barnet,Barnet,01/01/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Newham,Newham,31/03/2018,New Build
+Ealing,Ealing,01/04/2018,Conversion
+Richmond,Richmond upon Thames,23/03/2018,Conversion
+Barnet,Barnet,01/08/2018,New Build
+Kingston,Kingston upon Thames,12/07/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Westminster,Westminster,02/08/2018,Conversion
+Enfield,Enfield,13/07/2018,Conversion
+Ealing,Ealing,21/04/2018,New Build
+Lambeth,Lambeth,25/07/2018,Conversion
+Enfield,Enfield,02/08/2018,New Build
+Sutton,Sutton,01/08/2018,New Build
+Richmond,Richmond upon Thames,01/11/2018,New Build
+Newham,Newham,11/12/2018,Conversion
+Ealing,Ealing,21/07/2018,Conversion
+Sutton,Sutton,04/04/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Barnet,Barnet,01/05/2018,New Build
+Richmond,Richmond upon Thames,01/11/2018,Conversion
+Barnet,Barnet,01/03/2018,New Build
+Bexley,Bexley,19/03/2018,New Build
+Lambeth,Lambeth,23/11/2018,New Build
+Lambeth,Lambeth,05/02/2018,New Build
+Bromley,Bromley,25/04/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Croydon,Croydon,01/01/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,25/07/2018,New Build
+Lambeth,Lambeth,31/03/2018,Conversion
+Bromley,Bromley,24/05/2018,New Build
+Camden,Camden,13/08/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+LLDC,Tower Hamlets,02/07/2018,New Build
+Havering,Havering,17/09/2018,New Build
+Brent,Brent,19/06/2018,Conversion
+Hillingdon,Hillingdon,01/12/2018,New Build
+OPDC,Ealing,15/03/2018,Conversion
+Hackney,Hackney,17/01/2018,Conversion
+Redbridge,Redbridge,01/03/2018,Conversion
+Havering,Havering,25/05/2018,New Build
+Wandsworth,Wandsworth,06/03/2018,New Build
+Havering,Havering,25/05/2018,New Build
+Wandsworth,Wandsworth,22/08/2018,New Build
+Redbridge,Redbridge,02/01/2018,New Build
+Brent,Brent,15/02/2018,Conversion
+Redbridge,Redbridge,22/05/2018,Conversion
+Lewisham,Lewisham,01/12/2018,New Build
+Merton,Merton,31/03/2018,Conversion
+Lewisham,Lewisham,01/12/2018,New Build
+Hillingdon,Hillingdon,18/09/2018,New Build
+Hackney,Hackney,01/04/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Redbridge,Redbridge,19/06/2018,New Build
+Hillingdon,Hillingdon,05/12/2018,New Build
+Hackney,Hackney,01/03/2018,New Build
+Havering,Havering,14/08/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Havering,Havering,20/11/2018,Conversion
+Ealing,Ealing,26/03/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Enfield,Enfield,22/08/2018,New Build
+Southwark,Southwark,05/07/2018,New Build
+Westminster,Westminster,01/10/2018,Conversion
+Bromley,Bromley,29/03/2018,Conversion
+Barnet,Barnet,01/02/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Barnet,Barnet,01/09/2018,New Build
+Croydon,Croydon,30/07/2018,New Build
+Richmond,Richmond upon Thames,28/09/2018,New Build
+Newham,Newham,02/05/2018,Conversion
+Barnet,Barnet,01/01/2018,Conversion
+Ealing,Ealing,07/07/2018,Conversion
+Barnet,Barnet,18/05/2018,Conversion
+Barnet,Barnet,01/04/2018,Conversion
+Westminster,Westminster,01/08/2018,Conversion
+Enfield,Enfield,21/06/2018,Conversion
+Ealing,Ealing,01/05/2018,New Build
+Kingston,Kingston upon Thames,30/05/2018,New Build
+Barnet,Barnet,01/10/2018,Conversion
+Ealing,Ealing,01/04/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Barnet,Barnet,05/03/2018,Conversion
+Kingston,Kingston upon Thames,16/05/2018,New Build
+Southwark,Southwark,08/01/2018,New Build
+Westminster,Westminster,01/04/2018,Conversion
+Lambeth,Lambeth,05/07/2018,Conversion
+Lambeth,Lambeth,24/01/2018,New Build
+Richmond,Richmond upon Thames,01/08/2018,Conversion
+Croydon,Croydon,31/03/2018,Conversion
+Bromley,Bromley,05/03/2018,Conversion
+Southwark,Southwark,01/08/2018,New Build
+Ealing,Ealing,25/03/2018,Conversion
+Enfield,Enfield,10/03/2018,New Build
+Bromley,Bromley,13/12/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,26/06/2018,Conversion
+Southwark,Southwark,08/08/2018,Conversion
+Croydon,Croydon,30/10/2018,New Build
+Barnet,Barnet,01/05/2018,New Build
+Lambeth,Lambeth,20/08/2018,New Build
+Ealing,Ealing,01/06/2018,Conversion
+Westminster,Westminster,30/01/2018,Conversion
+Richmond,Richmond upon Thames,01/09/2018,Conversion
+Sutton,Sutton,01/03/2018,New Build
+Barnet,Barnet,30/04/2018,New Build
+Sutton,Sutton,31/03/2018,Conversion
+Westminster,Westminster,01/11/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Ealing,Ealing,01/10/2018,Conversion
+Richmond,Richmond upon Thames,27/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,27/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,30/07/2018,Conversion
+Kingston,Kingston upon Thames,02/03/2018,New Build
+Barnet,Barnet,01/01/2018,New Build
+Lambeth,Lambeth,04/05/2018,Conversion
+Southwark,Southwark,07/03/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Enfield,Enfield,21/08/2018,New Build
+Barnet,Barnet,18/07/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Southwark,Southwark,14/05/2018,New Build
+Newham,Newham,15/02/2018,Conversion
+Kingston,Kingston upon Thames,11/09/2018,New Build
+Westminster,Westminster,31/12/2018,Conversion
+Southwark,Southwark,08/06/2018,Conversion
+Kingston,Kingston upon Thames,22/05/2018,New Build
+Ealing,Ealing,01/05/2018,Conversion
+Croydon,Croydon,01/04/2018,New Build
+Kingston,Kingston upon Thames,30/11/2018,New Build
+Southwark,Southwark,07/06/2018,New Build
+Newham,Newham,07/08/2018,Conversion
+Westminster,Westminster,01/12/2018,New Build
+Kingston,Kingston upon Thames,04/10/2018,New Build
+Kingston,Kingston upon Thames,18/05/2018,New Build
+Barnet,Barnet,18/01/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,29/01/2018,Conversion
+Lambeth,Lambeth,17/01/2018,New Build
+Lambeth,Lambeth,11/12/2018,Conversion
+Enfield,Enfield,01/03/2018,New Build
+Enfield,Enfield,01/12/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Croydon,Croydon,19/09/2018,Conversion
+Bromley,Bromley,03/12/2018,New Build
+Croydon,Croydon,30/07/2018,New Build
+Lambeth,Lambeth,28/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/07/2018,Conversion
+Westminster,Westminster,01/06/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Barnet,Barnet,01/08/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,26/02/2018,Conversion
+Croydon,Croydon,19/11/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,13/06/2018,New Build
+Enfield,Enfield,01/12/2018,New Build
+Bromley,Bromley,20/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Southwark,Southwark,06/06/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Croydon,Croydon,27/04/2018,Conversion
+Bexley,Bexley,01/10/2018,New Build
+Southwark,Southwark,08/08/2018,New Build
+Croydon,Croydon,31/01/2018,New Build
+Richmond,Richmond upon Thames,25/04/2018,New Build
+Barnet,Barnet,30/08/2018,New Build
+Southwark,Southwark,10/05/2018,Conversion
+Newham,Newham,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/01/2018,Conversion
+Barnet,Barnet,20/02/2018,New Build
+Sutton,Sutton,31/03/2018,Conversion
+Croydon,Croydon,01/06/2018,New Build
+Bromley,Bromley,20/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,19/02/2018,Conversion
+Barnet,Barnet,01/05/2018,Conversion
+Bromley,Bromley,17/05/2018,Conversion
+Barnet,Barnet,14/08/2018,Conversion
+Bromley,Bromley,11/06/2018,Conversion
+Sutton,Sutton,01/03/2018,New Build
+Kingston,Kingston upon Thames,01/08/2018,New Build
+Westminster,Westminster,30/04/2018,Conversion
+Bexley,Bexley,05/07/2018,Conversion
+Lambeth,Lambeth,26/10/2018,Conversion
+Richmond,Richmond upon Thames,01/10/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Barnet,Barnet,06/06/2018,Conversion
+Barnet,Barnet,14/10/2018,Conversion
+Barnet,Barnet,29/01/2018,Conversion
+Richmond,Richmond upon Thames,14/05/2018,New Build
+Barnet,Barnet,01/04/2018,New Build
+Enfield,Enfield,01/01/2018,New Build
+Bexley,Bexley,04/04/2018,New Build
+Ealing,Ealing,09/06/2018,Conversion
+Lambeth,Lambeth,19/10/2018,Conversion
+Ealing,Ealing,10/01/2018,Conversion
+Barnet,Barnet,23/03/2018,New Build
+Ealing,Ealing,01/10/2018,New Build
+Enfield,Enfield,26/02/2018,Conversion
+Newham,Newham,31/03/2018,Conversion
+Newham,Newham,20/11/2018,Conversion
+Lambeth,Lambeth,28/02/2018,New Build
+Bexley,Bexley,06/06/2018,New Build
+Ealing,Ealing,29/10/2018,New Build
+Croydon,Croydon,13/06/2018,New Build
+Barnet,Barnet,12/02/2018,Conversion
+Croydon,Croydon,28/06/2018,Conversion
+Barnet,Barnet,08/03/2018,New Build
+Westminster,Westminster,31/01/2018,Conversion
+Bromley,Bromley,20/03/2018,Conversion
+Westminster,Westminster,16/03/2018,Conversion
+Lambeth,Lambeth,23/07/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Ealing,Ealing,10/12/2018,Conversion
+Croydon,Croydon,01/06/2018,New Build
+Bromley,Bromley,15/05/2018,New Build
+Ealing,Ealing,11/08/2018,New Build
+Newham,Newham,02/03/2018,Conversion
+Bromley,Bromley,29/05/2018,New Build
+Croydon,Croydon,25/04/2018,New Build
+Sutton,Sutton,01/12/2018,New Build
+Lambeth,Lambeth,10/06/2018,New Build
+Bromley,Bromley,04/01/2018,Conversion
+Sutton,Sutton,31/08/2018,New Build
+Croydon,Croydon,31/05/2018,Conversion
+Bexley,Bexley,05/09/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Enfield,Enfield,01/03/2018,Conversion
+Lambeth,Lambeth,01/10/2018,Conversion
+Barnet,Barnet,01/08/2018,New Build
+Sutton,Sutton,01/03/2018,New Build
+Westminster,Westminster,10/09/2018,Conversion
+Ealing,Ealing,01/04/2018,New Build
+Ealing,Ealing,05/07/2018,New Build
+Ealing,Ealing,15/02/2018,Conversion
+Lambeth,Lambeth,10/05/2018,Conversion
+Kingston,Kingston upon Thames,25/09/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Bexley,Bexley,21/09/2018,New Build
+Lambeth,Lambeth,16/07/2018,Conversion
+Richmond,Richmond upon Thames,05/09/2018,Conversion
+Kingston,Kingston upon Thames,19/07/2018,New Build
+Ealing,Ealing,01/03/2018,Conversion
+Ealing,Ealing,21/08/2018,New Build
+Westminster,Westminster,01/04/2018,Conversion
+Newham,Newham,01/10/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Richmond,Richmond upon Thames,31/08/2018,New Build
+Ealing,Ealing,24/07/2018,Conversion
+Ealing,Ealing,01/04/2018,Conversion
+Sutton,Sutton,01/04/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Croydon,Croydon,16/05/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Lambeth,Lambeth,31/03/2018,Conversion
+Ealing,Ealing,21/05/2018,Conversion
+Southwark,Southwark,04/04/2018,New Build
+Ealing,Ealing,01/12/2018,New Build
+Sutton,Sutton,01/06/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/07/2018,Conversion
+Ealing,Ealing,15/01/2018,New Build
+Croydon,Croydon,10/01/2018,New Build
+Southwark,Southwark,17/08/2018,New Build
+Newham,Newham,05/06/2018,Conversion
+Croydon,Croydon,14/04/2018,New Build
+Croydon,Croydon,17/04/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,06/07/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Barnet,Barnet,01/08/2018,Conversion
+Sutton,Sutton,01/01/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Richmond,Richmond upon Thames,01/11/2018,Conversion
+Barnet,Barnet,08/03/2018,New Build
+Westminster,Westminster,01/12/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,09/10/2018,Conversion
+Kingston,Kingston upon Thames,09/07/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,16/01/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,26/06/2018,Conversion
+Barnet,Barnet,08/11/2018,Conversion
+Bromley,Bromley,14/09/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Croydon,Croydon,03/09/2018,Conversion
+Southwark,Southwark,01/03/2018,New Build
+Bromley,Bromley,09/07/2018,New Build
+Barnet,Barnet,05/06/2018,Conversion
+Croydon,Croydon,18/12/2018,New Build
+Sutton,Sutton,04/10/2018,Conversion
+Westminster,Westminster,31/03/2018,Conversion
+Westminster,Westminster,01/04/2018,Conversion
+Barnet,Barnet,01/05/2018,New Build
+Croydon,Croydon,31/03/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Bexley,Bexley,11/05/2018,New Build
+Sutton,Sutton,31/03/2018,New Build
+Croydon,Croydon,15/08/2018,New Build
+Barnet,Barnet,01/10/2018,New Build
+Richmond,Richmond upon Thames,30/06/2018,Conversion
+Kingston,Kingston upon Thames,25/06/2018,New Build
+Barnet,Barnet,01/08/2018,New Build
+Richmond,Richmond upon Thames,04/09/2018,New Build
+Enfield,Enfield,01/12/2018,New Build
+Sutton,Sutton,01/03/2018,Conversion
+Lambeth,Lambeth,07/12/2018,New Build
+Lambeth,Lambeth,15/06/2018,Conversion
+Barnet,Barnet,08/05/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Lambeth,Lambeth,15/02/2018,Conversion
+Newham,Newham,24/05/2018,Conversion
+Bromley,Bromley,13/06/2018,Conversion
+Barnet,Barnet,08/05/2018,Conversion
+Sutton,Sutton,31/03/2018,New Build
+Kingston,Kingston upon Thames,20/07/2018,New Build
+Westminster,Westminster,01/10/2018,Conversion
+Ealing,Ealing,26/03/2018,New Build
+Bromley,Bromley,27/11/2018,New Build
+Richmond,Richmond upon Thames,01/08/2018,New Build
+Enfield,Enfield,01/03/2018,New Build
+Ealing,Ealing,30/07/2018,New Build
+Barnet,Barnet,01/06/2018,New Build
+Richmond,Richmond upon Thames,02/04/2018,New Build
+Sutton,Sutton,01/04/2018,Conversion
+Croydon,Croydon,20/07/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Barnet,Barnet,16/02/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,23/02/2018,Conversion
+Lambeth,Lambeth,01/06/2018,New Build
+Westminster,Westminster,31/03/2018,Conversion
+Lambeth,Lambeth,15/04/2018,Conversion
+Barnet,Barnet,01/05/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Bexley,Bexley,30/10/2018,New Build
+Barnet,Barnet,13/08/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,24/01/2018,Conversion
+Sutton,Sutton,09/08/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Croydon,Croydon,05/10/2018,New Build
+Sutton,Sutton,01/03/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Barnet,Barnet,14/11/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Barnet,Barnet,01/07/2018,Conversion
+Southwark,Southwark,05/01/2018,Conversion
+Kingston,Kingston upon Thames,21/12/2018,New Build
+Croydon,Croydon,03/08/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,23/01/2018,Conversion
+Croydon,Croydon,31/03/2018,New Build
+Westminster,Westminster,10/02/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Enfield,Enfield,01/03/2018,Conversion
+Ealing,Ealing,01/09/2018,New Build
+Kingston,Kingston upon Thames,31/01/2018,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,Conversion
+Lambeth,Lambeth,28/02/2018,New Build
+Ealing,Ealing,01/10/2018,New Build
+Wandsworth,Wandsworth,14/03/2018,Conversion
+Hillingdon,Hillingdon,01/03/2018,New Build
+Havering,Havering,29/06/2018,Conversion
+LLDC,Newham,01/05/2018,Conversion
+Camden,Camden,01/04/2018,New Build
+Brent,Brent,15/11/2018,Conversion
+City of London,City of London,30/09/2018,New Build
+Hillingdon,Hillingdon,01/04/2018,Conversion
+Camden,Camden,01/04/2018,Conversion
+Havering,Havering,16/03/2018,New Build
+Lewisham,Lewisham,01/02/2018,Conversion
+Brent,Brent,26/01/2018,Conversion
+Camden,Camden,12/07/2018,New Build
+Brent,Brent,19/07/2018,New Build
+Hackney,Hackney,01/05/2018,Conversion
+Wandsworth,Wandsworth,30/03/2018,New Build
+Wandsworth,Wandsworth,12/07/2018,Conversion
+Merton,Merton,08/10/2018,New Build
+Hackney,Hackney,27/06/2018,Conversion
+LLDC,Tower Hamlets,03/09/2018,New Build
+Brent,Brent,01/04/2018,Conversion
+LLDC,Newham,01/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Merton,Merton,08/02/2018,New Build
+Wandsworth,Wandsworth,10/09/2018,Conversion
+Lewisham,Lewisham,01/10/2018,New Build
+Brent,Brent,18/07/2018,Conversion
+Hackney,Hackney,04/04/2018,Conversion
+Redbridge,Redbridge,19/02/2018,New Build
+Hackney,Hackney,25/07/2018,Conversion
+Brent,Brent,19/07/2018,Conversion
+Hackney,Hackney,10/08/2018,New Build
+Hackney,Hackney,19/05/2018,Conversion
+Camden,Camden,01/08/2018,New Build
+Wandsworth,Wandsworth,10/12/2018,New Build
+Hackney,Hackney,09/07/2018,New Build
+Barnet,Barnet,05/03/2018,Conversion
+Camden,Camden,01/04/2018,New Build
+Tower Hamlets,Tower Hamlets,07/09/2018,New Build
+Redbridge,Redbridge,16/03/2018,Conversion
+Hackney,Hackney,25/07/2018,New Build
+Wandsworth,Wandsworth,28/09/2018,New Build
+Hackney,Hackney,01/06/2018,Conversion
+Merton,Merton,01/07/2018,New Build
+Brent,Brent,16/08/2018,Conversion
+Hillingdon,Hillingdon,16/05/2018,New Build
+Hillingdon,Hillingdon,01/04/2018,Conversion
+Camden,Camden,01/05/2018,Conversion
+Havering,Havering,05/03/2018,New Build
+Camden,Camden,28/08/2018,New Build
+Hackney,Hackney,21/08/2018,Conversion
+Redbridge,Redbridge,31/07/2018,Conversion
+Redbridge,Redbridge,15/06/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Hillingdon,Hillingdon,01/06/2018,Conversion
+Brent,Brent,28/06/2018,Conversion
+Havering,Havering,15/10/2018,Conversion
+Hackney,Hackney,01/12/2018,New Build
+Hackney,Hackney,21/11/2018,Conversion
+Havering,Havering,18/09/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Redbridge,Redbridge,01/10/2018,Conversion
+Hackney,Hackney,19/04/2018,Conversion
+Newham,Newham,20/11/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Tower Hamlets,Tower Hamlets,17/01/2018,New Build
+Lewisham,Lewisham,31/01/2018,Conversion
+Newham,Newham,08/01/2018,Conversion
+Redbridge,Redbridge,03/04/2018,New Build
+Redbridge,Redbridge,01/03/2018,Conversion
+Redbridge,Redbridge,17/10/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,18/06/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Richmond,Richmond upon Thames,14/11/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Barnet,Barnet,04/06/2018,Conversion
+Barnet,Barnet,30/11/2018,Conversion
+Barnet,Barnet,31/01/2018,Conversion
+Barnet,Barnet,16/02/2018,New Build
+Barnet,Barnet,20/09/2018,Conversion
+Barnet,Barnet,10/09/2018,Conversion
+Bromley,Bromley,13/04/2018,New Build
+Bromley,Bromley,01/10/2018,New Build
+Bromley,Bromley,07/11/2018,New Build
+Bromley,Bromley,23/04/2018,New Build
+Bromley,Bromley,31/03/2018,New Build
+Bromley,Bromley,12/02/2018,New Build
+Havering,Havering,28/11/2018,Conversion
+City of London,City of London,30/09/2018,New Build
+Kingston,Kingston,01/04/2018,New Build
+Sutton,Sutton,01/03/2018,New Build
+Hillingdon,Hillingdon,12/12/2018,New Build
+Enfield,Enfield,08/08/2018,New Build
+Hammersmith & Fulham,Hammersmith & Fulham,06/11/2018,Conversion
+Lewisham,Lewisham,14/02/2018,Conversion
+Camden,Camden,07/09/2018,Conversion
+Wandsworth,Wandsworth,12/06/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Camden,Camden,10/08/2018,Conversion
+Havering,Havering,23/02/2018,New Build
+Wandsworth,Wandsworth,13/06/2018,Conversion
+Camden,Camden,27/03/2018,New Build
+Hackney,Hackney,23/03/2018,New Build
+Hackney,Hackney,07/05/2018,New Build
+Camden,Camden,01/04/2018,New Build
+Wandsworth,Wandsworth,16/01/2018,New Build
+Lewisham,Lewisham,09/08/2018,New Build
+Hillingdon,Hillingdon,20/08/2018,Conversion
+Lewisham,Lewisham,22/03/2018,Conversion
+Havering,Havering,31/01/2018,New Build
+Redbridge,Redbridge,28/03/2018,New Build
+Tower Hamlets,Tower Hamlets,21/05/2018,Conversion
+Hackney,Hackney,13/06/2018,New Build
+Tower Hamlets,Tower Hamlets,03/10/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Wandsworth,Wandsworth,16/01/2018,Conversion
+Brent,Brent,01/09/2018,New Build
+Lewisham,Lewisham,01/07/2018,New Build
+Havering,Havering,19/11/2018,New Build
+Hillingdon,Hillingdon,01/12/2018,Conversion
+Wandsworth,Wandsworth,30/04/2018,New Build
+Lewisham,Lewisham,01/08/2018,New Build
+Brent,Brent,21/05/2018,New Build
+Wandsworth,Wandsworth,12/10/2018,New Build
+Hillingdon,Hillingdon,27/07/2018,New Build
+Hackney,Hackney,02/07/2018,Conversion
+Camden,Camden,03/02/2018,Conversion
+Lewisham,Lewisham,05/12/2018,New Build
+Lewisham,Lewisham,01/11/2018,New Build
+Havering,Havering,23/03/2018,New Build
+Camden,Camden,29/07/2018,Conversion
+Hillingdon,Hillingdon,22/03/2018,New Build
+Camden,Camden,01/04/2018,New Build
+Wandsworth,Wandsworth,13/11/2018,New Build
+Camden,Camden,25/09/2018,New Build
+Hillingdon,Hillingdon,05/02/2018,New Build
+Camden,Camden,17/08/2018,Conversion
+Wandsworth,Wandsworth,23/10/2018,Conversion
+Wandsworth,Wandsworth,02/10/2018,Conversion
+Merton,Merton,31/03/2018,New Build
+Hackney,Hackney,12/02/2018,New Build
+Hillingdon,Hillingdon,20/08/2018,Conversion
+Havering,Havering,10/04/2018,New Build
+Wandsworth,Wandsworth,26/09/2018,Conversion
+Tower Hamlets,Tower Hamlets,14/02/2018,New Build
+Hillingdon,Hillingdon,01/05/2018,Conversion
+Redbridge,Redbridge,13/06/2018,New Build
+Wandsworth,Wandsworth,15/05/2018,Conversion
+LLDC,Tower Hamlets,03/12/2018,New Build
+Wandsworth,Wandsworth,06/03/2018,Conversion
+Hillingdon,Hillingdon,05/07/2018,New Build
+Redbridge,Redbridge,28/02/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Camden,Camden,07/06/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Brent,Brent,30/05/2018,Conversion
+Redbridge,Redbridge,22/05/2018,Conversion
+Havering,Havering,16/01/2018,Conversion
+Hillingdon,Hillingdon,15/05/2018,Conversion
+Hillingdon,Hillingdon,01/03/2018,New Build
+Redbridge,Redbridge,11/05/2018,Conversion
+Lewisham,Lewisham,20/12/2018,Conversion
+Brent,Brent,27/06/2018,Conversion
+Wandsworth,Wandsworth,26/03/2018,Conversion
+Hillingdon,Hillingdon,24/05/2018,Conversion
+Brent,Brent,08/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Hackney,Hackney,01/12/2018,New Build
+Hillingdon,Hillingdon,24/09/2018,New Build
+Brent,Brent,21/02/2018,New Build
+Wandsworth,Wandsworth,14/05/2018,Conversion
+Camden,Camden,07/12/2018,Conversion
+Camden,Camden,04/07/2018,Conversion
+Havering,Havering,14/08/2018,New Build
+Lewisham,Lewisham,01/06/2018,New Build
+Lambeth,Lambeth,29/01/2018,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,31/03/2018,New Build
+Barnet,Barnet,06/03/2018,New Build
+Bexley,Bexley,05/03/2018,New Build
+Redbridge,Redbridge,18/06/2018,Conversion
+Brent,Brent,04/10/2018,Conversion
+Camden,Camden,01/04/2018,Conversion
+Lewisham,Lewisham,01/04/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Camden,Camden,23/07/2018,Conversion
+Lewisham,Lewisham,10/12/2018,New Build
+Camden,Camden,01/04/2018,New Build
+Camden,Camden,03/08/2018,Conversion
+Havering,Havering,09/08/2018,New Build
+Lewisham,Lewisham,12/08/2018,New Build
+Hackney,Hackney,06/07/2018,Conversion
+Brent,Brent,21/03/2018,Conversion
+Hillingdon,Hillingdon,23/04/2018,Conversion
+Hillingdon,Hillingdon,01/03/2018,New Build
+Havering,Havering,29/11/2018,New Build
+Wandsworth,Wandsworth,15/06/2018,Conversion
+Havering,Havering,12/04/2018,New Build
+LLDC,Newham,01/07/2018,New Build
+LLDC,Tower Hamlets,01/12/2018,Conversion
+Hillingdon,Hillingdon,31/05/2018,New Build
+Brent,Brent,20/07/2018,Conversion
+Camden,Camden,01/04/2018,New Build
+Camden,Camden,20/03/2018,New Build
+Redbridge,Redbridge,29/01/2018,Conversion
+Camden,Camden,16/07/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Havering,Havering,19/03/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Hillingdon,Hillingdon,16/04/2018,Conversion
+Ealing,Ealing,10/01/2018,Minor dwellings
+Lewisham,Lewisham,10/11/2018,New Build
+Croydon,Croydon,31/03/2018,New Build
+Ealing,Ealing,12/05/2018,Minor dwellings
+Hackney,Hackney,31/07/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Brent,Brent,17/09/2018,New Build
+Wandsworth,Wandsworth,01/04/2018,New Build
+Camden,Camden,13/04/2018,Conversion
+Tower Hamlets,Tower Hamlets,21/03/2018,New Build
+Hackney,Hackney,06/07/2018,Conversion
+Camden,Camden,01/04/2018,New Build
+Hackney,Hackney,06/04/2018,Conversion
+Hillingdon,Hillingdon,01/04/2018,New Build
+Brent,Brent,26/11/2018,New Build
+Hillingdon,Hillingdon,05/07/2018,New Build
+Merton,Merton,20/03/2018,Conversion
+Brent,Brent,27/06/2018,Conversion
+Camden,Camden,28/06/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Brent,Brent,13/09/2018,New Build
+Camden,Camden,25/07/2018,Conversion
+Redbridge,Redbridge,24/07/2018,Conversion
+LLDC,Newham,01/11/2018,New Build
+Camden,Camden,14/08/2018,Conversion
+Lewisham,Lewisham,09/11/2018,New Build
+Wandsworth,Wandsworth,25/04/2018,New Build
+Havering,Havering,14/08/2018,New Build
+Tower Hamlets,Tower Hamlets,05/04/2018,New Build
+Havering,Havering,05/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Hackney,Hackney,15/03/2018,Conversion
+Havering,Havering,04/10/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Havering,Havering,16/10/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Brent,Brent,10/03/2018,Conversion
+Brent,Brent,01/03/2018,Conversion
+OPDC,Ealing,03/09/2018,Conversion
+Havering,Havering,14/08/2018,New Build
+Havering,Havering,27/07/2018,Conversion
+Hillingdon,Hillingdon,07/09/2018,New Build
+Camden,Camden,11/05/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Lewisham,Lewisham,09/12/2018,New Build
+Hillingdon,Hillingdon,01/05/2018,New Build
+Brent,Brent,19/06/2018,New Build
+Hackney,Hackney,21/08/2018,Conversion
+Brent,Brent,12/01/2018,New Build
+Lewisham,Lewisham,01/12/2018,New Build
+Hillingdon,Hillingdon,01/12/2018,New Build
+Wandsworth,Wandsworth,05/12/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Hackney,Hackney,21/07/2018,New Build
+Redbridge,Redbridge,16/01/2018,Conversion
+Havering,Havering,27/07/2018,New Build
+Tower Hamlets,Tower Hamlets,04/09/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Havering,Havering,26/04/2018,New Build
+Camden,Camden,12/07/2018,New Build
+Hillingdon,Hillingdon,21/08/2018,New Build
+Hillingdon,Hillingdon,01/05/2018,New Build
+Wandsworth,Wandsworth,18/11/2018,New Build
+Wandsworth,Wandsworth,27/04/2018,Conversion
+Hillingdon,Hillingdon,30/01/2018,New Build
+Hackney,Hackney,12/03/2018,Conversion
+Tower Hamlets,Tower Hamlets,18/07/2018,New Build
+Lewisham,Lewisham,07/08/2018,Conversion
+Hackney,Hackney,01/02/2018,Conversion
+Lewisham,Lewisham,01/07/2018,New Build
+Merton,Merton,01/02/2018,New Build
+Redbridge,Redbridge,29/08/2018,New Build
+Hackney,Hackney,20/03/2018,New Build
+Brent,Brent,18/06/2018,New Build
+Brent,Brent,20/08/2018,Conversion
+Lewisham,Lewisham,01/12/2018,New Build
+Havering,Havering,09/08/2018,New Build
+Brent,Brent,15/01/2018,New Build
+Hackney,Hackney,01/08/2018,New Build
+Tower Hamlets,Tower Hamlets,03/12/2018,New Build
+Tower Hamlets,Tower Hamlets,17/01/2018,New Build
+Brent,Brent,23/11/2018,Conversion
+Havering,Havering,01/04/2018,New Build
+Havering,Havering,13/11/2018,New Build
+Havering,Havering,04/11/2018,New Build
+Wandsworth,Wandsworth,29/11/2018,New Build
+Wandsworth,Wandsworth,20/02/2018,Conversion
+City of London,City of London,31/03/2018,New Build
+Wandsworth,Wandsworth,03/04/2018,Conversion
+Hackney,Hackney,08/07/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Tower Hamlets,Tower Hamlets,04/07/2018,New Build
+Havering,Havering,09/10/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Redbridge,Redbridge,07/09/2018,Conversion
+Havering,Havering,14/08/2018,New Build
+Hackney,Hackney,03/02/2018,New Build
+Camden,Camden,07/02/2018,Conversion
+Merton,Merton,08/02/2018,New Build
+Hillingdon,Hillingdon,21/08/2018,New Build
+Havering,Havering,14/08/2018,New Build
+Camden,Camden,17/01/2018,New Build
+Havering,Havering,05/06/2018,New Build
+Lewisham,Lewisham,10/10/2018,New Build
+Camden,Camden,16/03/2018,New Build
+Merton,Merton,23/02/2018,Conversion
+Hillingdon,Hillingdon,01/04/2018,Conversion
+Havering,Havering,01/04/2018,New Build
+Hackney,Hackney,29/10/2018,New Build
+Hillingdon,Hillingdon,01/03/2018,Conversion
+Brent,Brent,14/12/2018,New Build
+Lewisham,Lewisham,01/06/2018,Conversion
+Havering,Havering,01/04/2018,Conversion
+Hackney,Hackney,01/03/2018,Conversion
+Tower Hamlets,Tower Hamlets,27/02/2018,New Build
+Havering,Havering,07/08/2018,New Build
+Hackney,Hackney,14/05/2018,New Build
+Wandsworth,Wandsworth,30/11/2018,Conversion
+Hillingdon,Hillingdon,31/10/2018,New Build
+Tower Hamlets,Tower Hamlets,05/04/2018,New Build
+Merton,Merton,30/01/2018,New Build
+Redbridge,Redbridge,05/01/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Redbridge,Redbridge,10/10/2018,Conversion
+Wandsworth,Wandsworth,26/09/2018,Conversion
+Camden,Camden,19/01/2018,Conversion
+Havering,Havering,08/06/2018,New Build
+Wandsworth,Wandsworth,15/08/2018,Conversion
+Hackney,Hackney,11/08/2018,New Build
+Tower Hamlets,Tower Hamlets,20/02/2018,New Build
+Redbridge,Redbridge,06/02/2018,Conversion
+Camden,Camden,21/02/2018,Conversion
+Wandsworth,Wandsworth,16/10/2018,New Build
+Camden,Camden,06/09/2018,New Build
+Tower Hamlets,Tower Hamlets,10/07/2018,New Build
+Camden,Camden,11/05/2018,New Build
+Redbridge,Redbridge,01/10/2018,New Build
+Camden,Camden,10/05/2018,Conversion
+Wandsworth,Wandsworth,23/11/2018,New Build
+Hackney,Hackney,11/02/2018,Conversion
+Havering,Havering,10/10/2018,New Build
+Hackney,Hackney,11/04/2018,New Build
+Brent,Brent,20/06/2018,New Build
+Wandsworth,Wandsworth,10/12/2018,New Build
+Camden,Camden,09/04/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Redbridge,Redbridge,29/08/2018,New Build
+Hillingdon,Hillingdon,15/05/2018,New Build
+Brent,Brent,02/03/2018,New Build
+LLDC,Newham,30/09/2018,New Build
+Hackney,Hackney,01/07/2018,New Build
+Wandsworth,Wandsworth,13/04/2018,Conversion
+Tower Hamlets,Tower Hamlets,12/02/2018,New Build
+Brent,Brent,11/05/2018,New Build
+Lewisham,Lewisham,01/04/2018,New Build
+Hackney,Hackney,14/06/2018,Conversion
+Wandsworth,Wandsworth,09/08/2018,Conversion
+Tower Hamlets,Tower Hamlets,16/07/2018,New Build
+Wandsworth,Wandsworth,06/09/2018,New Build
+Camden,Camden,01/04/2018,New Build
+Camden,Camden,07/09/2018,Conversion
+Hackney,Hackney,29/06/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Brent,Brent,08/10/2018,Conversion
+Brent,Brent,20/06/2018,Conversion
+Lewisham,Lewisham,01/12/2018,Conversion
+Merton,Merton,01/10/2018,Conversion
+Hackney,Hackney,06/07/2018,New Build
+Wandsworth,Wandsworth,29/11/2018,New Build
+Camden,Camden,01/04/2018,Conversion
+Wandsworth,Wandsworth,06/11/2018,Conversion
+Wandsworth,Wandsworth,09/04/2018,New Build
+Camden,Camden,16/07/2018,New Build
+Hackney,Hackney,15/08/2018,Conversion
+Wandsworth,Wandsworth,27/06/2018,New Build
+Tower Hamlets,Tower Hamlets,29/01/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,Conversion
+Brent,Brent,06/07/2018,New Build
+Hillingdon,Hillingdon,05/12/2018,New Build
+Hillingdon,Hillingdon,13/04/2018,New Build
+Havering,Havering,22/06/2018,New Build
+Hackney,Hackney,12/07/2018,Conversion
+Hillingdon,Hillingdon,17/12/2018,New Build
+Brent,Brent,18/07/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Wandsworth,Wandsworth,23/04/2018,New Build
+Tower Hamlets,Tower Hamlets,03/12/2018,New Build
+Camden,Camden,18/06/2018,Conversion
+Hillingdon,Hillingdon,08/05/2018,New Build
+Hillingdon,Hillingdon,27/04/2018,Conversion
+Wandsworth,Wandsworth,31/03/2018,New Build
+Hackney,Hackney,12/11/2018,New Build
+Brent,Brent,12/09/2018,Conversion
+Redbridge,Redbridge,19/04/2018,New Build
+LLDC,Newham,27/03/2018,New Build
+Redbridge,Redbridge,31/03/2018,New Build
+Wandsworth,Wandsworth,31/03/2018,New Build
+Southwark,Southwark,15/10/2018,New Build
+Southwark,Southwark,01/09/2018,Conversion
+Southwark,Southwark,01/10/2018,New Build
+Southwark,Southwark,16/05/2018,Conversion
+Tower Hamlets,Tower Hamlets,10/04/2018,New Build
+Ealing,Ealing,01/03/2018,Minor dwellings
+Ealing,Ealing,05/07/2018,Minor dwellings
+Haringey,Haringey,11/09/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,30/09/2018,New Build
+Harrow,Harrow,29/06/2018,Conversion
+Haringey,Haringey,25/05/2018,Conversion
+Hounslow,Hounslow,29/01/2018,New Build
+Haringey,Haringey,01/03/2018,Conversion
+Waltham Forest,Waltham Forest,06/08/2018,New Build
+Haringey,Haringey,16/10/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,10/02/2018,New Build
+Islington,Islington,03/08/2018,New Build
+Hounslow,Hounslow,01/09/2018,New Build
+Greenwich,Greenwich,10/07/2018,Conversion
+Greenwich,Greenwich,11/04/2018,New Build
+Haringey,Haringey,01/10/2018,Conversion
+Haringey,Haringey,20/10/2018,Conversion
+Greenwich,Greenwich,23/06/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,21/05/2018,Conversion
+Harrow,Harrow,24/01/2018,New Build
+Hounslow,Hounslow,13/04/2018,New Build
+Barking & Dagenham,Barking and Dagenham,22/01/2018,New Build
+Haringey,Haringey,18/04/2018,Conversion
+Harrow,Harrow,21/11/2018,New Build
+Greenwich,Greenwich,16/08/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,20/02/2018,New Build
+Waltham Forest,Waltham Forest,20/01/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,17/05/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,26/04/2018,New Build
+Harrow,Harrow,09/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,21/09/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,New Build
+Harrow,Harrow,22/11/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,20/12/2018,Conversion
+Harrow,Harrow,31/03/2018,New Build
+Waltham Forest,Waltham Forest,19/03/2018,Conversion
+Haringey,Haringey,01/03/2018,New Build
+Waltham Forest,Waltham Forest,21/08/2018,Conversion
+Waltham Forest,Waltham Forest,01/02/2018,New Build
+Haringey,Haringey,01/08/2018,Conversion
+Greenwich,Greenwich,13/09/2018,Conversion
+Haringey,Haringey,10/02/2018,New Build
+Haringey,Haringey,05/12/2018,Conversion
+Haringey,Haringey,15/11/2018,New Build
+Haringey,Haringey,20/03/2018,New Build
+Harrow,Harrow,19/01/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Harrow,Harrow,11/10/2018,New Build
+Hounslow,Hounslow,07/09/2018,New Build
+Haringey,Haringey,02/09/2018,New Build
+Haringey,Haringey,25/04/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Islington,Islington,31/05/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Haringey,Haringey,20/02/2018,Conversion
+Harrow,Harrow,24/10/2018,Conversion
+Hounslow,Hounslow,27/04/2018,New Build
+Haringey,Haringey,10/08/2018,New Build
+Harrow,Harrow,22/05/2018,New Build
+Harrow,Harrow,06/04/2018,New Build
+Haringey,Haringey,20/02/2018,Conversion
+Haringey,Haringey,21/05/2018,Conversion
+Barking & Dagenham,Barking and Dagenham,18/01/2018,Conversion
+Harrow,Harrow,26/02/2018,Conversion
+Hounslow,Hounslow,31/05/2018,New Build
+Hounslow,Hounslow,20/09/2018,New Build
+Greenwich,Greenwich,25/10/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,10/01/2018,Conversion
+Hounslow,Hounslow,20/10/2018,Conversion
+Haringey,Haringey,25/03/2018,New Build
+Greenwich,Greenwich,28/02/2018,New Build
+Waltham Forest,Waltham Forest,26/03/2018,New Build
+Harrow,Harrow,24/04/2018,Conversion
+Harrow,Harrow,04/05/2018,Conversion
+Haringey,Haringey,01/12/2018,Conversion
+Haringey,Haringey,01/03/2018,Conversion
+Hounslow,Hounslow,04/09/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Harrow,Harrow,31/03/2018,New Build
+Hounslow,Hounslow,29/06/2018,New Build
+Waltham Forest,Waltham Forest,05/02/2018,New Build
+Harrow,Harrow,01/10/2018,New Build
+Waltham Forest,Waltham Forest,21/08/2018,Conversion
+Harrow,Harrow,30/07/2018,New Build
+Waltham Forest,Waltham Forest,19/03/2018,New Build
+Waltham Forest,Waltham Forest,13/08/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,12/02/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,28/11/2018,Conversion
+Barking & Dagenham,Barking and Dagenham,22/10/2018,Conversion
+Harrow,Harrow,07/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/01/2018,Conversion
+Waltham Forest,Waltham Forest,05/08/2018,New Build
+Greenwich,Greenwich,20/12/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Greenwich,Greenwich,14/12/2018,New Build
+Waltham Forest,Waltham Forest,20/12/2018,New Build
+Haringey,Haringey,10/03/2018,New Build
+Islington,Islington,02/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,15/04/2018,Conversion
+Harrow,Harrow,27/06/2018,Conversion
+Haringey,Haringey,01/09/2018,Conversion
+Hounslow,Hounslow,10/10/2018,New Build
+Barking & Dagenham,Barking and Dagenham,15/12/2018,Conversion
+Haringey,Haringey,03/04/2018,New Build
+Harrow,Harrow,26/01/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,10/02/2018,Conversion
+Waltham Forest,Waltham Forest,10/07/2018,New Build
+Hounslow,Hounslow,06/07/2018,New Build
+Waltham Forest,Waltham Forest,03/07/2018,Conversion
+Waltham Forest,Waltham Forest,27/06/2018,New Build
+Waltham Forest,Waltham Forest,05/10/2018,New Build
+Barking & Dagenham,Barking and Dagenham,01/06/2018,New Build
+Harrow,Harrow,22/02/2018,Conversion
+Haringey,Haringey,29/03/2018,New Build
+Greenwich,Greenwich,08/10/2018,New Build
+Harrow,Harrow,24/05/2018,New Build
+Haringey,Haringey,05/02/2018,Conversion
+Hounslow,Hounslow,05/10/2018,New Build
+Haringey,Haringey,15/05/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Hounslow,Hounslow,19/06/2018,New Build
+Haringey,Haringey,14/06/2018,Conversion
+Hounslow,Hounslow,08/06/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Harrow,Harrow,13/06/2018,Conversion
+Haringey,Haringey,02/08/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,08/02/2018,New Build
+Waltham Forest,Waltham Forest,23/08/2018,Conversion
+Harrow,Harrow,14/09/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,13/08/2018,Conversion
+Harrow,Harrow,19/04/2018,Conversion
+Barking & Dagenham,Barking and Dagenham,30/03/2018,New Build
+Greenwich,Greenwich,08/06/2018,New Build
+Harrow,Harrow,09/10/2018,Conversion
+Harrow,Harrow,10/07/2018,Conversion
+Greenwich,Greenwich,17/09/2018,Conversion
+Haringey,Haringey,10/10/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Hounslow,Hounslow,21/06/2018,New Build
+Waltham Forest,Waltham Forest,21/08/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Waltham Forest,Waltham Forest,05/07/2018,New Build
+Greenwich,Greenwich,30/05/2018,New Build
+Hounslow,Hounslow,06/04/2018,Conversion
+Hounslow,Hounslow,05/12/2018,Conversion
+Haringey,Haringey,01/10/2018,Conversion
+Hounslow,Hounslow,12/06/2018,New Build
+Waltham Forest,Waltham Forest,23/03/2018,New Build
+Haringey,Haringey,31/10/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Harrow,Harrow,04/10/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Hounslow,Hounslow,13/09/2018,Conversion
+Waltham Forest,Waltham Forest,09/07/2018,Conversion
+Haringey,Haringey,18/01/2018,Conversion
+Waltham Forest,Waltham Forest,14/09/2018,Conversion
+Hounslow,Hounslow,08/11/2018,Conversion
+Waltham Forest,Waltham Forest,31/01/2018,Conversion
+Waltham Forest,Waltham Forest,14/09/2018,Conversion
+Greenwich,Greenwich,18/12/2018,New Build
+Harrow,Harrow,26/11/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,27/11/2018,Conversion
+Haringey,Haringey,20/06/2018,Conversion
+Hounslow,Hounslow,09/11/2018,Conversion
+Harrow,Harrow,28/06/2018,Conversion
+Haringey,Haringey,09/05/2018,Conversion
+Haringey,Haringey,22/10/2018,Conversion
+Waltham Forest,Waltham Forest,16/08/2018,Conversion
+Waltham Forest,Waltham Forest,02/02/2018,New Build
+Haringey,Haringey,15/06/2018,Conversion
+Greenwich,Greenwich,12/01/2018,Conversion
+Haringey,Haringey,27/04/2018,Conversion
+Haringey,Haringey,16/04/2018,Conversion
+Hounslow,Hounslow,02/11/2018,Conversion
+Harrow,Harrow,31/08/2018,Conversion
+Haringey,Haringey,07/11/2018,Conversion
+Haringey,Haringey,27/04/2018,Conversion
+Haringey,Haringey,29/03/2018,Conversion
+Haringey,Haringey,15/05/2018,Conversion
+Hounslow,Hounslow,21/11/2018,Conversion
+Harrow,Harrow,31/01/2018,Conversion
+Harrow,Harrow,28/06/2018,Conversion
+Haringey,Haringey,09/11/2018,Conversion
+Haringey,Haringey,13/09/2018,Conversion
+Haringey,Haringey,14/02/2018,Conversion
+Waltham Forest,Waltham Forest,06/04/2018,Conversion
+Greenwich,Greenwich,02/02/2018,Conversion
+Haringey,Haringey,20/02/2018,Conversion
+Hounslow,Hounslow,12/04/2018,Conversion
+Haringey,Haringey,11/11/2018,Conversion
+Barking & Dagenham,Barking and Dagenham,06/04/2018,New Build
+Hounslow,Hounslow,07/09/2018,Conversion
+Haringey,Haringey,20/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Waltham Forest,Waltham Forest,18/10/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/02/2018,Conversion
+Haringey,Haringey,10/02/2018,Conversion
+Hounslow,Hounslow,17/04/2018,New Build
+Barking & Dagenham,Barking and Dagenham,30/03/2018,Conversion
+Greenwich,Greenwich,10/09/2018,Conversion
+Haringey,Haringey,29/03/2018,Conversion
+Hounslow,Hounslow,24/04/2018,Conversion
+Waltham Forest,Waltham Forest,21/01/2018,New Build
+Greenwich,Greenwich,06/07/2018,New Build
+Waltham Forest,Waltham Forest,26/02/2018,New Build
+Harrow,Harrow,09/04/2018,Conversion
+Hounslow,Hounslow,01/05/2018,New Build
+Harrow,Harrow,05/02/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,24/05/2018,New Build
+Greenwich,Greenwich,16/05/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Haringey,Haringey,04/04/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,12/02/2018,New Build
+Haringey,Haringey,01/12/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Greenwich,Greenwich,17/09/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Haringey,Haringey,23/05/2018,Conversion
+Waltham Forest,Waltham Forest,21/08/2018,New Build
+Islington,Islington,23/07/2018,New Build
+Haringey,Haringey,24/10/2018,Conversion
+Harrow,Harrow,24/04/2018,Conversion
+Haringey,Haringey,12/12/2018,Conversion
+Haringey,Haringey,20/03/2018,Conversion
+Islington,Islington,25/06/2018,New Build
+Hounslow,Hounslow,02/11/2018,New Build
+Harrow,Harrow,22/11/2018,Conversion
+Hounslow,Hounslow,28/02/2018,New Build
+Haringey,Haringey,01/03/2018,Conversion
+Greenwich,Greenwich,20/12/2018,Conversion
+Harrow,Harrow,01/10/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,12/02/2018,Conversion
+Hounslow,Hounslow,06/06/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Harrow,Harrow,01/06/2018,Conversion
+Greenwich,Greenwich,16/05/2018,New Build
+Waltham Forest,Waltham Forest,12/06/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Greenwich,Greenwich,14/02/2018,New Build
+Haringey,Haringey,01/02/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,01/03/2018,Conversion
+Haringey,Haringey,16/12/2018,Conversion
+Haringey,Haringey,06/02/2018,Conversion
+Harrow,Harrow,22/05/2018,New Build
+Waltham Forest,Waltham Forest,16/10/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,12/02/2018,New Build
+Hounslow,Hounslow,19/07/2018,New Build
+Waltham Forest,Waltham Forest,30/10/2018,New Build
+Harrow,Harrow,16/05/2018,Conversion
+Harrow,Harrow,19/01/2018,Conversion
+Harrow,Harrow,01/04/2018,New Build
+Hounslow,Hounslow,01/04/2018,New Build
+Harrow,Harrow,30/10/2018,New Build
+Barking & Dagenham,Barking and Dagenham,06/02/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,01/09/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/02/2018,New Build
+Harrow,Harrow,08/08/2018,Conversion
+Haringey,Haringey,23/10/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,22/01/2018,New Build
+Harrow,Harrow,12/11/2018,Conversion
+Waltham Forest,Waltham Forest,19/01/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Harrow,Harrow,10/09/2018,Conversion
+Greenwich,Greenwich,12/01/2018,Conversion
+Harrow,Harrow,23/05/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Haringey,Haringey,30/03/2018,Conversion
+Hounslow,Hounslow,03/04/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,15/03/2018,Conversion
+Hounslow,Hounslow,30/08/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Harrow,Harrow,01/06/2018,Conversion
+Hounslow,Hounslow,08/04/2018,New Build
+Greenwich,Greenwich,10/04/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Waltham Forest,Waltham Forest,02/08/2018,Conversion
+Harrow,Harrow,18/09/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Haringey,Haringey,10/09/2018,Conversion
+Waltham Forest,Waltham Forest,21/12/2018,New Build
+Islington,Islington,06/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Harrow,Harrow,25/09/2018,New Build
+Barking & Dagenham,Barking and Dagenham,30/11/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Haringey,Haringey,24/12/2018,Conversion
+Haringey,Haringey,21/05/2018,Conversion
+Greenwich,Greenwich,18/12/2018,New Build
+Haringey,Haringey,09/04/2018,Conversion
+Waltham Forest,Waltham Forest,29/11/2018,New Build
+Haringey,Haringey,14/06/2018,Conversion
+Waltham Forest,Waltham Forest,15/08/2018,New Build
+Haringey,Haringey,29/05/2018,Conversion
+Greenwich,Greenwich,17/05/2018,New Build
+Islington,Islington,01/04/2018,New Build
+Waltham Forest,Waltham Forest,15/12/2018,New Build
+Greenwich,Greenwich,11/06/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,15/11/2018,Conversion
+Haringey,Haringey,15/03/2018,Conversion
+Greenwich,Greenwich,19/07/2018,New Build
+Greenwich,Greenwich,14/03/2018,New Build
+Haringey,Haringey,28/03/2018,New Build
+Hounslow,Hounslow,06/04/2018,New Build
+Waltham Forest,Waltham Forest,05/10/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,22/01/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Harrow,Harrow,11/09/2018,Conversion
+Greenwich,Greenwich,30/04/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Greenwich,Greenwich,15/05/2018,New Build
+Harrow,Harrow,25/01/2018,New Build
+Hounslow,Hounslow,30/04/2018,Conversion
+Hounslow,Hounslow,17/05/2018,New Build
+Haringey,Haringey,01/09/2018,Conversion
+Harrow,Harrow,22/02/2018,Conversion
+Hounslow,Hounslow,31/08/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,12/02/2018,Conversion
+Hounslow,Hounslow,14/02/2018,New Build
+Harrow,Harrow,05/11/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/01/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/05/2018,Conversion
+Greenwich,Greenwich,23/10/2018,Conversion
+Haringey,Haringey,24/04/2018,Conversion
+Greenwich,Greenwich,23/07/2018,New Build
+Harrow,Harrow,20/12/2018,Conversion
+Waltham Forest,Waltham Forest,26/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Harrow,Harrow,31/03/2018,Conversion
+Greenwich,Greenwich,11/04/2018,Conversion
+Harrow,Harrow,27/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/02/2018,New Build
+Harrow,Harrow,10/12/2018,New Build
+Harrow,Harrow,10/05/2018,Conversion
+Harrow,Harrow,27/11/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Islington,Islington,28/09/2018,New Build
+Barking & Dagenham,Barking and Dagenham,31/03/2018,New Build
+Haringey,Haringey,01/07/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Waltham Forest,Waltham Forest,24/09/2018,New Build
+Greenwich,Greenwich,06/02/2018,Conversion
+Haringey,Haringey,30/04/2018,New Build
+Greenwich,Greenwich,25/09/2018,New Build
+Haringey,Haringey,01/02/2018,New Build
+Waltham Forest,Waltham Forest,14/03/2018,New Build
+Waltham Forest,Waltham Forest,17/12/2018,New Build
+Waltham Forest,Waltham Forest,21/08/2018,Conversion
+Waltham Forest,Waltham Forest,27/09/2018,New Build
+Harrow,Harrow,17/08/2018,New Build
+Haringey,Haringey,09/02/2018,New Build
+Haringey,Haringey,01/01/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Waltham Forest,Waltham Forest,16/01/2018,Conversion
+Waltham Forest,Waltham Forest,20/12/2018,New Build
+Greenwich,Greenwich,01/11/2018,Conversion
+Hounslow,Hounslow,21/04/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Hounslow,Hounslow,01/09/2018,New Build
+Haringey,Haringey,10/11/2018,Major dwellings
+Hounslow,Hounslow,17/10/2018,New Build
+Hounslow,Hounslow,16/02/2018,New Build
+Islington,Islington,18/10/2018,New Build
+Hounslow,Hounslow,12/01/2018,New Build
+Haringey,Haringey,01/04/2018,Minor dwellings
+Hounslow,Hounslow,02/08/2018,New Build
+Haringey,Haringey,01/04/2018,Major dwellings
+Haringey,Haringey,11/02/2018,Minor dwellings
+Hounslow,Hounslow,30/11/2018,New Build
+Hounslow,Hounslow,25/06/2018,New Build
+Hounslow,Hounslow,11/12/2018,Conversion
+Waltham Forest,Waltham Forest,06/12/2018,Conversion
+Hounslow,Hounslow,20/09/2018,New Build
+Hounslow,Hounslow,01/08/2018,Conversion
+Waltham Forest,Waltham Forest,19/12/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Waltham Forest,Waltham Forest,21/12/2018,Conversion
+Waltham Forest,Waltham Forest,12/11/2018,New Build
+Waltham Forest,Waltham Forest,20/12/2018,Conversion
+Islington,Islington,27/08/2018,New Build
+Islington,Islington,19/11/2018,New Build
+Islington,Islington,15/10/2018,New Build
+Islington,Islington,20/08/2018,New Build
+Islington,Islington,20/08/2018,Conversion
+Islington,Islington,01/11/2018,New Build
+Islington,Islington,01/11/2018,Conversion
+Islington,Islington,01/01/2018,New Build
+Islington,Islington,01/09/2018,Conversion
+Islington,Islington,01/09/2018,New Build
+Islington,Islington,11/06/2018,New Build
+Islington,Islington,17/12/2018,Conversion
+Islington,Islington,18/10/2018,New Build
+Islington,Islington,05/10/2018,New Build
+Islington,Islington,01/01/2018,New Build
+Islington,Islington,01/04/2018,New Build
+Islington,Islington,10/04/2018,Conversion
+Islington,Islington,30/03/2018,New Build
+Islington,Islington,01/10/2018,New Build
+Islington,Islington,21/03/2018,New Build
+Islington,Islington,21/12/2018,New Build
+Islington,Islington,01/06/2018,Conversion
+Islington,Islington,01/05/2018,New Build
+Islington,Islington,01/08/2018,New Build
+Islington,Islington,02/01/2018,Conversion
+Islington,Islington,04/02/2018,New Build
+Islington,Islington,01/06/2018,New Build
+Islington,Islington,01/01/2018,New Build
+Islington,Islington,26/06/2018,New Build
+Islington,Islington,27/09/2018,Conversion
+Islington,Islington,13/07/2018,Conversion
+Islington,Islington,05/09/2018,Conversion
+Islington,Islington,04/09/2018,Conversion
+Islington,Islington,24/01/2018,Conversion
+Islington,Islington,16/03/2018,Conversion
+Islington,Islington,18/05/2018,Conversion
+Islington,Islington,09/03/2018,Conversion
+Islington,Islington,04/09/2018,Conversion
+Islington,Islington,06/09/2018,Conversion
+Islington,Islington,18/10/2018,Conversion
+Islington,Islington,06/04/2018,Conversion
+Islington,Islington,15/06/2018,New Build
+Islington,Islington,08/07/2018,New Build
+Greenwich,Greenwich,31/08/2018,Conversion
+Haringey,Haringey,21/06/2018,Conversion
+Waltham Forest,Waltham Forest,14/09/2018,Conversion
+Greenwich,Greenwich,03/05/2018,New Build
+Haringey,Haringey,21/05/2018,Conversion
+Haringey,Haringey,27/06/2018,Conversion
+Haringey,Haringey,27/09/2018,Conversion
+Haringey,Haringey,22/06/2018,Conversion
+Hounslow,Hounslow,20/04/2018,New Build
+Greenwich,Greenwich,22/06/2018,New Build
+Waltham Forest,Waltham Forest,02/08/2018,New Build
+Hounslow,Hounslow,03/08/2018,New Build
+Haringey,Haringey,21/08/2018,Conversion
+Haringey,Haringey,01/12/2018,Conversion
+Hounslow,Hounslow,10/04/2018,Conversion
+Hounslow,Hounslow,14/03/2018,New Build
+Greenwich,Greenwich,08/06/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,Conversion
+Waltham Forest,Waltham Forest,05/08/2018,Conversion
+Waltham Forest,Waltham Forest,18/10/2018,Conversion
+Barking & Dagenham,Barking and Dagenham,30/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/01/2018,New Build
+Haringey,Haringey,07/06/2018,Conversion
+Harrow,Harrow,21/09/2018,Conversion
+Haringey,Haringey,01/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Harrow,Harrow,16/11/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Waltham Forest,Waltham Forest,27/06/2018,New Build
+Haringey,Haringey,10/03/2018,New Build
+Haringey,Haringey,20/04/2018,New Build
+Harrow,Harrow,12/06/2018,Conversion
+Haringey,Haringey,01/04/2018,New Build
+Haringey,Haringey,15/04/2018,New Build
+Harrow,Harrow,22/08/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,12/02/2018,Conversion
+Waltham Forest,Waltham Forest,18/10/2018,New Build
+Hounslow,Hounslow,08/06/2018,Conversion
+Waltham Forest,Waltham Forest,18/10/2018,New Build
+Haringey,Haringey,01/10/2018,Conversion
+Harrow,Harrow,29/03/2018,Conversion
+Harrow,Harrow,08/02/2018,Conversion
+Waltham Forest,Waltham Forest,02/03/2018,New Build
+Haringey,Haringey,30/01/2018,New Build
+Barking & Dagenham,Barking and Dagenham,30/03/2018,Conversion
+Harrow,Harrow,01/05/2018,Conversion
+Haringey,Haringey,01/01/2018,New Build
+Hounslow,Hounslow,29/06/2018,New Build
+Hounslow,Hounslow,16/11/2018,Conversion
+Hounslow,Hounslow,03/09/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2018,New Build
+Hounslow,Hounslow,22/04/2018,New Build
+Haringey,Haringey,01/02/2018,Conversion
+Greenwich,Greenwich,18/07/2018,New Build
+Haringey,Haringey,02/04/2018,New Build
+Haringey,Haringey,10/09/2018,Conversion
+Harrow,Harrow,23/03/2018,Conversion
+Haringey,Haringey,08/10/2018,Conversion
+Haringey,Haringey,01/02/2018,New Build
+Waltham Forest,Waltham Forest,10/12/2018,New Build
+Waltham Forest,Waltham Forest,04/04/2018,New Build
+Waltham Forest,Waltham Forest,15/06/2018,New Build
+Haringey,Haringey,01/03/2018,Conversion
+Haringey,Haringey,01/03/2018,Conversion
+Haringey,Haringey,15/04/2018,Conversion
+Haringey,Haringey,01/04/2018,Conversion
+Haringey,Haringey,01/10/2018,New Build
+Haringey,Haringey,25/01/2018,New Build
+Haringey,Haringey,01/03/2018,Conversion
+Haringey,Haringey,11/11/2018,Conversion
+Haringey,Haringey,01/03/2018,Conversion
+Haringey,Haringey,23/01/2018,Conversion
+Haringey,Haringey,01/03/2018,Conversion
+Haringey,Haringey,28/01/2018,New Build
+Haringey,Haringey,12/03/2018,Conversion
+Haringey,Haringey,01/10/2018,Conversion
+Haringey,Haringey,07/03/2018,Conversion
+Haringey,Haringey,10/03/2018,Conversion
+Haringey,Haringey,03/03/2018,Conversion
+Haringey,Haringey,01/10/2018,Conversion
+Haringey,Haringey,09/03/2018,Conversion
+Haringey,Haringey,11/11/2018,Conversion
+Haringey,Haringey,01/03/2018,Conversion
+Haringey,Haringey,04/05/2018,Conversion
+Haringey,Haringey,23/03/2018,Conversion
+Haringey,Haringey,27/04/2018,Conversion
+Haringey,Haringey,05/12/2018,Conversion
+Haringey,Haringey,01/02/2018,New Build
+Haringey,Haringey,01/03/2018,New Build
+Haringey,Haringey,10/02/2018,Conversion
+Haringey,Haringey,30/11/2018,Conversion
+Haringey,Haringey,22/03/2018,Conversion
+Haringey,Haringey,20/02/2018,Conversion
+Haringey,Haringey,30/03/2018,Conversion
+Brent,Brent,18/12/2018,Minor dwellings
+Brent,Brent,21/11/2018,Minor dwellings
+Brent,Brent,09/11/2018,Minor dwellings

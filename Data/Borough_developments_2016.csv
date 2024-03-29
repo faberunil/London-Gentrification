@@ -1,0 +1,3224 @@
+lpa_name,borough,actual_completion_date,development_type
+Newham,Newham,03/06/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Merton,Merton,01/03/2016,New Build
+Merton,Merton,30/09/2016,New Build
+Merton,Merton,01/03/2016,New Build
+Merton,Merton,17/02/2016,New Build
+Merton,Merton,19/09/2016,New Build
+Merton,Merton,29/01/2016,New Build
+Tower Hamlets,Tower Hamlets,26/05/2016,Conversion
+Tower Hamlets,Tower Hamlets,22/06/2016,New Build
+Redbridge,Redbridge,17/08/2016,New Build
+Redbridge,Redbridge,01/11/2016,Conversion
+Enfield,Enfield,22/06/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Lewisham,Lewisham,01/05/2016,New Build
+Wandsworth,Wandsworth,03/05/2016,New Build
+Lewisham,Lewisham,27/07/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Camden,Camden,18/07/2016,Conversion
+Enfield,Enfield,31/05/2016,Conversion
+Wandsworth,Wandsworth,13/10/2016,New Build
+Tower Hamlets,Tower Hamlets,10/03/2016,New Build
+Enfield,Enfield,31/01/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Lewisham,Lewisham,29/05/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Lewisham,Lewisham,14/06/2016,New Build
+Enfield,Enfield,16/11/2016,Conversion
+Wandsworth,Wandsworth,30/06/2016,Conversion
+Lewisham,Lewisham,01/06/2016,New Build
+Lambeth,Lambeth,01/07/2016,New Build
+Wandsworth,Wandsworth,13/10/2016,New Build
+Lambeth,Lambeth,01/04/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Lambeth,Lambeth,22/08/2016,New Build
+Brent,Brent,15/12/2016,Conversion
+Lewisham,Lewisham,31/03/2016,New Build
+Lewisham,Lewisham,01/02/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Lewisham,Lewisham,06/06/2016,New Build
+Wandsworth,Wandsworth,16/09/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Enfield,Enfield,30/09/2016,New Build
+Wandsworth,Wandsworth,27/10/2016,New Build
+Wandsworth,Wandsworth,26/02/2016,Conversion
+Lambeth,Lambeth,09/03/2016,New Build
+Wandsworth,Wandsworth,20/07/2016,Conversion
+Lambeth,Lambeth,12/06/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,08/09/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Wandsworth,Wandsworth,24/02/2016,New Build
+Hillingdon,Hillingdon,18/05/2016,Conversion
+Westminster,Westminster,05/09/2016,Conversion
+Wandsworth,Wandsworth,22/03/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Lambeth,Lambeth,01/06/2016,New Build
+Lewisham,Lewisham,15/09/2016,Conversion
+Wandsworth,Wandsworth,31/10/2016,Conversion
+Wandsworth,Wandsworth,27/01/2016,New Build
+Tower Hamlets,Tower Hamlets,09/11/2016,New Build
+Wandsworth,Wandsworth,19/02/2016,New Build
+Redbridge,Redbridge,30/06/2016,New Build
+Wandsworth,Wandsworth,19/12/2016,New Build
+Westminster,Westminster,04/01/2016,New Build
+Ealing,Ealing,16/10/2016,Conversion
+Brent,Brent,09/09/2016,New Build
+Richmond,Richmond upon Thames,31/07/2016,New Build
+Wandsworth,Wandsworth,17/06/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Lewisham,Lewisham,30/04/2016,New Build
+Redbridge,Redbridge,19/02/2016,New Build
+Enfield,Enfield,09/09/2016,New Build
+Wandsworth,Wandsworth,12/12/2016,Conversion
+Hillingdon,Hillingdon,05/02/2016,New Build
+Lambeth,Lambeth,16/02/2016,New Build
+Brent,Brent,05/07/2016,New Build
+Ealing,Ealing,31/10/2016,Minor dwellings
+Ealing,Ealing,08/10/2016,Minor dwellings
+Ealing,Ealing,10/10/2016,Minor dwellings
+Ealing,Ealing,17/07/2016,Minor dwellings
+Newham,Newham,31/03/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Newham,Newham,03/06/2016,Conversion
+Ealing,Ealing,22/08/2016,Minor dwellings
+Ealing,Ealing,15/02/2016,Minor dwellings
+Sutton,Sutton,31/03/2016,New Build
+Croydon,Croydon,14/01/2016,New Build
+Croydon,Croydon,12/09/2016,New Build
+Hackney,Hackney,15/12/2016,Conversion
+Westminster,Westminster,11/03/2016,Conversion
+Ealing,Ealing,21/01/2016,Conversion
+Lambeth,Lambeth,23/08/2016,Conversion
+Ealing,Ealing,01/07/2016,New Build
+Westminster,Westminster,25/11/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Lambeth,Lambeth,01/12/2016,Conversion
+Southwark,Southwark,08/03/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/07/2016,New Build
+Richmond,Richmond upon Thames,01/11/2016,Conversion
+Westminster,Westminster,28/09/2016,Conversion
+Croydon,Croydon,23/09/2016,New Build
+Croydon,Croydon,23/08/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Barnet,Barnet,01/11/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Croydon,Croydon,31/03/2016,New Build
+Newham,Newham,05/02/2016,Conversion
+Bromley,Bromley,31/03/2016,New Build
+Croydon,Croydon,09/08/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Sutton,Sutton,01/07/2016,New Build
+Bromley,Bromley,20/09/2016,New Build
+Bromley,Bromley,02/09/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,07/10/2016,Conversion
+Bromley,Bromley,08/07/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,05/12/2016,Conversion
+Lambeth,Lambeth,01/11/2016,New Build
+Barnet,Barnet,27/05/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Kingston,Kingston upon Thames,06/12/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,10/10/2016,New Build
+Enfield,Enfield,30/12/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Barnet,Barnet,08/11/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,10/11/2016,New Build
+Barnet,Barnet,09/02/2016,New Build
+Bexley,Bexley,28/06/2016,New Build
+Croydon,Croydon,12/09/2016,New Build
+Westminster,Westminster,11/09/2016,Conversion
+Sutton,Sutton,01/03/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Sutton,Sutton,01/04/2016,New Build
+Richmond,Richmond upon Thames,14/03/2016,Conversion
+Lambeth,Lambeth,20/11/2016,New Build
+Kingston,Kingston upon Thames,19/05/2016,New Build
+Richmond,Richmond upon Thames,30/09/2016,New Build
+Ealing,Ealing,20/06/2016,Conversion
+Richmond,Richmond upon Thames,14/10/2016,Conversion
+Richmond,Richmond upon Thames,14/08/2016,New Build
+Enfield,Enfield,09/05/2016,Conversion
+Bromley,Bromley,17/11/2016,New Build
+Southwark,Southwark,03/07/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Lambeth,Lambeth,24/03/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Bromley,Bromley,17/02/2016,New Build
+Sutton,Sutton,01/08/2016,New Build
+Croydon,Croydon,31/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,06/05/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Ealing,Ealing,24/06/2016,Conversion
+Richmond,Richmond upon Thames,31/10/2016,Conversion
+Ealing,Ealing,22/07/2016,New Build
+Ealing,Ealing,19/07/2016,New Build
+Lambeth,Lambeth,24/10/2016,New Build
+Lambeth,Lambeth,01/07/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Enfield,Enfield,30/06/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Sutton,Sutton,01/04/2016,Conversion
+Lambeth,Lambeth,09/08/2016,Conversion
+Bexley,Bexley,23/08/2016,Conversion
+Southwark,Southwark,06/02/2016,New Build
+Ealing,Ealing,01/01/2016,New Build
+Ealing,Ealing,24/06/2016,Conversion
+Croydon,Croydon,23/08/2016,Conversion
+Lambeth,Lambeth,25/05/2016,Conversion
+Southwark,Southwark,13/10/2016,Conversion
+Richmond,Richmond upon Thames,01/02/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Croydon,Croydon,12/09/2016,New Build
+Lambeth,Lambeth,08/03/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Croydon,Croydon,25/08/2016,Conversion
+Bromley,Bromley,03/10/2016,Conversion
+Kingston,Kingston upon Thames,01/08/2016,New Build
+Barnet,Barnet,15/02/2016,Conversion
+Westminster,Westminster,01/10/2016,Conversion
+Enfield,Enfield,18/09/2016,Conversion
+Richmond,Richmond upon Thames,28/10/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Southwark,Southwark,03/03/2016,Conversion
+Bromley,Bromley,06/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,15/09/2016,New Build
+Ealing,Ealing,15/01/2016,New Build
+Richmond,Richmond upon Thames,14/03/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Lambeth,Lambeth,31/03/2016,Conversion
+Barnet,Barnet,09/04/2016,Conversion
+Barnet,Barnet,01/07/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,03/06/2016,Conversion
+Lambeth,Lambeth,13/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,15/04/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,19/05/2016,Conversion
+Croydon,Croydon,06/01/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Croydon,Croydon,26/08/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Croydon,Croydon,09/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,02/08/2016,Conversion
+Barnet,Barnet,23/06/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Westminster,Westminster,24/11/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Sutton,Sutton,01/03/2016,New Build
+Southwark,Southwark,09/04/2016,New Build
+Richmond,Richmond upon Thames,14/03/2016,Conversion
+Bromley,Bromley,25/04/2016,New Build
+Enfield,Enfield,20/10/2016,Conversion
+Croydon,Croydon,16/03/2016,Conversion
+Croydon,Croydon,26/08/2016,Conversion
+Ealing,Ealing,13/10/2016,Conversion
+Croydon,Croydon,25/08/2016,Conversion
+Barnet,Barnet,21/09/2016,New Build
+Kingston,Kingston upon Thames,23/11/2016,New Build
+Ealing,Ealing,01/08/2016,Conversion
+Ealing,Ealing,05/10/2016,Conversion
+Lambeth,Lambeth,06/07/2016,New Build
+Enfield,Enfield,30/09/2016,Conversion
+Southwark,Southwark,20/06/2016,Conversion
+Southwark,Southwark,06/06/2016,New Build
+Barnet,Barnet,31/10/2016,New Build
+Newham,Newham,31/08/2016,Conversion
+Croydon,Croydon,31/03/2016,Conversion
+Ealing,Ealing,01/01/2016,New Build
+Sutton,Sutton,01/06/2016,New Build
+Westminster,Westminster,16/10/2016,New Build
+Sutton,Sutton,01/04/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Westminster,Westminster,15/03/2016,New Build
+Ealing,Ealing,01/10/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Westminster,Westminster,25/11/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Westminster,Westminster,01/05/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Ealing,Ealing,11/06/2016,New Build
+Croydon,Croydon,02/02/2016,Conversion
+Newham,Newham,04/11/2016,Conversion
+Southwark,Southwark,01/03/2016,New Build
+Barnet,Barnet,10/12/2016,Conversion
+Newham,Newham,18/08/2016,Conversion
+Enfield,Enfield,02/11/2016,Conversion
+Southwark,Southwark,09/09/2016,New Build
+Sutton,Sutton,01/04/2016,New Build
+Bromley,Bromley,22/09/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Sutton,Sutton,01/09/2016,Conversion
+Croydon,Croydon,18/08/2016,New Build
+Croydon,Croydon,06/12/2016,New Build
+Richmond,Richmond upon Thames,28/11/2016,Conversion
+Bromley,Bromley,12/04/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/06/2016,New Build
+Newham,Newham,13/12/2016,Conversion
+Ealing,Ealing,22/07/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,11/07/2016,New Build
+Kingston,Kingston upon Thames,16/07/2016,New Build
+Westminster,Westminster,01/06/2016,Conversion
+Bromley,Bromley,27/06/2016,New Build
+Kingston,Kingston upon Thames,15/02/2016,New Build
+Westminster,Westminster,08/03/2016,Conversion
+Barnet,Barnet,01/09/2016,New Build
+Croydon,Croydon,10/06/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Westminster,Westminster,22/02/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Enfield,Enfield,30/09/2016,New Build
+Southwark,Southwark,10/10/2016,New Build
+Kingston,Kingston upon Thames,23/03/2016,New Build
+Croydon,Croydon,23/08/2016,Conversion
+Westminster,Westminster,26/07/2016,Conversion
+Enfield,Enfield,08/11/2016,Conversion
+Barnet,Barnet,19/07/2016,Conversion
+Southwark,Southwark,03/03/2016,Conversion
+Richmond,Richmond upon Thames,14/03/2016,Conversion
+Ealing,Ealing,10/10/2016,Conversion
+Ealing,Ealing,01/05/2016,Conversion
+Richmond,Richmond upon Thames,07/10/2016,New Build
+Bromley,Bromley,04/05/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,19/10/2016,Conversion
+Ealing,Ealing,20/08/2016,Conversion
+Croydon,Croydon,26/08/2016,New Build
+Bromley,Bromley,29/11/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,30/11/2016,Conversion
+Southwark,Southwark,10/10/2016,New Build
+Barnet,Barnet,23/12/2016,Conversion
+Croydon,Croydon,16/09/2016,New Build
+Sutton,Sutton,29/01/2016,Conversion
+Newham,Newham,15/02/2016,Conversion
+Lambeth,Lambeth,20/05/2016,New Build
+Ealing,Ealing,12/12/2016,New Build
+Westminster,Westminster,17/03/2016,New Build
+Bromley,Bromley,10/11/2016,New Build
+Bromley,Bromley,03/10/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,16/03/2016,Conversion
+Croydon,Croydon,21/09/2016,New Build
+Enfield,Enfield,26/08/2016,New Build
+Bexley,Bexley,24/02/2016,Conversion
+Westminster,Westminster,11/03/2016,Conversion
+Westminster,Westminster,22/03/2016,Conversion
+Richmond,Richmond upon Thames,01/04/2016,New Build
+Croydon,Croydon,23/08/2016,New Build
+Bromley,Bromley,29/06/2016,New Build
+Kingston,Kingston upon Thames,16/09/2016,New Build
+Ealing,Ealing,01/11/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,25/08/2016,Conversion
+Westminster,Westminster,08/03/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Croydon,Croydon,07/04/2016,New Build
+Sutton,Sutton,01/01/2016,New Build
+Lambeth,Lambeth,10/10/2016,New Build
+Bromley,Bromley,04/05/2016,New Build
+Bromley,Bromley,05/05/2016,New Build
+Westminster,Westminster,29/07/2016,Conversion
+Westminster,Westminster,12/07/2016,Conversion
+Sutton,Sutton,01/03/2016,New Build
+Southwark,Southwark,12/12/2016,New Build
+Croydon,Croydon,05/09/2016,New Build
+Barnet,Barnet,27/06/2016,New Build
+Ealing,Ealing,02/04/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Kingston,Kingston upon Thames,29/06/2016,New Build
+Ealing,Ealing,01/10/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Redbridge,Redbridge,13/12/2016,New Build
+City of London,City of London,31/03/2016,Conversion
+Camden,Camden,29/04/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Camden,Camden,15/03/2016,New Build
+Tower Hamlets,Tower Hamlets,02/08/2016,New Build
+Wandsworth,Wandsworth,01/04/2016,Conversion
+Hackney,Hackney,12/03/2016,New Build
+Brent,Brent,28/10/2016,Conversion
+Camden,Camden,21/12/2016,Conversion
+Tower Hamlets,Tower Hamlets,19/05/2016,New Build
+Hackney,Hackney,22/03/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Camden,Camden,09/08/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Havering,Havering,14/09/2016,Conversion
+Brent,Brent,17/03/2016,New Build
+Camden,Camden,02/09/2016,Conversion
+Lewisham,Lewisham,23/08/2016,Conversion
+Havering,Havering,16/09/2016,New Build
+Hackney,Hackney,21/07/2016,Conversion
+Wandsworth,Wandsworth,30/09/2016,New Build
+Brent,Brent,27/06/2016,Conversion
+Hillingdon,Hillingdon,06/06/2016,New Build
+Hackney,Hackney,01/06/2016,New Build
+Havering,Havering,31/03/2016,New Build
+LLDC,Newham,31/03/2016,New Build
+Havering,Havering,14/09/2016,New Build
+Tower Hamlets,Tower Hamlets,10/11/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hillingdon,Hillingdon,11/04/2016,Conversion
+Havering,Havering,13/06/2016,Conversion
+Lewisham,Lewisham,15/03/2016,Conversion
+Brent,Brent,06/01/2016,Conversion
+Hackney,Hackney,14/06/2016,New Build
+Lewisham,Lewisham,29/01/2016,Conversion
+Brent,Brent,17/05/2016,Conversion
+Havering,Havering,19/09/2016,New Build
+Redbridge,Redbridge,26/07/2016,Conversion
+Hackney,Hackney,15/09/2016,New Build
+Camden,Camden,06/04/2016,Conversion
+Brent,Brent,22/01/2016,Conversion
+Wandsworth,Wandsworth,27/04/2016,Conversion
+Lewisham,Lewisham,23/02/2016,Conversion
+Havering,Havering,31/03/2016,New Build
+Brent,Brent,08/06/2016,New Build
+Redbridge,Redbridge,14/06/2016,New Build
+Camden,Camden,01/04/2016,New Build
+Hackney,Hackney,21/07/2016,Conversion
+Tower Hamlets,Tower Hamlets,22/04/2016,New Build
+Merton,Merton,06/12/2016,New Build
+Hackney,Hackney,05/02/2016,Conversion
+Wandsworth,Wandsworth,01/04/2016,Conversion
+Wandsworth,Wandsworth,22/08/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Hackney,Hackney,29/06/2016,Conversion
+Brent,Brent,15/02/2016,Conversion
+Lewisham,Lewisham,01/06/2016,New Build
+Brent,Brent,03/02/2016,Conversion
+Tower Hamlets,Tower Hamlets,11/05/2016,New Build
+Lewisham,Lewisham,01/04/2016,New Build
+Brent,Brent,31/03/2016,Conversion
+Redbridge,Redbridge,14/12/2016,New Build
+Tower Hamlets,Tower Hamlets,31/03/2016,New Build
+Hackney,Hackney,29/02/2016,Conversion
+Brent,Brent,16/06/2016,Conversion
+Redbridge,Redbridge,12/09/2016,New Build
+Havering,Havering,14/09/2016,Conversion
+Wandsworth,Wandsworth,01/04/2016,New Build
+Lewisham,Lewisham,01/02/2016,Conversion
+Merton,Merton,25/01/2016,New Build
+Hackney,Hackney,17/11/2016,Conversion
+Havering,Havering,16/09/2016,New Build
+Havering,Havering,27/01/2016,New Build
+Camden,Camden,18/05/2016,New Build
+Wandsworth,Wandsworth,11/01/2016,Conversion
+Brent,Brent,21/12/2016,Conversion
+Redbridge,Redbridge,13/01/2016,Conversion
+Wandsworth,Wandsworth,15/12/2016,New Build
+Camden,Camden,24/05/2016,New Build
+Lewisham,Lewisham,01/04/2016,New Build
+Hackney,Hackney,31/08/2016,Conversion
+Camden,Camden,04/07/2016,New Build
+Tower Hamlets,Tower Hamlets,15/06/2016,New Build
+Camden,Camden,22/12/2016,New Build
+Camden,Camden,12/01/2016,New Build
+Lewisham,Lewisham,09/05/2016,Conversion
+Camden,Camden,13/01/2016,Conversion
+Wandsworth,Wandsworth,06/12/2016,New Build
+LLDC,Hackney,01/10/2016,New Build
+Tower Hamlets,Tower Hamlets,19/02/2016,Conversion
+Merton,Merton,19/03/2016,New Build
+Camden,Camden,10/03/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Merton,Merton,28/06/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Camden,Camden,04/11/2016,New Build
+Merton,Merton,25/10/2016,Conversion
+Wandsworth,Wandsworth,21/01/2016,New Build
+Lewisham,Lewisham,01/06/2016,Conversion
+Camden,Camden,01/08/2016,Conversion
+Hillingdon,Hillingdon,01/04/2016,Conversion
+Hackney,Hackney,23/12/2016,Conversion
+Redbridge,Redbridge,01/06/2016,New Build
+Havering,Havering,16/09/2016,New Build
+Hillingdon,Hillingdon,01/07/2016,New Build
+Merton,Merton,14/12/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Merton,Merton,30/09/2016,Conversion
+Hackney,Hackney,30/05/2016,New Build
+Hillingdon,Hillingdon,20/07/2016,New Build
+Redbridge,Redbridge,01/09/2016,New Build
+Redbridge,Redbridge,31/03/2016,New Build
+Camden,Camden,28/06/2016,Conversion
+Merton,Merton,12/02/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Brent,Brent,16/09/2016,Conversion
+Lewisham,Lewisham,15/06/2016,New Build
+Brent,Brent,26/07/2016,New Build
+Wandsworth,Wandsworth,22/01/2016,New Build
+Tower Hamlets,Tower Hamlets,22/08/2016,New Build
+Hillingdon,Hillingdon,27/05/2016,Conversion
+Brent,Brent,14/08/2016,Conversion
+Camden,Camden,20/06/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Redbridge,Redbridge,30/11/2016,New Build
+Havering,Havering,02/02/2016,New Build
+Camden,Camden,23/05/2016,Conversion
+Wandsworth,Wandsworth,20/04/2016,Conversion
+Hillingdon,Hillingdon,23/01/2016,New Build
+Tower Hamlets,Tower Hamlets,09/05/2016,New Build
+Merton,Merton,15/11/2016,Conversion
+Brent,Brent,01/02/2016,Conversion
+Wandsworth,Wandsworth,04/02/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Brent,Brent,06/10/2016,New Build
+Hackney,Hackney,01/04/2016,New Build
+City of London,City of London,30/09/2016,Conversion
+Hillingdon,Hillingdon,19/05/2016,Conversion
+Lewisham,Lewisham,01/08/2016,New Build
+Tower Hamlets,Tower Hamlets,26/07/2016,New Build
+Tower Hamlets,Tower Hamlets,15/11/2016,Conversion
+Havering,Havering,19/09/2016,New Build
+Wandsworth,Wandsworth,18/10/2016,New Build
+Lewisham,Lewisham,06/10/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hackney,Hackney,04/03/2016,Conversion
+Camden,Camden,06/06/2016,Conversion
+Tower Hamlets,Tower Hamlets,06/05/2016,Conversion
+Merton,Merton,29/01/2016,New Build
+Hillingdon,Hillingdon,14/03/2016,Conversion
+Redbridge,Redbridge,18/01/2016,New Build
+Brent,Brent,18/08/2016,New Build
+Hackney,Hackney,02/03/2016,Conversion
+Brent,Brent,15/07/2016,Conversion
+Tower Hamlets,Tower Hamlets,14/10/2016,New Build
+Camden,Camden,01/04/2016,Conversion
+Camden,Camden,09/02/2016,Conversion
+Brent,Brent,14/03/2016,Conversion
+Brent,Brent,31/03/2016,New Build
+Brent,Brent,01/06/2016,Conversion
+Redbridge,Redbridge,06/09/2016,New Build
+Tower Hamlets,Tower Hamlets,14/10/2016,New Build
+Tower Hamlets,Tower Hamlets,20/12/2016,New Build
+Redbridge,Redbridge,21/07/2016,Conversion
+Havering,Havering,17/03/2016,New Build
+Merton,Merton,26/04/2016,New Build
+Camden,Camden,31/07/2016,New Build
+Brent,Brent,15/04/2016,Conversion
+Camden,Camden,29/11/2016,New Build
+Tower Hamlets,Tower Hamlets,08/07/2016,New Build
+LLDC,Hackney,03/11/2016,New Build
+Hackney,Hackney,16/08/2016,Conversion
+Camden,Camden,12/01/2016,New Build
+Merton,Merton,22/04/2016,New Build
+Camden,Camden,17/04/2016,Conversion
+Redbridge,Redbridge,31/10/2016,Conversion
+Wandsworth,Wandsworth,01/03/2016,New Build
+Lewisham,Lewisham,01/06/2016,Conversion
+Hackney,Hackney,01/07/2016,New Build
+Hackney,Hackney,14/12/2016,Conversion
+Wandsworth,Wandsworth,01/04/2016,Conversion
+Tower Hamlets,Tower Hamlets,24/11/2016,New Build
+Wandsworth,Wandsworth,27/04/2016,Conversion
+Merton,Merton,01/04/2016,New Build
+Hillingdon,Hillingdon,24/03/2016,New Build
+Lewisham,Lewisham,30/04/2016,New Build
+Brent,Brent,08/06/2016,New Build
+Tower Hamlets,Tower Hamlets,20/07/2016,New Build
+Camden,Camden,20/05/2016,New Build
+Merton,Merton,22/12/2016,Conversion
+Hillingdon,Hillingdon,01/06/2016,New Build
+Camden,Camden,24/05/2016,Conversion
+Camden,Camden,20/07/2016,Conversion
+Tower Hamlets,Tower Hamlets,10/05/2016,New Build
+Redbridge,Redbridge,15/12/2016,Conversion
+Lewisham,Lewisham,01/07/2016,New Build
+Camden,Camden,08/03/2016,Conversion
+Havering,Havering,16/09/2016,New Build
+Hillingdon,Hillingdon,09/09/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Lewisham,Lewisham,01/08/2016,New Build
+Hackney,Hackney,15/08/2016,New Build
+Wandsworth,Wandsworth,28/01/2016,Conversion
+Hackney,Hackney,13/11/2016,New Build
+Hackney,Hackney,19/07/2016,Conversion
+Brent,Brent,31/03/2016,New Build
+Camden,Camden,10/03/2016,Conversion
+Havering,Havering,15/11/2016,Conversion
+Camden,Camden,19/08/2016,New Build
+Wandsworth,Wandsworth,28/04/2016,Conversion
+Brent,Brent,20/06/2016,New Build
+Merton,Merton,29/09/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+OPDC,Ealing,01/10/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Hackney,Hackney,11/03/2016,Conversion
+Brent,Brent,24/03/2016,Conversion
+Redbridge,Redbridge,21/10/2016,Conversion
+Brent,Brent,28/04/2016,New Build
+City of London,City of London,31/03/2016,New Build
+Brent,Brent,26/09/2016,Conversion
+Hackney,Hackney,24/08/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Enfield,Enfield,30/06/2016,New Build
+Barnet,Barnet,04/04/2016,Conversion
+Croydon,Croydon,23/08/2016,Conversion
+Westminster,Westminster,01/03/2016,Conversion
+Barnet,Barnet,01/12/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Southwark,Southwark,18/09/2016,New Build
+Bromley,Bromley,10/11/2016,New Build
+Enfield,Enfield,01/09/2016,New Build
+Ealing,Ealing,04/06/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Westminster,Westminster,21/04/2016,Conversion
+Lambeth,Lambeth,15/03/2016,Conversion
+Croydon,Croydon,11/11/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/09/2016,New Build
+Southwark,Southwark,11/11/2016,Conversion
+Lambeth,Lambeth,25/07/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,16/08/2016,Conversion
+Bromley,Bromley,23/02/2016,New Build
+Croydon,Croydon,31/03/2016,Conversion
+Lambeth,Lambeth,01/04/2016,Conversion
+Bromley,Bromley,01/07/2016,New Build
+Croydon,Croydon,04/05/2016,Conversion
+Lambeth,Lambeth,15/08/2016,Conversion
+Croydon,Croydon,28/07/2016,New Build
+Croydon,Croydon,31/03/2016,Conversion
+Bromley,Bromley,06/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,02/11/2016,New Build
+Barnet,Barnet,01/09/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Sutton,Sutton,01/04/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Croydon,Croydon,12/09/2016,Conversion
+Westminster,Westminster,05/02/2016,New Build
+Enfield,Enfield,15/09/2016,Conversion
+Enfield,Enfield,31/03/2016,New Build
+Ealing,Ealing,12/12/2016,New Build
+Croydon,Croydon,17/08/2016,Conversion
+Bexley,Bexley,01/01/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/05/2016,Conversion
+Ealing,Ealing,01/12/2016,Conversion
+Southwark,Southwark,06/06/2016,Conversion
+Southwark,Southwark,08/08/2016,New Build
+Southwark,Southwark,08/08/2016,New Build
+Barnet,Barnet,22/12/2016,Conversion
+Barnet,Barnet,01/04/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Croydon,Croydon,09/08/2016,New Build
+Croydon,Croydon,03/03/2016,Conversion
+Enfield,Enfield,31/03/2016,New Build
+Croydon,Croydon,25/08/2016,New Build
+Westminster,Westminster,31/12/2016,Conversion
+Southwark,Southwark,03/03/2016,Conversion
+Bromley,Bromley,12/04/2016,New Build
+Southwark,Southwark,25/11/2016,Conversion
+Sutton,Sutton,01/06/2016,Conversion
+Kingston,Kingston upon Thames,21/03/2016,New Build
+Westminster,Westminster,02/06/2016,New Build
+Newham,Newham,08/04/2016,Conversion
+Westminster,Westminster,30/06/2016,Conversion
+Newham,Newham,06/06/2016,Conversion
+Barnet,Barnet,12/04/2016,New Build
+Croydon,Croydon,16/02/2016,Conversion
+Bromley,Bromley,11/04/2016,New Build
+Richmond,Richmond upon Thames,30/09/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Croydon,Croydon,15/06/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Newham,Newham,26/04/2016,Conversion
+Barnet,Barnet,13/08/2016,Conversion
+Sutton,Sutton,01/09/2016,New Build
+Westminster,Westminster,28/10/2016,New Build
+Croydon,Croydon,12/09/2016,New Build
+Croydon,Croydon,18/08/2016,New Build
+Croydon,Croydon,24/11/2016,New Build
+Croydon,Croydon,16/11/2016,Conversion
+Enfield,Enfield,31/05/2016,New Build
+Newham,Newham,04/04/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Croydon,Croydon,04/04/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Croydon,Croydon,16/08/2016,New Build
+Enfield,Enfield,31/03/2016,Conversion
+Bromley,Bromley,07/07/2016,Conversion
+Ealing,Ealing,03/08/2016,New Build
+Croydon,Croydon,04/08/2016,New Build
+Southwark,Southwark,05/05/2016,New Build
+Enfield,Enfield,30/06/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Croydon,Croydon,19/10/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Croydon,Croydon,01/04/2016,Conversion
+Bromley,Bromley,10/02/2016,New Build
+Croydon,Croydon,17/03/2016,Conversion
+Enfield,Enfield,08/08/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Bromley,Bromley,07/07/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,04/05/2016,Conversion
+Croydon,Croydon,04/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,20/06/2016,Conversion
+Croydon,Croydon,25/08/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Bromley,Bromley,17/06/2016,New Build
+Enfield,Enfield,31/03/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Southwark,Southwark,04/04/2016,Conversion
+Barnet,Barnet,30/11/2016,New Build
+Southwark,Southwark,06/03/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Bromley,Bromley,12/09/2016,New Build
+Croydon,Croydon,26/08/2016,New Build
+Enfield,Enfield,31/10/2016,New Build
+Bromley,Bromley,17/06/2016,Conversion
+Westminster,Westminster,01/05/2016,Conversion
+Enfield,Enfield,09/09/2016,New Build
+Barnet,Barnet,13/01/2016,Conversion
+Newham,Newham,16/08/2016,Conversion
+Enfield,Enfield,22/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,13/12/2016,Conversion
+Bromley,Bromley,05/05/2016,New Build
+Bromley,Bromley,02/03/2016,New Build
+Barnet,Barnet,07/03/2016,Conversion
+Bromley,Bromley,21/06/2016,New Build
+Westminster,Westminster,15/02/2016,Conversion
+Westminster,Westminster,29/03/2016,New Build
+Westminster,Westminster,11/03/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Westminster,Westminster,01/04/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Ealing,Ealing,15/07/2016,New Build
+Westminster,Westminster,01/02/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Croydon,Croydon,31/03/2016,Conversion
+Barnet,Barnet,01/01/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Croydon,Croydon,09/08/2016,New Build
+Newham,Newham,16/03/2016,Conversion
+Lambeth,Lambeth,25/04/2016,Conversion
+Lambeth,Lambeth,15/07/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Croydon,Croydon,12/10/2016,Conversion
+Westminster,Westminster,17/10/2016,Conversion
+Bromley,Bromley,22/03/2016,Conversion
+Lambeth,Lambeth,15/08/2016,Conversion
+Croydon,Croydon,28/11/2016,Conversion
+Enfield,Enfield,02/09/2016,New Build
+Richmond,Richmond upon Thames,03/06/2016,Conversion
+Bexley,Bexley,15/03/2016,New Build
+Westminster,Westminster,03/08/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Newham,Newham,04/11/2016,Conversion
+Lambeth,Lambeth,20/08/2016,New Build
+Barnet,Barnet,01/08/2016,Conversion
+Richmond,Richmond upon Thames,18/02/2016,Conversion
+Bromley,Bromley,04/02/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,21/04/2016,Conversion
+Richmond,Richmond upon Thames,31/03/2016,New Build
+Sutton,Sutton,01/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,05/12/2016,Conversion
+Ealing,Ealing,10/10/2016,New Build
+Kingston,Kingston upon Thames,03/11/2016,New Build
+Enfield,Enfield,30/06/2016,Conversion
+Westminster,Westminster,31/12/2016,Conversion
+Croydon,Croydon,26/10/2016,New Build
+Sutton,Sutton,01/09/2016,New Build
+Sutton,Sutton,31/03/2016,Conversion
+Lambeth,Lambeth,28/04/2016,New Build
+Ealing,Ealing,07/09/2016,New Build
+Croydon,Croydon,23/08/2016,New Build
+Lambeth,Lambeth,29/02/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Newham,Newham,31/10/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Westminster,Westminster,31/12/2016,Conversion
+Lambeth,Lambeth,01/09/2016,New Build
+Westminster,Westminster,04/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,09/12/2016,Conversion
+Barnet,Barnet,12/05/2016,Conversion
+Southwark,Southwark,03/03/2016,Conversion
+Ealing,Ealing,10/10/2016,New Build
+Barnet,Barnet,25/11/2016,Conversion
+Bromley,Bromley,17/10/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Westminster,Westminster,01/10/2016,New Build
+Enfield,Enfield,22/08/2016,New Build
+Bromley,Bromley,28/09/2016,Conversion
+Newham,Newham,16/12/2016,Conversion
+Enfield,Enfield,15/04/2016,Conversion
+Croydon,Croydon,26/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,06/06/2016,New Build
+Croydon,Croydon,15/01/2016,Conversion
+Croydon,Croydon,31/03/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Richmond,Richmond upon Thames,30/09/2016,New Build
+Newham,Newham,21/01/2016,Conversion
+Ealing,Ealing,09/08/2016,Conversion
+Croydon,Croydon,06/07/2016,Conversion
+Barnet,Barnet,01/06/2016,Conversion
+Lambeth,Lambeth,15/04/2016,New Build
+Southwark,Southwark,08/08/2016,New Build
+Lambeth,Lambeth,01/07/2016,New Build
+Richmond,Richmond upon Thames,08/01/2016,New Build
+Sutton,Sutton,01/09/2016,Conversion
+Sutton,Sutton,01/08/2016,New Build
+Croydon,Croydon,19/01/2016,New Build
+Ealing,Ealing,01/08/2016,New Build
+Croydon,Croydon,09/11/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,27/04/2016,Conversion
+Croydon,Croydon,23/08/2016,New Build
+Croydon,Croydon,31/03/2016,Conversion
+Lambeth,Lambeth,01/07/2016,New Build
+Bexley,Bexley,12/12/2016,New Build
+Bexley,Bexley,07/10/2016,New Build
+Lambeth,Lambeth,21/05/2016,Conversion
+Newham,Newham,05/02/2016,Conversion
+Ealing,Ealing,11/07/2016,New Build
+Westminster,Westminster,01/10/2016,Conversion
+Croydon,Croydon,07/06/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,14/03/2016,Conversion
+Lambeth,Lambeth,21/01/2016,Conversion
+Newham,Newham,17/06/2016,Conversion
+Lambeth,Lambeth,25/04/2016,Conversion
+Barnet,Barnet,26/01/2016,Conversion
+Bexley,Bexley,16/02/2016,New Build
+Southwark,Southwark,12/12/2016,New Build
+Enfield,Enfield,02/09/2016,New Build
+Barnet,Barnet,14/10/2016,Conversion
+Barnet,Barnet,01/07/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Westminster,Westminster,28/09/2016,Conversion
+Newham,Newham,08/11/2016,Conversion
+Ealing,Ealing,10/10/2016,Conversion
+Enfield,Enfield,01/04/2016,Conversion
+Bromley,Bromley,23/02/2016,New Build
+Croydon,Croydon,29/01/2016,Conversion
+Ealing,Ealing,28/01/2016,Conversion
+Bromley,Bromley,24/02/2016,New Build
+Newham,Newham,04/02/2016,Conversion
+Croydon,Croydon,27/07/2016,Conversion
+Westminster,Westminster,16/08/2016,Conversion
+Croydon,Croydon,31/03/2016,New Build
+Newham,Newham,02/08/2016,Conversion
+Kingston,Kingston upon Thames,23/06/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,22/03/2016,New Build
+Kingston,Kingston upon Thames,22/04/2016,New Build
+Richmond,Richmond upon Thames,21/07/2016,Conversion
+Southwark,Southwark,10/10/2016,New Build
+Southwark,Southwark,01/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/09/2016,Conversion
+Croydon,Croydon,21/11/2016,New Build
+Enfield,Enfield,29/02/2016,Conversion
+Enfield,Enfield,31/03/2016,New Build
+Bexley,Bexley,15/06/2016,New Build
+Southwark,Southwark,06/03/2016,New Build
+Croydon,Croydon,25/08/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Richmond,Richmond upon Thames,02/03/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Croydon,Croydon,17/03/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Southwark,Southwark,12/12/2016,New Build
+Sutton,Sutton,01/01/2016,New Build
+Kingston,Kingston upon Thames,09/03/2016,New Build
+Westminster,Westminster,01/11/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,25/08/2016,Conversion
+Westminster,Westminster,11/06/2016,Conversion
+Southwark,Southwark,10/06/2016,New Build
+Westminster,Westminster,30/11/2016,Conversion
+Barnet,Barnet,14/03/2016,Conversion
+Westminster,Westminster,12/03/2016,Conversion
+Enfield,Enfield,31/03/2016,New Build
+Enfield,Enfield,31/07/2016,New Build
+Ealing,Ealing,24/04/2016,Conversion
+Southwark,Southwark,08/08/2016,New Build
+Newham,Newham,17/06/2016,Conversion
+Enfield,Enfield,29/09/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Ealing,Ealing,11/08/2016,New Build
+Croydon,Croydon,23/08/2016,New Build
+Croydon,Croydon,25/08/2016,Conversion
+Westminster,Westminster,12/03/2016,Conversion
+Lambeth,Lambeth,10/10/2016,New Build
+Lambeth,Lambeth,19/08/2016,Conversion
+Ealing,Ealing,10/10/2016,Conversion
+Lambeth,Lambeth,13/12/2016,Conversion
+Westminster,Westminster,03/03/2016,New Build
+Enfield,Enfield,26/01/2016,New Build
+Richmond,Richmond upon Thames,22/04/2016,Conversion
+Croydon,Croydon,30/09/2016,Conversion
+Ealing,Ealing,01/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,10/06/2016,Conversion
+Richmond,Richmond upon Thames,31/08/2016,Conversion
+Kingston,Kingston upon Thames,08/11/2016,New Build
+Barnet,Barnet,20/05/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Ealing,Ealing,12/07/2016,New Build
+Westminster,Westminster,05/10/2016,Conversion
+Barnet,Barnet,01/03/2016,New Build
+Bromley,Bromley,26/09/2016,New Build
+Southwark,Southwark,06/06/2016,New Build
+Ealing,Ealing,22/06/2016,New Build
+Westminster,Westminster,30/09/2016,New Build
+Barnet,Barnet,24/03/2016,New Build
+Richmond,Richmond upon Thames,27/01/2016,New Build
+Richmond,Richmond upon Thames,08/07/2016,Conversion
+Southwark,Southwark,12/12/2016,New Build
+Barnet,Barnet,21/12/2016,Conversion
+Barnet,Barnet,20/05/2016,Conversion
+Richmond,Richmond upon Thames,12/01/2016,Conversion
+Southwark,Southwark,10/10/2016,New Build
+Westminster,Westminster,01/12/2016,New Build
+Sutton,Sutton,31/03/2016,Conversion
+Southwark,Southwark,09/09/2016,New Build
+Kingston,Kingston upon Thames,05/10/2016,Conversion
+Barnet,Barnet,14/03/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Sutton,Sutton,01/04/2016,Conversion
+Southwark,Southwark,06/06/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Sutton,Sutton,01/09/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Barnet,Barnet,26/07/2016,New Build
+Kingston,Kingston upon Thames,27/10/2016,Conversion
+Barnet,Barnet,01/04/2016,New Build
+Croydon,Croydon,18/08/2016,New Build
+Ealing,Ealing,25/07/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Southwark,Southwark,28/11/2016,Conversion
+Bromley,Bromley,23/03/2016,New Build
+Kingston,Kingston upon Thames,15/12/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Kingston,Kingston upon Thames,12/12/2016,New Build
+Westminster,Westminster,11/02/2016,New Build
+Westminster,Westminster,01/04/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Bexley,Bexley,16/11/2016,Conversion
+Croydon,Croydon,25/11/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Bexley,Bexley,09/02/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Ealing,Ealing,01/10/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Enfield,Enfield,09/06/2016,Conversion
+Enfield,Enfield,01/02/2016,New Build
+Barnet,Barnet,09/06/2016,New Build
+Lewisham,Lewisham,01/06/2016,Conversion
+Redbridge,Redbridge,02/08/2016,Conversion
+Camden,Camden,18/01/2016,Conversion
+Lewisham,Lewisham,01/10/2016,New Build
+Hackney,Hackney,01/11/2016,Conversion
+Brent,Brent,03/10/2016,Conversion
+Hillingdon,Hillingdon,05/10/2016,Conversion
+Camden,Camden,27/06/2016,New Build
+Hillingdon,Hillingdon,12/02/2016,Conversion
+Wandsworth,Wandsworth,25/02/2016,New Build
+Tower Hamlets,Tower Hamlets,25/11/2016,New Build
+Redbridge,Redbridge,22/01/2016,New Build
+Havering,Havering,21/12/2016,New Build
+Brent,Brent,15/12/2016,Conversion
+Lewisham,Lewisham,19/12/2016,New Build
+Redbridge,Redbridge,19/08/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Hackney,Hackney,30/08/2016,New Build
+Tower Hamlets,Tower Hamlets,16/12/2016,Conversion
+Hackney,Hackney,20/01/2016,New Build
+LLDC,Newham,01/07/2016,New Build
+Hackney,Hackney,15/03/2016,New Build
+Tower Hamlets,Tower Hamlets,26/05/2016,New Build
+Lewisham,Lewisham,01/12/2016,New Build
+Merton,Merton,11/04/2016,Conversion
+Hackney,Hackney,15/09/2016,Conversion
+Hackney,Hackney,22/03/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Lewisham,Lewisham,01/07/2016,New Build
+Camden,Camden,15/07/2016,New Build
+Camden,Camden,15/01/2016,New Build
+Camden,Camden,09/11/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Camden,Camden,16/03/2016,New Build
+Hackney,Hackney,14/03/2016,Conversion
+Lewisham,Lewisham,01/12/2016,Conversion
+Hackney,Hackney,01/05/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,12/01/2016,Conversion
+Tower Hamlets,Tower Hamlets,21/06/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,28/01/2016,New Build
+Redbridge,Redbridge,19/09/2016,Conversion
+Havering,Havering,27/07/2016,New Build
+Brent,Brent,05/05/2016,New Build
+Hackney,Hackney,21/07/2016,Conversion
+Hillingdon,Hillingdon,15/08/2016,Conversion
+Havering,Havering,28/07/2016,New Build
+Camden,Camden,21/12/2016,Conversion
+Brent,Brent,31/03/2016,Conversion
+Brent,Brent,11/03/2016,Conversion
+Merton,Merton,01/04/2016,Conversion
+Havering,Havering,08/08/2016,New Build
+Redbridge,Redbridge,15/07/2016,Conversion
+Redbridge,Redbridge,08/07/2016,Conversion
+Brent,Brent,01/02/2016,Conversion
+Wandsworth,Wandsworth,15/06/2016,New Build
+Wandsworth,Wandsworth,21/10/2016,New Build
+Hillingdon,Hillingdon,01/09/2016,New Build
+Brent,Brent,25/04/2016,Conversion
+Wandsworth,Wandsworth,15/04/2016,New Build
+Brent,Brent,04/02/2016,Conversion
+Camden,Camden,15/12/2016,New Build
+Tower Hamlets,Tower Hamlets,11/08/2016,Conversion
+Brent,Brent,25/02/2016,Conversion
+Hackney,Hackney,16/12/2016,Conversion
+Lewisham,Lewisham,30/06/2016,New Build
+Hillingdon,Hillingdon,01/09/2016,New Build
+Redbridge,Redbridge,11/01/2016,Conversion
+Wandsworth,Wandsworth,30/09/2016,New Build
+Havering,Havering,14/09/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Merton,Merton,31/03/2016,New Build
+Hillingdon,Hillingdon,01/07/2016,New Build
+Hackney,Hackney,01/05/2016,New Build
+OPDC,Ealing,17/03/2016,New Build
+Lewisham,Lewisham,31/03/2016,New Build
+Havering,Havering,19/04/2016,New Build
+Wandsworth,Wandsworth,15/12/2016,Conversion
+Hackney,Hackney,25/06/2016,Conversion
+Hackney,Hackney,07/04/2016,New Build
+Hackney,Hackney,31/03/2016,Conversion
+Tower Hamlets,Tower Hamlets,22/03/2016,New Build
+Hillingdon,Hillingdon,04/04/2016,New Build
+Havering,Havering,19/01/2016,Conversion
+Lewisham,Lewisham,15/08/2016,New Build
+Merton,Merton,05/08/2016,Conversion
+Redbridge,Redbridge,02/08/2016,Conversion
+Brent,Brent,29/04/2016,New Build
+Merton,Merton,04/10/2016,New Build
+Wandsworth,Wandsworth,19/01/2016,Conversion
+Camden,Camden,20/05/2016,New Build
+Havering,Havering,01/06/2016,New Build
+Tower Hamlets,Tower Hamlets,10/05/2016,New Build
+Lewisham,Lewisham,01/11/2016,New Build
+Wandsworth,Wandsworth,07/03/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Brent,Brent,22/03/2016,Conversion
+Wandsworth,Wandsworth,03/03/2016,New Build
+Redbridge,Redbridge,08/09/2016,Conversion
+Camden,Camden,30/11/2016,New Build
+Hillingdon,Hillingdon,01/04/2016,Conversion
+Hillingdon,Hillingdon,14/11/2016,Conversion
+Brent,Brent,29/03/2016,Conversion
+Lewisham,Lewisham,01/06/2016,New Build
+Brent,Brent,08/02/2016,Conversion
+Tower Hamlets,Tower Hamlets,26/05/2016,Conversion
+Lewisham,Lewisham,29/01/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Camden,Camden,29/06/2016,Conversion
+OPDC,Ealing,09/06/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Redbridge,Redbridge,25/11/2016,New Build
+Hillingdon,Hillingdon,27/06/2016,Conversion
+Redbridge,Redbridge,11/09/2016,Conversion
+Havering,Havering,14/09/2016,New Build
+Brent,Brent,11/10/2016,Conversion
+Lewisham,Lewisham,29/06/2016,Conversion
+Camden,Camden,09/09/2016,Conversion
+Redbridge,Redbridge,16/09/2016,Conversion
+Hackney,Hackney,01/08/2016,New Build
+Havering,Havering,14/04/2016,New Build
+Wandsworth,Wandsworth,01/02/2016,New Build
+Camden,Camden,04/03/2016,New Build
+Brent,Brent,06/05/2016,Conversion
+Redbridge,Redbridge,01/04/2016,Conversion
+Wandsworth,Wandsworth,22/08/2016,New Build
+Camden,Camden,01/04/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Brent,Brent,26/04/2016,Conversion
+Hackney,Hackney,01/05/2016,New Build
+Lewisham,Lewisham,01/06/2016,Conversion
+Camden,Camden,03/08/2016,Conversion
+Tower Hamlets,Tower Hamlets,19/12/2016,New Build
+Hackney,Hackney,09/02/2016,Conversion
+Lewisham,Lewisham,29/01/2016,Conversion
+Havering,Havering,31/10/2016,New Build
+Wandsworth,Wandsworth,07/07/2016,New Build
+Brent,Brent,08/06/2016,Conversion
+Merton,Merton,08/02/2016,New Build
+Wandsworth,Wandsworth,21/12/2016,New Build
+Camden,Camden,11/11/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hillingdon,Hillingdon,14/03/2016,Conversion
+Wandsworth,Wandsworth,17/06/2016,Conversion
+Camden,Camden,23/09/2016,Conversion
+Tower Hamlets,Tower Hamlets,21/07/2016,New Build
+Havering,Havering,25/11/2016,New Build
+Redbridge,Redbridge,27/04/2016,Conversion
+Lewisham,Lewisham,19/08/2016,New Build
+Camden,Camden,07/12/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Brent,Brent,20/03/2016,New Build
+Brent,Brent,01/10/2016,New Build
+Redbridge,Redbridge,27/10/2016,Conversion
+Tower Hamlets,Tower Hamlets,21/07/2016,Conversion
+Tower Hamlets,Tower Hamlets,01/05/2016,New Build
+Hillingdon,Hillingdon,14/11/2016,Conversion
+Merton,Merton,01/09/2016,Conversion
+Hackney,Hackney,01/06/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Hackney,Hackney,16/12/2016,Conversion
+Redbridge,Redbridge,05/07/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Hackney,Hackney,04/03/2016,Conversion
+Havering,Havering,01/09/2016,New Build
+Tower Hamlets,Tower Hamlets,25/11/2016,New Build
+Brent,Brent,25/10/2016,New Build
+Lewisham,Lewisham,01/02/2016,Conversion
+Havering,Havering,22/08/2016,New Build
+Tower Hamlets,Tower Hamlets,01/09/2016,Conversion
+Wandsworth,Wandsworth,18/03/2016,Conversion
+Camden,Camden,29/04/2016,Conversion
+Camden,Camden,05/10/2016,New Build
+Brent,Brent,14/10/2016,Conversion
+Camden,Camden,19/02/2016,New Build
+Hillingdon,Hillingdon,04/01/2016,New Build
+Camden,Camden,08/09/2016,Conversion
+Havering,Havering,31/03/2016,New Build
+Hillingdon,Hillingdon,30/09/2016,Conversion
+Hackney,Hackney,22/12/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hackney,Hackney,13/05/2016,Conversion
+Redbridge,Redbridge,27/10/2016,Conversion
+Merton,Merton,19/09/2016,New Build
+Camden,Camden,24/09/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+City of London,City of London,31/03/2016,New Build
+Merton,Merton,31/10/2016,Conversion
+Wandsworth,Wandsworth,26/07/2016,New Build
+Camden,Camden,12/05/2016,Conversion
+Hillingdon,Hillingdon,30/04/2016,New Build
+Hackney,Hackney,04/10/2016,New Build
+Lewisham,Lewisham,01/07/2016,New Build
+Hackney,Hackney,02/05/2016,New Build
+Merton,Merton,26/04/2016,New Build
+Lewisham,Lewisham,01/02/2016,New Build
+Hackney,Hackney,28/07/2016,New Build
+Hillingdon,Hillingdon,19/04/2016,Conversion
+Wandsworth,Wandsworth,01/04/2016,Conversion
+Wandsworth,Wandsworth,03/03/2016,Conversion
+Hackney,Hackney,07/09/2016,New Build
+Tower Hamlets,Tower Hamlets,02/12/2016,New Build
+Camden,Camden,13/01/2016,Conversion
+Lewisham,Lewisham,12/04/2016,New Build
+Merton,Merton,01/04/2016,New Build
+Hillingdon,Hillingdon,20/01/2016,Conversion
+Lewisham,Lewisham,01/06/2016,New Build
+Tower Hamlets,Tower Hamlets,20/12/2016,New Build
+Lewisham,Lewisham,24/10/2016,Conversion
+Brent,Brent,23/06/2016,New Build
+Wandsworth,Wandsworth,01/04/2016,New Build
+Havering,Havering,19/09/2016,New Build
+Wandsworth,Wandsworth,06/10/2016,New Build
+Hillingdon,Hillingdon,04/11/2016,New Build
+Redbridge,Redbridge,31/07/2016,New Build
+Hackney,Hackney,06/01/2016,Conversion
+Havering,Havering,07/12/2016,New Build
+Camden,Camden,04/10/2016,Conversion
+Havering,Havering,16/09/2016,Conversion
+Hillingdon,Hillingdon,04/03/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Camden,Camden,29/07/2016,New Build
+Tower Hamlets,Tower Hamlets,08/02/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Lewisham,Lewisham,01/04/2016,New Build
+Brent,Brent,09/06/2016,Conversion
+Brent,Brent,15/08/2016,New Build
+Tower Hamlets,Tower Hamlets,23/11/2016,New Build
+Brent,Brent,06/03/2016,New Build
+Hackney,Hackney,01/02/2016,Conversion
+Lewisham,Lewisham,28/04/2016,Conversion
+Havering,Havering,15/12/2016,New Build
+Redbridge,Redbridge,08/02/2016,Conversion
+Tower Hamlets,Tower Hamlets,22/03/2016,New Build
+Havering,Havering,19/09/2016,Conversion
+Hackney,Hackney,01/06/2016,New Build
+Brent,Brent,15/01/2016,Conversion
+Wandsworth,Wandsworth,02/07/2016,Conversion
+Redbridge,Redbridge,25/11/2016,New Build
+Camden,Camden,12/01/2016,Conversion
+Brent,Brent,01/04/2016,Conversion
+Lewisham,Lewisham,01/07/2016,New Build
+Hackney,Hackney,05/04/2016,New Build
+Wandsworth,Wandsworth,31/10/2016,New Build
+Hillingdon,Hillingdon,22/07/2016,New Build
+Lewisham,Lewisham,01/05/2016,Conversion
+Hackney,Hackney,04/08/2016,Conversion
+Redbridge,Redbridge,18/04/2016,Conversion
+Camden,Camden,21/03/2016,New Build
+Sutton,Sutton,01/09/2016,New Build
+Barnet,Barnet,01/02/2016,New Build
+Richmond,Richmond upon Thames,30/09/2016,Conversion
+Croydon,Croydon,12/05/2016,New Build
+Croydon,Croydon,10/02/2016,New Build
+Ealing,Ealing,01/09/2016,New Build
+Barnet,Barnet,23/12/2016,Conversion
+Newham,Newham,06/04/2016,Conversion
+Bromley,Bromley,28/10/2016,Conversion
+Lambeth,Lambeth,18/03/2016,Conversion
+Ealing,Ealing,10/10/2016,New Build
+Croydon,Croydon,02/12/2016,New Build
+Barnet,Barnet,10/06/2016,Conversion
+Newham,Newham,16/03/2016,Conversion
+Ealing,Ealing,08/02/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Lambeth,Lambeth,01/09/2016,New Build
+Ealing,Ealing,11/05/2016,New Build
+Barnet,Barnet,29/12/2016,Conversion
+Westminster,Westminster,25/02/2016,New Build
+Kingston,Kingston upon Thames,02/02/2016,New Build
+Enfield,Enfield,30/06/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/02/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Ealing,Ealing,22/07/2016,New Build
+Bromley,Bromley,13/07/2016,Conversion
+Bromley,Bromley,31/08/2016,New Build
+Barnet,Barnet,31/03/2016,New Build
+Enfield,Enfield,20/04/2016,New Build
+Bexley,Bexley,21/07/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Sutton,Sutton,15/12/2016,Conversion
+Bromley,Bromley,11/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Bexley,Bexley,23/08/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Barnet,Barnet,19/05/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Westminster,Westminster,16/10/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Westminster,Westminster,04/03/2016,Conversion
+Newham,Newham,14/11/2016,Conversion
+Barnet,Barnet,03/05/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,16/09/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/04/2016,New Build
+Croydon,Croydon,26/08/2016,Conversion
+Ealing,Ealing,24/10/2016,Conversion
+Kingston,Kingston upon Thames,02/02/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Bexley,Bexley,24/11/2016,New Build
+Bexley,Bexley,18/02/2016,Conversion
+Lambeth,Lambeth,01/11/2016,New Build
+Croydon,Croydon,31/03/2016,Conversion
+Barnet,Barnet,01/09/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,07/10/2016,Conversion
+Croydon,Croydon,24/11/2016,New Build
+Enfield,Enfield,25/08/2016,Conversion
+Westminster,Westminster,31/03/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Westminster,Westminster,01/03/2016,New Build
+Sutton,Sutton,01/04/2016,New Build
+Westminster,Westminster,15/01/2016,Conversion
+Lambeth,Lambeth,03/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,20/02/2016,Conversion
+Bromley,Bromley,02/01/2016,Conversion
+Newham,Newham,13/06/2016,Conversion
+Bexley,Bexley,12/04/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,24/10/2016,Conversion
+Newham,Newham,22/08/2016,Conversion
+Barnet,Barnet,04/10/2016,New Build
+Croydon,Croydon,29/02/2016,Conversion
+Barnet,Barnet,26/07/2016,New Build
+Enfield,Enfield,27/06/2016,Conversion
+Ealing,Ealing,12/08/2016,New Build
+Croydon,Croydon,12/09/2016,Conversion
+Richmond,Richmond upon Thames,02/02/2016,New Build
+Bexley,Bexley,01/02/2016,New Build
+Westminster,Westminster,02/09/2016,New Build
+Bromley,Bromley,29/02/2016,Conversion
+Southwark,Southwark,03/08/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Westminster,Westminster,01/09/2016,New Build
+Barnet,Barnet,28/07/2016,New Build
+Croydon,Croydon,25/08/2016,Conversion
+Croydon,Croydon,26/08/2016,Conversion
+Kingston,Kingston upon Thames,16/03/2016,New Build
+Croydon,Croydon,25/08/2016,Conversion
+Newham,Newham,20/01/2016,Conversion
+Sutton,Sutton,01/06/2016,New Build
+Westminster,Westminster,05/04/2016,Conversion
+Kingston,Kingston upon Thames,10/08/2016,New Build
+Barnet,Barnet,28/04/2016,Conversion
+Ealing,Ealing,10/06/2016,New Build
+Westminster,Westminster,11/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,20/09/2016,Conversion
+Southwark,Southwark,01/09/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,26/08/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Westminster,Westminster,01/05/2016,Conversion
+Lambeth,Lambeth,25/01/2016,New Build
+Enfield,Enfield,01/03/2016,New Build
+Bromley,Bromley,18/01/2016,Conversion
+Enfield,Enfield,21/01/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Bexley,Bexley,06/12/2016,New Build
+Ealing,Ealing,10/07/2016,New Build
+Newham,Newham,12/08/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Lambeth,Lambeth,10/08/2016,New Build
+Westminster,Westminster,05/03/2016,New Build
+Barnet,Barnet,01/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,26/02/2016,Conversion
+Lambeth,Lambeth,01/09/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Bromley,Bromley,28/09/2016,New Build
+Southwark,Southwark,08/12/2016,New Build
+Southwark,Southwark,09/03/2016,Conversion
+Westminster,Westminster,01/06/2016,Conversion
+Croydon,Croydon,04/04/2016,New Build
+Sutton,Sutton,01/07/2016,New Build
+Barnet,Barnet,01/08/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Newham,Newham,26/10/2016,Conversion
+Bromley,Bromley,22/12/2016,Conversion
+Westminster,Westminster,29/11/2016,Conversion
+Westminster,Westminster,31/03/2016,New Build
+Lambeth,Lambeth,05/09/2016,New Build
+Kingston,Kingston upon Thames,04/05/2016,New Build
+Barnet,Barnet,01/01/2016,Conversion
+Southwark,Southwark,09/08/2016,New Build
+Richmond,Richmond upon Thames,17/08/2016,New Build
+Lambeth,Lambeth,11/01/2016,New Build
+Lambeth,Lambeth,05/12/2016,New Build
+Bromley,Bromley,03/12/2016,New Build
+Barnet,Barnet,05/05/2016,Conversion
+Sutton,Sutton,01/07/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,08/08/2016,Conversion
+Ealing,Ealing,07/11/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/06/2016,Conversion
+Barnet,Barnet,31/10/2016,New Build
+Kingston,Kingston upon Thames,24/03/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Richmond,Richmond upon Thames,30/09/2016,New Build
+Enfield,Enfield,18/08/2016,Conversion
+Croydon,Croydon,20/06/2016,New Build
+Sutton,Sutton,01/09/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,30/04/2016,Conversion
+Croydon,Croydon,17/08/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Enfield,Enfield,31/03/2016,Conversion
+Enfield,Enfield,02/09/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Westminster,Westminster,04/03/2016,New Build
+Lambeth,Lambeth,10/10/2016,Conversion
+Ealing,Ealing,26/09/2016,New Build
+Westminster,Westminster,27/03/2016,New Build
+Southwark,Southwark,16/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/07/2016,Conversion
+Southwark,Southwark,10/04/2016,New Build
+Barnet,Barnet,01/11/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,23/08/2016,Conversion
+Bromley,Bromley,22/09/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/09/2016,Conversion
+Croydon,Croydon,18/08/2016,New Build
+Richmond,Richmond upon Thames,01/09/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Newham,Newham,04/11/2016,Conversion
+Croydon,Croydon,26/08/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Lambeth,Lambeth,31/03/2016,Conversion
+Westminster,Westminster,30/03/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Richmond,Richmond upon Thames,01/10/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Croydon,Croydon,02/02/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,21/09/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,25/07/2016,Conversion
+Ealing,Ealing,01/08/2016,Conversion
+Kingston,Kingston upon Thames,01/12/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Bromley,Bromley,20/09/2016,New Build
+Lambeth,Lambeth,01/02/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,08/07/2016,Conversion
+Croydon,Croydon,26/08/2016,Conversion
+Sutton,Sutton,31/07/2016,Conversion
+Ealing,Ealing,22/05/2016,New Build
+Ealing,Ealing,23/06/2016,New Build
+Enfield,Enfield,30/12/2016,Conversion
+Southwark,Southwark,08/08/2016,Conversion
+Newham,Newham,15/07/2016,Conversion
+Barnet,Barnet,03/08/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Enfield,Enfield,28/06/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Croydon,Croydon,26/08/2016,New Build
+Croydon,Croydon,25/08/2016,Conversion
+Croydon,Croydon,11/02/2016,Conversion
+Southwark,Southwark,10/10/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,11/05/2016,Conversion
+Croydon,Croydon,31/03/2016,Conversion
+Enfield,Enfield,02/09/2016,New Build
+Southwark,Southwark,08/03/2016,Conversion
+Kingston,Kingston upon Thames,20/05/2016,New Build
+Westminster,Westminster,11/03/2016,Conversion
+Ealing,Ealing,01/10/2016,Conversion
+Enfield,Enfield,30/06/2016,New Build
+Croydon,Croydon,23/05/2016,New Build
+Lambeth,Lambeth,17/09/2016,New Build
+Westminster,Westminster,30/03/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Barnet,Barnet,01/07/2016,New Build
+Bromley,Bromley,31/03/2016,New Build
+Bromley,Bromley,16/08/2016,Conversion
+Enfield,Enfield,30/09/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Lambeth,Lambeth,15/06/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,22/04/2016,Conversion
+Westminster,Westminster,12/03/2016,Conversion
+Richmond,Richmond upon Thames,10/03/2016,Conversion
+Southwark,Southwark,28/12/2016,Conversion
+Bromley,Bromley,28/06/2016,New Build
+Enfield,Enfield,31/10/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Barnet,Barnet,13/09/2016,Conversion
+Southwark,Southwark,04/09/2016,New Build
+Richmond,Richmond upon Thames,30/06/2016,Conversion
+Barnet,Barnet,22/03/2016,New Build
+Kingston,Kingston upon Thames,28/11/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,02/06/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Newham,Newham,03/06/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Barnet,Barnet,01/08/2016,New Build
+Southwark,Southwark,03/08/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Barnet,Barnet,14/10/2016,Conversion
+Barnet,Barnet,30/08/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Westminster,Westminster,01/03/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/11/2016,Conversion
+Westminster,Westminster,30/04/2016,Conversion
+Lambeth,Lambeth,11/04/2016,Conversion
+Barnet,Barnet,14/01/2016,Conversion
+Croydon,Croydon,13/12/2016,New Build
+Barnet,Barnet,28/09/2016,New Build
+Croydon,Croydon,24/11/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Ealing,Ealing,28/04/2016,Conversion
+Enfield,Enfield,30/06/2016,New Build
+Croydon,Croydon,23/08/2016,New Build
+Enfield,Enfield,05/10/2016,New Build
+Croydon,Croydon,19/05/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Richmond,Richmond upon Thames,19/04/2016,New Build
+Bexley,Bexley,01/02/2016,New Build
+Southwark,Southwark,07/07/2016,New Build
+Westminster,Westminster,07/12/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Sutton,Sutton,01/04/2016,Conversion
+Lambeth,Lambeth,21/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Richmond,Richmond upon Thames,28/11/2016,New Build
+Croydon,Croydon,25/08/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Bromley,Bromley,22/01/2016,New Build
+Barnet,Barnet,01/01/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Westminster,Westminster,04/01/2016,New Build
+Bromley,Bromley,24/08/2016,New Build
+Westminster,Westminster,12/01/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,21/06/2016,Conversion
+Southwark,Southwark,07/12/2016,Conversion
+Bromley,Bromley,22/08/2016,New Build
+Croydon,Croydon,31/03/2016,Conversion
+Lambeth,Lambeth,24/08/2016,Conversion
+Barnet,Barnet,26/10/2016,Conversion
+Lambeth,Lambeth,04/01/2016,New Build
+Lambeth,Lambeth,01/06/2016,Conversion
+Lambeth,Lambeth,13/05/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Bromley,Bromley,20/04/2016,New Build
+Southwark,Southwark,01/09/2016,Conversion
+Westminster,Westminster,02/02/2016,Conversion
+Kingston,Kingston upon Thames,07/06/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Barnet,Barnet,29/09/2016,New Build
+Sutton,Sutton,21/07/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,11/04/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Westminster,Westminster,14/12/2016,New Build
+Croydon,Croydon,19/01/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,18/11/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Croydon,Croydon,02/08/2016,New Build
+Lambeth,Lambeth,25/11/2016,New Build
+Richmond,Richmond upon Thames,30/01/2016,Conversion
+Lambeth,Lambeth,18/10/2016,Conversion
+Croydon,Croydon,02/02/2016,Conversion
+Lambeth,Lambeth,12/02/2016,Conversion
+Croydon,Croydon,18/08/2016,New Build
+Westminster,Westminster,11/03/2016,Conversion
+Richmond,Richmond upon Thames,01/03/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Southwark,Southwark,10/10/2016,Conversion
+Barnet,Barnet,23/05/2016,Conversion
+Barnet,Barnet,02/05/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Southwark,Southwark,04/03/2016,Conversion
+Newham,Newham,24/10/2016,Conversion
+Newham,Newham,05/09/2016,Conversion
+Richmond,Richmond upon Thames,14/06/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Richmond,Richmond upon Thames,24/10/2016,New Build
+Ealing,Ealing,31/08/2016,New Build
+Enfield,Enfield,22/08/2016,New Build
+Barnet,Barnet,18/08/2016,New Build
+Westminster,Westminster,25/03/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Kingston,Kingston upon Thames,17/05/2016,New Build
+Bexley,Bexley,28/09/2016,New Build
+Westminster,Westminster,15/06/2016,New Build
+Croydon,Croydon,31/03/2016,Conversion
+Bexley,Bexley,05/12/2016,New Build
+Westminster,Westminster,31/12/2016,Conversion
+Croydon,Croydon,23/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,11/05/2016,Conversion
+Southwark,Southwark,18/04/2016,New Build
+Ealing,Ealing,30/01/2016,Conversion
+Barnet,Barnet,01/11/2016,New Build
+Kingston,Kingston upon Thames,04/08/2016,New Build
+Richmond,Richmond upon Thames,01/05/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,15/08/2016,Conversion
+Barnet,Barnet,25/10/2016,New Build
+Barnet,Barnet,22/11/2016,Conversion
+Ealing,Ealing,01/10/2016,Conversion
+Sutton,Sutton,01/01/2016,New Build
+Westminster,Westminster,17/03/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Barnet,Barnet,01/06/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Kingston,Kingston upon Thames,06/05/2016,New Build
+Sutton,Sutton,01/01/2016,New Build
+Kingston,Kingston upon Thames,11/02/2016,New Build
+Croydon,Croydon,02/12/2016,Conversion
+Barnet,Barnet,27/05/2016,Conversion
+Enfield,Enfield,02/09/2016,New Build
+Westminster,Westminster,15/03/2016,Conversion
+Croydon,Croydon,18/08/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Westminster,Westminster,21/07/2016,Conversion
+Newham,Newham,22/11/2016,Conversion
+Southwark,Southwark,12/09/2016,New Build
+Lambeth,Lambeth,03/11/2016,New Build
+Westminster,Westminster,15/05/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Croydon,Croydon,01/03/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Kingston,Kingston upon Thames,03/08/2016,New Build
+Westminster,Westminster,31/12/2016,Conversion
+Croydon,Croydon,28/09/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Croydon,Croydon,05/05/2016,Conversion
+Ealing,Ealing,01/07/2016,New Build
+Newham,Newham,12/02/2016,Conversion
+Barnet,Barnet,21/03/2016,New Build
+Enfield,Enfield,31/03/2016,New Build
+Bromley,Bromley,13/05/2016,New Build
+Enfield,Enfield,14/07/2016,Conversion
+Westminster,Westminster,17/02/2016,Conversion
+Richmond,Richmond upon Thames,01/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,17/08/2016,Conversion
+Barnet,Barnet,26/02/2016,Conversion
+Bromley,Bromley,19/08/2016,New Build
+Southwark,Southwark,05/08/2016,Conversion
+Enfield,Enfield,29/09/2016,New Build
+Newham,Newham,17/02/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Barnet,Barnet,29/06/2016,New Build
+Croydon,Croydon,23/05/2016,New Build
+Ealing,Ealing,15/12/2016,Conversion
+Barnet,Barnet,23/12/2016,Conversion
+Kingston,Kingston upon Thames,11/11/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Croydon,Croydon,26/08/2016,Conversion
+Ealing,Ealing,01/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Richmond,Richmond upon Thames,15/06/2016,New Build
+Kingston,Kingston upon Thames,17/03/2016,New Build
+Croydon,Croydon,25/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,28/09/2016,New Build
+Bexley,Bexley,14/03/2016,New Build
+Sutton,Sutton,01/06/2016,New Build
+Bexley,Bexley,23/08/2016,Conversion
+Ealing,Ealing,04/06/2016,Conversion
+Croydon,Croydon,23/08/2016,New Build
+Sutton,Sutton,01/09/2016,Conversion
+Croydon,Croydon,17/08/2016,Conversion
+Lambeth,Lambeth,20/08/2016,New Build
+Enfield,Enfield,30/04/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Barnet,Barnet,12/02/2016,New Build
+Ealing,Ealing,15/02/2016,Conversion
+Croydon,Croydon,14/09/2016,Conversion
+Ealing,Ealing,27/05/2016,Conversion
+Croydon,Croydon,15/06/2016,Conversion
+Westminster,Westminster,12/08/2016,New Build
+Lambeth,Lambeth,20/04/2016,Conversion
+Richmond,Richmond upon Thames,14/09/2016,New Build
+Barnet,Barnet,11/04/2016,Conversion
+Croydon,Croydon,26/08/2016,New Build
+Bromley,Bromley,05/07/2016,New Build
+Newham,Newham,14/12/2016,Conversion
+Ealing,Ealing,11/11/2016,Conversion
+Southwark,Southwark,30/01/2016,New Build
+Bromley,Bromley,01/07/2016,New Build
+Croydon,Croydon,23/08/2016,New Build
+Lambeth,Lambeth,22/10/2016,Conversion
+Richmond,Richmond upon Thames,22/12/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,02/05/2016,Conversion
+Croydon,Croydon,22/09/2016,Conversion
+Lambeth,Lambeth,18/05/2016,New Build
+Westminster,Westminster,04/01/2016,New Build
+Westminster,Westminster,01/06/2016,Conversion
+Ealing,Ealing,01/10/2016,Conversion
+Enfield,Enfield,23/09/2016,New Build
+Lambeth,Lambeth,29/09/2016,Conversion
+Bromley,Bromley,10/08/2016,New Build
+Croydon,Croydon,12/09/2016,New Build
+Richmond,Richmond upon Thames,05/12/2016,Conversion
+Bexley,Bexley,04/05/2016,New Build
+Croydon,Croydon,31/03/2016,Conversion
+Ealing,Ealing,15/10/2016,New Build
+Bromley,Bromley,15/11/2016,Conversion
+Lambeth,Lambeth,20/05/2016,Conversion
+Ealing,Ealing,10/05/2016,Conversion
+Enfield,Enfield,01/05/2016,New Build
+Lambeth,Lambeth,13/04/2016,Conversion
+Richmond,Richmond upon Thames,31/03/2016,New Build
+Ealing,Ealing,02/02/2016,New Build
+Barnet,Barnet,28/07/2016,New Build
+Croydon,Croydon,18/05/2016,New Build
+Westminster,Westminster,03/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Westminster,Westminster,12/03/2016,New Build
+Barnet,Barnet,15/10/2016,New Build
+Sutton,Sutton,01/04/2016,New Build
+Southwark,Southwark,01/10/2016,Conversion
+Kingston,Kingston upon Thames,01/04/2016,Conversion
+Westminster,Westminster,16/12/2016,New Build
+Richmond,Richmond upon Thames,14/03/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Ealing,Ealing,01/01/2016,Conversion
+Croydon,Croydon,18/08/2016,New Build
+Westminster,Westminster,28/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,12/01/2016,Conversion
+Southwark,Southwark,08/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,29/02/2016,Conversion
+Barnet,Barnet,01/10/2016,New Build
+Sutton,Sutton,01/04/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Southwark,Southwark,25/07/2016,Conversion
+Bromley,Bromley,20/09/2016,New Build
+Kingston,Kingston upon Thames,18/11/2016,New Build
+Enfield,Enfield,19/01/2016,Conversion
+Enfield,Enfield,30/09/2016,Conversion
+Newham,Newham,31/03/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,30/03/2016,Conversion
+Croydon,Croydon,25/08/2016,Conversion
+Westminster,Westminster,27/10/2016,New Build
+Ealing,Ealing,07/03/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,22/07/2016,New Build
+Hillingdon,Hillingdon,30/11/2016,Conversion
+Merton,Merton,07/11/2016,New Build
+Havering,Havering,16/11/2016,New Build
+City of London,City of London,30/09/2016,New Build
+Camden,Camden,14/06/2016,New Build
+Merton,Merton,05/09/2016,Conversion
+Brent,Brent,08/06/2016,New Build
+Brent,Brent,31/03/2016,Conversion
+Havering,Havering,19/12/2016,Conversion
+Merton,Merton,18/10/2016,New Build
+Hackney,Hackney,21/09/2016,Conversion
+OPDC,Ealing,01/06/2016,New Build
+Hackney,Hackney,15/02/2016,New Build
+Havering,Havering,02/06/2016,New Build
+Hackney,Hackney,11/03/2016,Conversion
+Camden,Camden,02/03/2016,Conversion
+Hackney,Hackney,14/05/2016,Conversion
+OPDC,Ealing,01/06/2016,New Build
+Wandsworth,Wandsworth,14/06/2016,Conversion
+Havering,Havering,08/02/2016,New Build
+Lewisham,Lewisham,01/06/2016,Conversion
+Havering,Havering,18/01/2016,New Build
+Hackney,Hackney,01/09/2016,Conversion
+Havering,Havering,27/10/2016,New Build
+Havering,Havering,15/06/2016,New Build
+Merton,Merton,24/08/2016,Conversion
+Merton,Merton,01/03/2016,New Build
+Lewisham,Lewisham,30/07/2016,New Build
+Westminster,Westminster,05/04/2016,Conversion
+Croydon,Croydon,12/09/2016,New Build
+Ealing,Ealing,28/11/2016,New Build
+Bexley,Bexley,01/04/2016,New Build
+Croydon,Croydon,27/01/2016,Conversion
+Kingston,Kingston upon Thames,14/09/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Croydon,Croydon,11/01/2016,Conversion
+Kingston,Kingston upon Thames,18/03/2016,Conversion
+Barnet,Barnet,01/04/2016,New Build
+Enfield,Enfield,25/08/2016,New Build
+Bromley,Bromley,05/07/2016,Conversion
+Enfield,Enfield,07/09/2016,New Build
+Richmond,Richmond upon Thames,14/11/2016,New Build
+Southwark,Southwark,01/07/2016,Conversion
+Croydon,Croydon,31/03/2016,Conversion
+Enfield,Enfield,30/04/2016,Conversion
+Croydon,Croydon,26/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/12/2016,Conversion
+Bexley,Bexley,03/05/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Ealing,Ealing,01/07/2016,New Build
+Croydon,Croydon,18/08/2016,Conversion
+Sutton,Sutton,01/08/2016,New Build
+Croydon,Croydon,25/08/2016,Conversion
+Barnet,Barnet,31/10/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Barnet,Barnet,23/08/2016,Conversion
+Sutton,Sutton,30/08/2016,New Build
+Bromley,Bromley,14/06/2016,Conversion
+Croydon,Croydon,03/03/2016,New Build
+Ealing,Ealing,10/10/2016,Conversion
+Sutton,Sutton,01/09/2016,New Build
+Enfield,Enfield,31/08/2016,New Build
+Barnet,Barnet,26/11/2016,Conversion
+Bromley,Bromley,25/07/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Southwark,Southwark,09/08/2016,New Build
+Bromley,Bromley,22/11/2016,New Build
+Westminster,Westminster,20/12/2016,Conversion
+Ealing,Ealing,05/06/2016,New Build
+Kingston,Kingston upon Thames,07/09/2016,New Build
+Barnet,Barnet,01/08/2016,New Build
+Lambeth,Lambeth,19/08/2016,New Build
+Croydon,Croydon,14/12/2016,New Build
+Barnet,Barnet,18/03/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Ealing,Ealing,27/07/2016,Conversion
+Lambeth,Lambeth,23/09/2016,New Build
+Enfield,Enfield,31/07/2016,New Build
+Lambeth,Lambeth,29/04/2016,Conversion
+Sutton,Sutton,01/09/2016,New Build
+Croydon,Croydon,15/06/2016,Conversion
+Croydon,Croydon,31/03/2016,Conversion
+Sutton,Sutton,01/09/2016,New Build
+Lambeth,Lambeth,07/06/2016,Conversion
+Enfield,Enfield,20/06/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,28/09/2016,Conversion
+Croydon,Croydon,29/10/2016,New Build
+Bromley,Bromley,15/12/2016,Conversion
+Barnet,Barnet,16/12/2016,New Build
+Lambeth,Lambeth,22/08/2016,Conversion
+Croydon,Croydon,23/08/2016,New Build
+Bexley,Bexley,23/08/2016,New Build
+Newham,Newham,02/03/2016,Conversion
+Enfield,Enfield,30/09/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Westminster,Westminster,24/10/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Lambeth,Lambeth,15/12/2016,Conversion
+Ealing,Ealing,31/03/2016,New Build
+Croydon,Croydon,26/09/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Croydon,Croydon,26/08/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,21/04/2016,Conversion
+Ealing,Ealing,01/10/2016,New Build
+Bromley,Bromley,14/03/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Bexley,Bexley,15/03/2016,New Build
+Ealing,Ealing,01/01/2016,New Build
+Richmond,Richmond upon Thames,01/09/2016,Conversion
+Barnet,Barnet,04/11/2016,Conversion
+Enfield,Enfield,31/01/2016,Conversion
+Kingston,Kingston upon Thames,15/12/2016,New Build
+Barnet,Barnet,22/01/2016,New Build
+Bromley,Bromley,12/04/2016,New Build
+Enfield,Enfield,24/06/2016,Conversion
+Croydon,Croydon,06/05/2016,New Build
+Ealing,Ealing,20/04/2016,New Build
+Ealing,Ealing,29/06/2016,New Build
+Barnet,Barnet,01/04/2016,Conversion
+Richmond,Richmond upon Thames,27/01/2016,Conversion
+Enfield,Enfield,31/03/2016,New Build
+Barnet,Barnet,16/09/2016,Conversion
+Kingston,Kingston upon Thames,22/03/2016,New Build
+Croydon,Croydon,11/11/2016,Conversion
+Lambeth,Lambeth,27/07/2016,Conversion
+Newham,Newham,13/12/2016,Conversion
+Southwark,Southwark,06/06/2016,Conversion
+Enfield,Enfield,31/07/2016,New Build
+Newham,Newham,29/09/2016,Conversion
+Lambeth,Lambeth,30/09/2016,Conversion
+Ealing,Ealing,03/08/2016,New Build
+Enfield,Enfield,25/08/2016,Conversion
+Barnet,Barnet,23/05/2016,New Build
+Southwark,Southwark,16/03/2016,New Build
+Bexley,Bexley,07/12/2016,New Build
+Newham,Newham,02/12/2016,Conversion
+Enfield,Enfield,16/11/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Southwark,Southwark,30/11/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,18/04/2016,Conversion
+Bromley,Bromley,24/07/2016,New Build
+Kingston,Kingston upon Thames,17/11/2016,New Build
+Richmond,Richmond upon Thames,01/07/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,29/07/2016,Conversion
+Ealing,Ealing,10/10/2016,Conversion
+Kingston,Kingston upon Thames,09/09/2016,New Build
+Ealing,Ealing,07/11/2016,Conversion
+Croydon,Croydon,31/03/2016,Conversion
+Croydon,Croydon,25/08/2016,Conversion
+Ealing,Ealing,05/09/2016,Conversion
+Ealing,Ealing,01/10/2016,New Build
+Barnet,Barnet,06/06/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,30/06/2016,New Build
+Kingston,Kingston upon Thames,05/08/2016,New Build
+Barnet,Barnet,04/04/2016,Conversion
+Bromley,Bromley,16/08/2016,New Build
+Enfield,Enfield,26/08/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,22/07/2016,Conversion
+Bromley,Bromley,12/12/2016,Conversion
+Sutton,Sutton,01/04/2016,New Build
+Lambeth,Lambeth,20/03/2016,New Build
+Bexley,Bexley,01/02/2016,New Build
+Croydon,Croydon,01/08/2016,New Build
+Bromley,Bromley,10/03/2016,Conversion
+Bexley,Bexley,23/08/2016,New Build
+Barnet,Barnet,04/07/2016,New Build
+Southwark,Southwark,06/06/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Bexley,Bexley,27/05/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,17/03/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Bromley,Bromley,06/05/2016,New Build
+Barnet,Barnet,21/04/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Bromley,Bromley,04/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,24/03/2016,Conversion
+Richmond,Richmond upon Thames,30/09/2016,New Build
+Sutton,Sutton,01/04/2016,Conversion
+Bexley,Bexley,20/07/2016,Conversion
+Enfield,Enfield,28/04/2016,Conversion
+Enfield,Enfield,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,02/12/2016,Conversion
+Lambeth,Lambeth,01/07/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/04/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,21/09/2016,Conversion
+Newham,Newham,28/06/2016,Conversion
+Bromley,Bromley,14/01/2016,Conversion
+Bexley,Bexley,15/04/2016,New Build
+Westminster,Westminster,04/03/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,08/01/2016,New Build
+Lambeth,Lambeth,30/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,21/11/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Sutton,Sutton,01/07/2016,New Build
+Southwark,Southwark,10/10/2016,New Build
+Westminster,Westminster,02/03/2016,New Build
+Southwark,Southwark,03/03/2016,New Build
+Richmond,Richmond upon Thames,21/04/2016,Conversion
+Barnet,Barnet,16/05/2016,New Build
+Sutton,Sutton,01/04/2016,New Build
+Westminster,Westminster,31/03/2016,Conversion
+Kingston,Kingston upon Thames,28/10/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,28/07/2016,New Build
+Barnet,Barnet,27/05/2016,Conversion
+Newham,Newham,31/03/2016,Conversion
+Newham,Newham,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,08/02/2016,Conversion
+Bromley,Bromley,14/12/2016,Conversion
+Newham,Newham,12/04/2016,Conversion
+Southwark,Southwark,02/02/2016,Conversion
+Croydon,Croydon,27/01/2016,New Build
+Ealing,Ealing,10/10/2016,New Build
+Croydon,Croydon,19/05/2016,Conversion
+Sutton,Sutton,31/07/2016,New Build
+Enfield,Enfield,01/09/2016,New Build
+Croydon,Croydon,26/08/2016,Conversion
+Southwark,Southwark,19/08/2016,Conversion
+Sutton,Sutton,31/03/2016,Conversion
+Bromley,Bromley,12/12/2016,New Build
+Ealing,Ealing,01/10/2016,Conversion
+Barnet,Barnet,15/03/2016,New Build
+Sutton,Sutton,01/03/2016,Conversion
+Barnet,Barnet,18/10/2016,New Build
+Westminster,Westminster,11/03/2016,Conversion
+Croydon,Croydon,23/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,21/12/2016,Conversion
+Ealing,Ealing,29/11/2016,Conversion
+Westminster,Westminster,18/12/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,07/10/2016,Conversion
+Lambeth,Lambeth,06/07/2016,Conversion
+Lambeth,Lambeth,07/03/2016,Conversion
+Newham,Newham,01/03/2016,Conversion
+Westminster,Westminster,01/11/2016,Conversion
+Enfield,Enfield,30/09/2016,New Build
+Lambeth,Lambeth,01/10/2016,New Build
+Kingston,Kingston upon Thames,14/03/2016,New Build
+Croydon,Croydon,26/01/2016,New Build
+Newham,Newham,01/03/2016,Conversion
+Barnet,Barnet,09/06/2016,Conversion
+Croydon,Croydon,08/09/2016,Conversion
+Croydon,Croydon,04/03/2016,Conversion
+Westminster,Westminster,30/06/2016,Conversion
+Westminster,Westminster,04/03/2016,New Build
+Westminster,Westminster,11/03/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,12/04/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,02/06/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,24/06/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,01/04/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,18/05/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,08/01/2016,Conversion
+Lambeth,Lambeth,22/07/2016,Conversion
+Richmond,Richmond upon Thames,31/08/2016,Conversion
+Lambeth,Lambeth,04/03/2016,New Build
+Bexley,Bexley,10/03/2016,Conversion
+Ealing,Ealing,30/06/2016,New Build
+Bexley,Bexley,27/10/2016,New Build
+Barnet,Barnet,01/09/2016,New Build
+Bromley,Bromley,17/10/2016,New Build
+Bromley,Bromley,24/05/2016,New Build
+Croydon,Croydon,18/04/2016,Conversion
+Kingston,Kingston upon Thames,18/11/2016,New Build
+Ealing,Ealing,01/10/2016,Conversion
+Bexley,Bexley,26/04/2016,New Build
+Bexley,Bexley,22/02/2016,New Build
+Barnet,Barnet,01/12/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,03/10/2016,Conversion
+Lambeth,Lambeth,06/07/2016,New Build
+Sutton,Sutton,01/05/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,31/05/2016,New Build
+Ealing,Ealing,22/06/2016,New Build
+Barnet,Barnet,19/01/2016,Conversion
+Barnet,Barnet,08/08/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Barnet,Barnet,02/09/2016,New Build
+Bromley,Bromley,10/02/2016,Conversion
+Croydon,Croydon,26/08/2016,Conversion
+Sutton,Sutton,01/09/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,12/05/2016,New Build
+Bromley,Bromley,23/09/2016,Conversion
+Croydon,Croydon,23/08/2016,New Build
+Richmond,Richmond upon Thames,14/10/2016,Conversion
+Kingston,Kingston upon Thames,01/07/2016,New Build
+Bromley,Bromley,31/03/2016,New Build
+Newham,Newham,12/09/2016,Conversion
+Sutton,Sutton,01/08/2016,New Build
+Enfield,Enfield,08/08/2016,Conversion
+Sutton,Sutton,31/03/2016,New Build
+Sutton,Sutton,01/12/2016,New Build
+Bromley,Bromley,19/07/2016,Conversion
+Enfield,Enfield,02/09/2016,New Build
+Barnet,Barnet,14/10/2016,Conversion
+Enfield,Enfield,15/08/2016,Conversion
+Croydon,Croydon,19/05/2016,Conversion
+Bromley,Bromley,17/02/2016,New Build
+Southwark,Southwark,09/09/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Bromley,Bromley,20/10/2016,New Build
+Newham,Newham,31/03/2016,New Build
+Barnet,Barnet,16/11/2016,Conversion
+Newham,Newham,19/12/2016,Conversion
+Bromley,Bromley,23/02/2016,Conversion
+Barnet,Barnet,27/05/2016,Conversion
+Westminster,Westminster,16/08/2016,Conversion
+Enfield,Enfield,22/08/2016,New Build
+Bromley,Bromley,01/07/2016,New Build
+Newham,Newham,17/06/2016,Conversion
+Westminster,Westminster,31/12/2016,New Build
+Sutton,Sutton,01/01/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,09/09/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,28/09/2016,Conversion
+Barnet,Barnet,13/05/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,12/09/2016,Conversion
+Sutton,Sutton,01/09/2016,Conversion
+Southwark,Southwark,06/06/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Lambeth,Lambeth,02/03/2016,New Build
+Kingston,Kingston upon Thames,14/04/2016,New Build
+Barnet,Barnet,23/12/2016,Conversion
+Lambeth,Lambeth,01/12/2016,New Build
+Lambeth,Lambeth,10/01/2016,New Build
+Croydon,Croydon,09/08/2016,New Build
+Newham,Newham,18/08/2016,Conversion
+Kingston,Kingston upon Thames,08/04/2016,Conversion
+Richmond,Richmond upon Thames,20/04/2016,Conversion
+Sutton,Sutton,01/03/2016,New Build
+Barnet,Barnet,27/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,07/09/2016,Conversion
+Croydon,Croydon,09/08/2016,New Build
+Westminster,Westminster,02/03/2016,Conversion
+Croydon,Croydon,18/08/2016,Conversion
+Richmond,Richmond upon Thames,11/03/2016,Conversion
+Southwark,Southwark,28/10/2016,New Build
+Croydon,Croydon,12/09/2016,New Build
+Bromley,Bromley,18/04/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,23/03/2016,Conversion
+Southwark,Southwark,01/05/2016,New Build
+Sutton,Sutton,31/03/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,08/11/2016,Conversion
+Croydon,Croydon,25/04/2016,Conversion
+Lambeth,Lambeth,15/09/2016,Conversion
+Bromley,Bromley,26/09/2016,New Build
+Ealing,Ealing,05/06/2016,New Build
+Enfield,Enfield,30/06/2016,New Build
+Newham,Newham,27/01/2016,Conversion
+Richmond,Richmond upon Thames,01/12/2016,New Build
+Enfield,Enfield,31/01/2016,Conversion
+Croydon,Croydon,12/09/2016,Conversion
+Southwark,Southwark,01/09/2016,Conversion
+Westminster,Westminster,11/03/2016,Conversion
+Croydon,Croydon,23/08/2016,New Build
+Croydon,Croydon,06/01/2016,New Build
+Enfield,Enfield,26/04/2016,Conversion
+Barnet,Barnet,17/11/2016,New Build
+Croydon,Croydon,26/08/2016,New Build
+Croydon,Croydon,20/05/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Kingston,Kingston upon Thames,16/03/2016,New Build
+Westminster,Westminster,11/03/2016,Conversion
+Westminster,Westminster,31/03/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,01/06/2016,Conversion
+Kingston,Kingston upon Thames,28/04/2016,New Build
+Barnet,Barnet,27/09/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Southwark,Southwark,06/06/2016,New Build
+Westminster,Westminster,14/07/2016,New Build
+Croydon,Croydon,31/03/2016,New Build
+Westminster,Westminster,31/03/2016,New Build
+Bromley,Bromley,23/03/2016,New Build
+Ealing,Ealing,14/08/2016,Conversion
+Southwark,Southwark,10/10/2016,New Build
+Croydon,Croydon,06/10/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,19/08/2016,Conversion
+Ealing,Ealing,01/04/2016,New Build
+Croydon,Croydon,20/05/2016,New Build
+Croydon,Croydon,30/04/2016,New Build
+Newham,Newham,31/03/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Lambeth,Lambeth,08/09/2016,New Build
+Hammersmith & Fulham,Hammersmith and Fulham,18/08/2016,Conversion
+Southwark,Southwark,03/03/2016,New Build
+Lewisham,Lewisham,15/06/2016,New Build
+Merton,Merton,21/04/2016,Conversion
+Brent,Brent,31/03/2016,Conversion
+Brent,Brent,24/03/2016,New Build
+Hackney,Hackney,03/10/2016,Conversion
+Hackney,Hackney,19/01/2016,Conversion
+Tower Hamlets,Tower Hamlets,25/04/2016,Conversion
+Lewisham,Lewisham,19/01/2016,New Build
+Camden,Camden,21/01/2016,Conversion
+Havering,Havering,04/06/2016,New Build
+Tower Hamlets,Tower Hamlets,14/03/2016,New Build
+Hackney,Hackney,30/09/2016,New Build
+Redbridge,Redbridge,10/03/2016,New Build
+Havering,Havering,19/09/2016,New Build
+Wandsworth,Wandsworth,01/04/2016,New Build
+Brent,Brent,05/08/2016,Conversion
+Merton,Merton,01/06/2016,New Build
+Hillingdon,Hillingdon,14/03/2016,New Build
+Lewisham,Lewisham,01/06/2016,Conversion
+Hillingdon,Hillingdon,28/04/2016,New Build
+Hackney,Hackney,21/03/2016,Conversion
+Havering,Havering,11/02/2016,New Build
+Wandsworth,Wandsworth,16/12/2016,New Build
+Merton,Merton,28/09/2016,Conversion
+Camden,Camden,24/05/2016,Conversion
+Hackney,Hackney,04/06/2016,Conversion
+Havering,Havering,26/05/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Camden,Camden,13/01/2016,Conversion
+Hackney,Hackney,05/07/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Wandsworth,Wandsworth,21/12/2016,New Build
+Havering,Havering,14/09/2016,Conversion
+Redbridge,Redbridge,01/08/2016,Conversion
+Merton,Merton,01/09/2016,New Build
+Havering,Havering,14/09/2016,New Build
+Tower Hamlets,Tower Hamlets,22/06/2016,New Build
+Wandsworth,Wandsworth,23/02/2016,New Build
+Lewisham,Lewisham,01/05/2016,New Build
+Hackney,Hackney,01/03/2016,Conversion
+Hillingdon,Hillingdon,11/08/2016,New Build
+Redbridge,Redbridge,27/01/2016,New Build
+Lambeth,Lambeth,15/09/2016,Conversion
+Croydon,Croydon,12/09/2016,Conversion
+Camden,Camden,06/09/2016,New Build
+Wandsworth,Wandsworth,03/06/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Havering,Havering,14/09/2016,New Build
+City of London,City of London,31/03/2016,New Build
+Havering,Havering,14/09/2016,New Build
+Tower Hamlets,Tower Hamlets,06/07/2016,Conversion
+Hackney,Hackney,17/01/2016,New Build
+Redbridge,Redbridge,29/02/2016,New Build
+Hackney,Hackney,02/02/2016,New Build
+Hackney,Hackney,05/09/2016,New Build
+Hackney,Hackney,30/09/2016,Conversion
+Lewisham,Lewisham,30/11/2016,Conversion
+Tower Hamlets,Tower Hamlets,14/03/2016,New Build
+Hackney,Hackney,26/07/2016,Conversion
+Hillingdon,Hillingdon,25/07/2016,Conversion
+Hackney,Hackney,01/06/2016,New Build
+Havering,Havering,08/07/2016,New Build
+Havering,Havering,16/09/2016,New Build
+Hillingdon,Hillingdon,08/01/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hillingdon,Hillingdon,25/11/2016,New Build
+Tower Hamlets,Tower Hamlets,12/07/2016,Conversion
+Hackney,Hackney,31/03/2016,New Build
+Hackney,Hackney,24/09/2016,Conversion
+Brent,Brent,24/05/2016,New Build
+Camden,Camden,23/12/2016,New Build
+Hillingdon,Hillingdon,30/06/2016,New Build
+Merton,Merton,04/01/2016,Conversion
+Brent,Brent,19/12/2016,New Build
+Hackney,Hackney,22/09/2016,Conversion
+Lewisham,Lewisham,31/08/2016,New Build
+Tower Hamlets,Tower Hamlets,04/07/2016,New Build
+Lewisham,Lewisham,01/07/2016,Conversion
+Lewisham,Lewisham,05/01/2016,Conversion
+Camden,Camden,05/10/2016,Conversion
+Hillingdon,Hillingdon,29/11/2016,New Build
+Lewisham,Lewisham,01/07/2016,Conversion
+Southwark,Southwark,03/03/2016,Conversion
+Westminster,Westminster,12/03/2016,Conversion
+Brent,Brent,23/08/2016,New Build
+Hillingdon,Hillingdon,17/02/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,05/01/2016,Conversion
+Redbridge,Redbridge,13/12/2016,Conversion
+Wandsworth,Wandsworth,07/10/2016,New Build
+Wandsworth,Wandsworth,30/09/2016,New Build
+Wandsworth,Wandsworth,30/09/2016,New Build
+Barnet,Barnet,05/09/2016,New Build
+Bromley,Bromley,08/11/2016,New Build
+Bromley,Bromley,06/03/2016,New Build
+Bromley,Bromley,27/09/2016,New Build
+Bromley,Bromley,13/05/2016,New Build
+Bromley,Bromley,20/11/2016,New Build
+Bromley,Bromley,22/08/2016,New Build
+Bromley,Bromley,25/08/2016,New Build
+Bromley,Bromley,30/06/2016,New Build
+Bromley,Bromley,21/01/2016,New Build
+Bromley,Bromley,11/11/2016,New Build
+Bromley,Bromley,05/05/2016,New Build
+Bromley,Bromley,22/09/2016,New Build
+Bromley,Bromley,05/02/2016,New Build
+Bromley,Bromley,15/02/2016,New Build
+Bromley,Bromley,28/11/2016,New Build
+Brent,Brent,09/09/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+OPDC,Brent,07/01/2016,New Build
+Lewisham,Lewisham,07/07/2016,Conversion
+Merton,Merton,08/01/2016,New Build
+Hillingdon,Hillingdon,01/09/2016,New Build
+Havering,Havering,16/09/2016,New Build
+Brent,Brent,18/07/2016,Conversion
+Wandsworth,Wandsworth,29/06/2016,New Build
+Havering,Havering,16/03/2016,New Build
+Merton,Merton,01/06/2016,New Build
+Wandsworth,Wandsworth,26/01/2016,Conversion
+Merton,Merton,11/07/2016,New Build
+Wandsworth,Wandsworth,27/10/2016,New Build
+Havering,Havering,02/12/2016,Conversion
+Lewisham,Lewisham,03/06/2016,New Build
+Wandsworth,Wandsworth,09/09/2016,New Build
+Camden,Camden,29/02/2016,New Build
+Brent,Brent,03/02/2016,Conversion
+Tower Hamlets,Tower Hamlets,24/06/2016,New Build
+Wandsworth,Wandsworth,17/05/2016,New Build
+Camden,Camden,18/01/2016,New Build
+Brent,Brent,07/11/2016,Conversion
+Wandsworth,Wandsworth,22/02/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hackney,Hackney,07/09/2016,New Build
+Brent,Brent,15/02/2016,Conversion
+Brent,Brent,01/06/2016,Conversion
+Brent,Brent,25/02/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+OPDC,Ealing,04/03/2016,New Build
+Wandsworth,Wandsworth,15/07/2016,Conversion
+Redbridge,Redbridge,16/12/2016,Conversion
+Hillingdon,Hillingdon,22/01/2016,New Build
+Hillingdon,Hillingdon,04/07/2016,New Build
+Camden,Camden,29/07/2016,New Build
+Wandsworth,Wandsworth,26/05/2016,New Build
+Brent,Brent,21/12/2016,Conversion
+Camden,Camden,07/08/2016,Conversion
+Wandsworth,Wandsworth,18/01/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Hillingdon,Hillingdon,05/09/2016,New Build
+Brent,Brent,05/08/2016,Conversion
+Hackney,Hackney,03/05/2016,Conversion
+Hillingdon,Hillingdon,07/12/2016,New Build
+Wandsworth,Wandsworth,24/03/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Camden,Camden,08/04/2016,Conversion
+Hackney,Hackney,01/08/2016,Conversion
+Camden,Camden,28/07/2016,New Build
+Tower Hamlets,Tower Hamlets,01/08/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Redbridge,Redbridge,15/12/2016,New Build
+Tower Hamlets,Tower Hamlets,07/07/2016,New Build
+Wandsworth,Wandsworth,30/09/2016,New Build
+Havering,Havering,27/06/2016,New Build
+Lewisham,Lewisham,18/05/2016,New Build
+Wandsworth,Wandsworth,02/03/2016,New Build
+Brent,Brent,01/08/2016,Conversion
+Merton,Merton,28/07/2016,New Build
+Redbridge,Redbridge,31/08/2016,Conversion
+Wandsworth,Wandsworth,21/09/2016,New Build
+Wandsworth,Wandsworth,04/10/2016,Conversion
+Lewisham,Lewisham,31/03/2016,New Build
+Havering,Havering,21/09/2016,Conversion
+Merton,Merton,06/06/2016,New Build
+Redbridge,Redbridge,22/08/2016,Conversion
+Hillingdon,Hillingdon,28/08/2016,New Build
+Havering,Havering,05/07/2016,New Build
+Brent,Brent,06/01/2016,Conversion
+Hillingdon,Hillingdon,22/01/2016,Conversion
+Camden,Camden,08/01/2016,Conversion
+Tower Hamlets,Tower Hamlets,12/01/2016,Conversion
+Wandsworth,Wandsworth,20/05/2016,Conversion
+Havering,Havering,25/09/2016,Conversion
+Camden,Camden,08/06/2016,New Build
+Havering,Havering,05/08/2016,New Build
+Tower Hamlets,Tower Hamlets,15/06/2016,Conversion
+Lewisham,Lewisham,01/07/2016,Conversion
+Havering,Havering,08/02/2016,New Build
+Havering,Havering,16/09/2016,New Build
+Havering,Havering,17/05/2016,New Build
+Tower Hamlets,Tower Hamlets,08/06/2016,New Build
+Havering,Havering,16/09/2016,New Build
+Havering,Havering,08/04/2016,New Build
+Wandsworth,Wandsworth,23/03/2016,Conversion
+Merton,Merton,20/04/2016,New Build
+Wandsworth,Wandsworth,01/04/2016,Conversion
+Hillingdon,Hillingdon,01/10/2016,New Build
+Tower Hamlets,Tower Hamlets,13/12/2016,New Build
+Hillingdon,Hillingdon,04/03/2016,New Build
+Tower Hamlets,Tower Hamlets,14/01/2016,New Build
+Brent,Brent,02/06/2016,Conversion
+Lewisham,Lewisham,15/04/2016,Conversion
+Merton,Merton,11/01/2016,New Build
+Merton,Merton,19/09/2016,New Build
+Brent,Brent,08/11/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Havering,Havering,24/09/2016,New Build
+Tower Hamlets,Tower Hamlets,03/02/2016,New Build
+Hillingdon,Hillingdon,01/09/2016,New Build
+Lewisham,Lewisham,01/07/2016,Conversion
+Lewisham,Lewisham,27/05/2016,New Build
+Hackney,Hackney,01/08/2016,Conversion
+Merton,Merton,30/09/2016,New Build
+Camden,Camden,18/03/2016,Conversion
+Tower Hamlets,Tower Hamlets,18/10/2016,Conversion
+Lewisham,Lewisham,21/12/2016,Conversion
+Lewisham,Lewisham,27/05/2016,Conversion
+Hackney,Hackney,23/05/2016,New Build
+Camden,Camden,25/10/2016,Conversion
+Hackney,Hackney,16/11/2016,New Build
+Wandsworth,Wandsworth,07/07/2016,Conversion
+Brent,Brent,08/02/2016,Conversion
+Hillingdon,Hillingdon,01/10/2016,New Build
+Merton,Merton,30/03/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hackney,Hackney,15/06/2016,New Build
+Southwark,Southwark,03/03/2016,Conversion
+Hammersmith & Fulham,Hammersmith and Fulham,26/05/2016,Conversion
+Barnet,Barnet,12/09/2016,Conversion
+Hillingdon,Hillingdon,21/01/2016,New Build
+Havering,Havering,20/07/2016,New Build
+Lewisham,Lewisham,01/06/2016,New Build
+Hillingdon,Hillingdon,01/06/2016,New Build
+Lewisham,Lewisham,31/07/2016,Conversion
+Tower Hamlets,Tower Hamlets,27/06/2016,Conversion
+Hackney,Hackney,29/04/2016,New Build
+Hackney,Hackney,07/12/2016,Conversion
+Brent,Brent,13/06/2016,New Build
+Camden,Camden,05/02/2016,New Build
+Havering,Havering,19/09/2016,New Build
+Camden,Camden,05/01/2016,Conversion
+Havering,Havering,22/12/2016,New Build
+Redbridge,Redbridge,08/11/2016,New Build
+Wandsworth,Wandsworth,26/01/2016,New Build
+Wandsworth,Wandsworth,15/12/2016,New Build
+Brent,Brent,22/04/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hillingdon,Hillingdon,08/11/2016,New Build
+Wandsworth,Wandsworth,15/03/2016,New Build
+Havering,Havering,09/12/2016,New Build
+Hillingdon,Hillingdon,01/06/2016,New Build
+Havering,Havering,23/12/2016,New Build
+Redbridge,Redbridge,22/11/2016,Conversion
+Tower Hamlets,Tower Hamlets,09/03/2016,New Build
+Hillingdon,Hillingdon,29/07/2016,New Build
+Redbridge,Redbridge,12/08/2016,Conversion
+Havering,Havering,01/04/2016,New Build
+Camden,Camden,04/04/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hackney,Hackney,10/06/2016,New Build
+Wandsworth,Wandsworth,16/12/2016,New Build
+Brent,Brent,06/01/2016,Conversion
+Lewisham,Lewisham,01/03/2016,New Build
+Hackney,Hackney,04/11/2016,New Build
+Redbridge,Redbridge,20/09/2016,Conversion
+Camden,Camden,09/11/2016,New Build
+Camden,Camden,15/09/2016,Conversion
+LLDC,Newham,29/03/2016,Conversion
+Wandsworth,Wandsworth,04/05/2016,New Build
+Hackney,Hackney,25/02/2016,New Build
+Lewisham,Lewisham,30/01/2016,New Build
+LLDC,Tower Hamlets,05/08/2016,New Build
+Tower Hamlets,Tower Hamlets,08/06/2016,New Build
+Lewisham,Lewisham,01/08/2016,New Build
+Ealing,Ealing,31/12/2016,Major dwellings
+Enfield,Enfield,16/09/2016,New Build
+Camden,Camden,14/04/2016,New Build
+Hackney,Hackney,07/10/2016,Conversion
+Brent,Brent,01/06/2016,New Build
+Havering,Havering,14/06/2016,New Build
+Merton,Merton,15/08/2016,New Build
+Tower Hamlets,Tower Hamlets,11/07/2016,Conversion
+Tower Hamlets,Tower Hamlets,08/08/2016,Conversion
+Lewisham,Lewisham,01/05/2016,New Build
+Hackney,Hackney,04/01/2016,Conversion
+Lewisham,Lewisham,01/07/2016,New Build
+Havering,Havering,16/09/2016,New Build
+Hackney,Hackney,11/04/2016,New Build
+Redbridge,Redbridge,06/09/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Redbridge,Redbridge,01/09/2016,New Build
+Havering,Havering,14/09/2016,New Build
+Camden,Camden,07/12/2016,Conversion
+Redbridge,Redbridge,01/07/2016,New Build
+Wandsworth,Wandsworth,01/07/2016,New Build
+Tower Hamlets,Tower Hamlets,18/04/2016,New Build
+Hillingdon,Hillingdon,12/04/2016,New Build
+Camden,Camden,01/04/2016,New Build
+Camden,Camden,01/07/2016,Conversion
+Havering,Havering,19/04/2016,New Build
+Hillingdon,Hillingdon,26/08/2016,Conversion
+Merton,Merton,04/02/2016,New Build
+OPDC,Ealing,09/05/2016,New Build
+Havering,Havering,03/03/2016,New Build
+Lewisham,Lewisham,03/10/2016,Conversion
+Redbridge,Redbridge,12/04/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Lewisham,Lewisham,01/03/2016,New Build
+Tower Hamlets,Tower Hamlets,03/10/2016,Conversion
+Hillingdon,Hillingdon,24/10/2016,New Build
+Camden,Camden,22/06/2016,Conversion
+Wandsworth,Wandsworth,30/09/2016,New Build
+Brent,Brent,15/07/2016,New Build
+Hackney,Hackney,08/08/2016,Conversion
+Camden,Camden,10/03/2016,New Build
+Hackney,Hackney,17/05/2016,Conversion
+Lewisham,Lewisham,01/06/2016,New Build
+Tower Hamlets,Tower Hamlets,20/12/2016,New Build
+Camden,Camden,15/06/2016,New Build
+Hackney,Hackney,22/03/2016,Conversion
+Wandsworth,Wandsworth,01/09/2016,New Build
+Camden,Camden,15/11/2016,Conversion
+Camden,Camden,02/06/2016,Conversion
+Wandsworth,Wandsworth,02/03/2016,Conversion
+Camden,Camden,29/07/2016,New Build
+Redbridge,Redbridge,02/12/2016,New Build
+Hackney,Hackney,24/06/2016,Conversion
+Lewisham,Lewisham,30/08/2016,Conversion
+Merton,Merton,01/04/2016,New Build
+Hillingdon,Hillingdon,24/04/2016,New Build
+Camden,Camden,04/10/2016,Conversion
+Hackney,Hackney,17/02/2016,Conversion
+City of London,City of London,30/09/2016,New Build
+Wandsworth,Wandsworth,22/02/2016,Conversion
+Hackney,Hackney,15/12/2016,Conversion
+Brent,Brent,31/03/2016,Conversion
+Hackney,Hackney,16/12/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,01/09/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Lewisham,Lewisham,14/07/2016,New Build
+Merton,Merton,08/01/2016,New Build
+Wandsworth,Wandsworth,01/04/2016,Conversion
+Hackney,Hackney,21/03/2016,Conversion
+Hillingdon,Hillingdon,20/02/2016,New Build
+Camden,Camden,13/01/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Merton,Merton,01/07/2016,Conversion
+Redbridge,Redbridge,01/03/2016,New Build
+Camden,Camden,23/02/2016,Conversion
+Tower Hamlets,Tower Hamlets,27/01/2016,New Build
+Tower Hamlets,Tower Hamlets,11/05/2016,New Build
+Tower Hamlets,Tower Hamlets,26/02/2016,New Build
+Hillingdon,Hillingdon,18/07/2016,Conversion
+Hillingdon,Hillingdon,01/12/2016,New Build
+Hillingdon,Hillingdon,18/02/2016,New Build
+LLDC,Newham,22/12/2016,New Build
+Hillingdon,Hillingdon,01/02/2016,New Build
+Wandsworth,Wandsworth,16/03/2016,Conversion
+Redbridge,Redbridge,01/12/2016,Conversion
+Hackney,Hackney,15/11/2016,Conversion
+Brent,Brent,07/12/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,16/11/2016,Conversion
+Lewisham,Lewisham,29/07/2016,New Build
+Redbridge,Redbridge,07/03/2016,New Build
+Tower Hamlets,Tower Hamlets,28/07/2016,New Build
+Hillingdon,Hillingdon,27/07/2016,Conversion
+Redbridge,Redbridge,09/08/2016,Conversion
+Brent,Brent,25/02/2016,Conversion
+Lewisham,Lewisham,28/01/2016,New Build
+Camden,Camden,02/11/2016,Conversion
+Brent,Brent,18/03/2016,Conversion
+Hackney,Hackney,17/11/2016,Conversion
+Lewisham,Lewisham,29/09/2016,Conversion
+Camden,Camden,21/09/2016,Conversion
+Wandsworth,Wandsworth,24/06/2016,Conversion
+Hillingdon,Hillingdon,07/07/2016,New Build
+Wandsworth,Wandsworth,01/04/2016,New Build
+Tower Hamlets,Tower Hamlets,30/06/2016,New Build
+Wandsworth,Wandsworth,01/06/2016,New Build
+Lewisham,Lewisham,01/05/2016,Conversion
+Hackney,Hackney,19/02/2016,New Build
+Hillingdon,Hillingdon,22/04/2016,New Build
+Camden,Camden,10/03/2016,New Build
+Camden,Camden,24/02/2016,New Build
+Lewisham,Lewisham,01/07/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Havering,Havering,29/02/2016,New Build
+Hackney,Hackney,24/02/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Wandsworth,Wandsworth,15/09/2016,Conversion
+Hillingdon,Hillingdon,22/06/2016,New Build
+Hackney,Hackney,01/03/2016,New Build
+Brent,Brent,13/04/2016,Conversion
+Wandsworth,Wandsworth,09/06/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Havering,Havering,15/03/2016,New Build
+Tower Hamlets,Tower Hamlets,01/09/2016,New Build
+Wandsworth,Wandsworth,26/10/2016,New Build
+Camden,Camden,01/09/2016,New Build
+Brent,Brent,07/04/2016,New Build
+Merton,Merton,19/08/2016,Conversion
+Tower Hamlets,Tower Hamlets,21/12/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Havering,Havering,18/02/2016,New Build
+Brent,Brent,11/03/2016,Conversion
+Camden,Camden,25/08/2016,Conversion
+Lewisham,Lewisham,01/06/2016,New Build
+Havering,Havering,21/07/2016,Conversion
+Hillingdon,Hillingdon,13/01/2016,New Build
+Lewisham,Lewisham,18/02/2016,New Build
+Redbridge,Redbridge,07/01/2016,Conversion
+Redbridge,Redbridge,02/09/2016,Conversion
+Havering,Havering,16/09/2016,New Build
+Camden,Camden,01/02/2016,Conversion
+Redbridge,Redbridge,19/02/2016,New Build
+Hillingdon,Hillingdon,01/01/2016,New Build
+Camden,Camden,13/09/2016,Conversion
+Camden,Camden,29/01/2016,New Build
+Wandsworth,Wandsworth,01/04/2016,Conversion
+Brent,Brent,20/10/2016,Conversion
+Hackney,Hackney,01/02/2016,New Build
+Merton,Merton,01/02/2016,Conversion
+Camden,Camden,30/09/2016,Conversion
+Redbridge,Redbridge,24/05/2016,New Build
+Brent,Brent,02/03/2016,Conversion
+Hackney,Hackney,25/01/2016,Conversion
+Wandsworth,Wandsworth,01/11/2016,Conversion
+Lewisham,Lewisham,17/03/2016,New Build
+Merton,Merton,01/03/2016,New Build
+Merton,Merton,20/10/2016,Conversion
+Hackney,Hackney,11/05/2016,Conversion
+Havering,Havering,19/09/2016,New Build
+Lewisham,Lewisham,16/03/2016,New Build
+Lewisham,Lewisham,01/04/2016,New Build
+Brent,Brent,18/08/2016,Conversion
+Redbridge,Redbridge,22/11/2016,New Build
+Havering,Havering,25/08/2016,Conversion
+Hackney,Hackney,15/11/2016,Conversion
+Brent,Brent,04/02/2016,Conversion
+Brent,Brent,21/06/2016,New Build
+Lewisham,Lewisham,01/05/2016,New Build
+Brent,Brent,21/12/2016,Conversion
+Hillingdon,Hillingdon,21/11/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Hackney,Hackney,12/01/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Tower Hamlets,Tower Hamlets,06/02/2016,New Build
+Havering,Havering,19/09/2016,Conversion
+Camden,Camden,02/06/2016,Conversion
+Hackney,Hackney,18/01/2016,Conversion
+Camden,Camden,17/10/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Brent,Brent,15/02/2016,Conversion
+Hackney,Hackney,12/09/2016,New Build
+Brent,Brent,16/01/2016,Conversion
+Brent,Brent,01/08/2016,Conversion
+Merton,Merton,10/06/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,New Build
+Lewisham,Lewisham,04/05/2016,Conversion
+Tower Hamlets,Tower Hamlets,01/09/2016,New Build
+Hackney,Hackney,01/07/2016,New Build
+Hackney,Hackney,01/05/2016,New Build
+Hillingdon,Hillingdon,29/04/2016,Conversion
+Brent,Brent,15/12/2016,Conversion
+Merton,Merton,01/06/2016,New Build
+Havering,Havering,03/05/2016,Conversion
+Havering,Havering,14/09/2016,New Build
+Hackney,Hackney,18/08/2016,New Build
+Camden,Camden,23/02/2016,Conversion
+Hillingdon,Hillingdon,12/02/2016,New Build
+Hillingdon,Hillingdon,30/04/2016,New Build
+Redbridge,Redbridge,03/10/2016,Conversion
+Hackney,Hackney,12/05/2016,New Build
+Lewisham,Lewisham,01/04/2016,New Build
+Camden,Camden,11/03/2016,New Build
+Tower Hamlets,Tower Hamlets,04/03/2016,Conversion
+Lewisham,Lewisham,21/10/2016,Conversion
+Merton,Merton,11/01/2016,New Build
+Camden,Camden,28/07/2016,New Build
+Hackney,Hackney,05/07/2016,Conversion
+Redbridge,Redbridge,07/09/2016,New Build
+Camden,Camden,17/04/2016,Conversion
+Brent,Brent,23/03/2016,New Build
+Havering,Havering,09/12/2016,New Build
+Havering,Havering,19/09/2016,New Build
+Redbridge,Redbridge,14/07/2016,Conversion
+Camden,Camden,19/12/2016,Conversion
+Camden,Camden,01/03/2016,Conversion
+Lewisham,Lewisham,01/05/2016,New Build
+Hackney,Hackney,15/09/2016,Conversion
+Lewisham,Lewisham,02/12/2016,Conversion
+Merton,Merton,01/02/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Wandsworth,Wandsworth,21/01/2016,Conversion
+Brent,Brent,23/12/2016,Conversion
+Brent,Brent,21/04/2016,Conversion
+Wandsworth,Wandsworth,03/05/2016,New Build
+Hackney,Hackney,12/06/2016,Conversion
+Tower Hamlets,Tower Hamlets,15/11/2016,New Build
+Havering,Havering,19/12/2016,New Build
+Wandsworth,Wandsworth,01/12/2016,Conversion
+Lewisham,Lewisham,31/03/2016,Conversion
+Tower Hamlets,Tower Hamlets,09/12/2016,New Build
+Redbridge,Redbridge,18/07/2016,New Build
+Havering,Havering,03/08/2016,New Build
+Camden,Camden,11/07/2016,Conversion
+Wandsworth,Wandsworth,05/08/2016,New Build
+Lewisham,Lewisham,30/11/2016,Conversion
+Merton,Merton,01/09/2016,New Build
+Brent,Brent,25/04/2016,Conversion
+Redbridge,Redbridge,20/04/2016,Conversion
+Merton,Merton,04/10/2016,New Build
+OPDC,Ealing,29/07/2016,New Build
+Tower Hamlets,Tower Hamlets,16/11/2016,New Build
+Lewisham,Lewisham,22/07/2016,New Build
+Merton,Merton,01/01/2016,New Build
+Havering,Havering,16/09/2016,New Build
+Redbridge,Redbridge,23/11/2016,New Build
+Hillingdon,Hillingdon,30/09/2016,New Build
+Lewisham,Lewisham,20/11/2016,Conversion
+Merton,Merton,11/07/2016,New Build
+Havering,Havering,22/01/2016,New Build
+Tower Hamlets,Tower Hamlets,02/06/2016,New Build
+Wandsworth,Wandsworth,13/01/2016,Conversion
+Havering,Havering,31/03/2016,New Build
+Hillingdon,Hillingdon,09/09/2016,Conversion
+Hillingdon,Hillingdon,23/03/2016,New Build
+Hillingdon,Hillingdon,12/04/2016,New Build
+Hackney,Hackney,22/01/2016,New Build
+Wandsworth,Wandsworth,21/04/2016,Conversion
+Hackney,Hackney,03/04/2016,Conversion
+Hackney,Hackney,21/08/2016,Conversion
+Lewisham,Lewisham,01/05/2016,Conversion
+Havering,Havering,20/09/2016,New Build
+Lewisham,Lewisham,01/08/2016,New Build
+Havering,Havering,21/06/2016,New Build
+Havering,Havering,16/09/2016,Conversion
+Wandsworth,Wandsworth,03/08/2016,New Build
+Brent,Brent,01/01/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Redbridge,Redbridge,11/11/2016,New Build
+Camden,Camden,16/09/2016,Conversion
+Hillingdon,Hillingdon,22/07/2016,New Build
+Hillingdon,Hillingdon,06/05/2016,Conversion
+Tower Hamlets,Tower Hamlets,14/01/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Tower Hamlets,Tower Hamlets,13/07/2016,New Build
+Tower Hamlets,Tower Hamlets,19/10/2016,New Build
+Camden,Camden,01/04/2016,New Build
+Hillingdon,Hillingdon,01/04/2016,Conversion
+Wandsworth,Wandsworth,31/03/2016,Conversion
+Redbridge,Redbridge,24/06/2016,Conversion
+Wandsworth,Wandsworth,01/07/2016,New Build
+Brent,Brent,20/06/2016,Conversion
+Wandsworth,Wandsworth,15/03/2016,Conversion
+Camden,Camden,18/10/2016,New Build
+Wandsworth,Wandsworth,09/06/2016,Conversion
+Camden,Camden,23/05/2016,New Build
+Camden,Camden,03/03/2016,New Build
+Wandsworth,Wandsworth,05/10/2016,New Build
+City of London,City of London,30/09/2016,New Build
+Wandsworth,Wandsworth,01/03/2016,Conversion
+Hackney,Hackney,11/11/2016,Conversion
+Wandsworth,Wandsworth,02/02/2016,New Build
+Redbridge,Redbridge,01/01/2016,Conversion
+Camden,Camden,03/08/2016,New Build
+Wandsworth,Wandsworth,31/03/2016,New Build
+Hackney,Hackney,01/09/2016,New Build
+Lewisham,Lewisham,21/01/2016,Conversion
+Lewisham,Lewisham,01/10/2016,Conversion
+Camden,Camden,25/07/2016,Conversion
+Lewisham,Lewisham,21/11/2016,New Build
+Hackney,Hackney,11/05/2016,Conversion
+Wandsworth,Wandsworth,05/12/2016,Conversion
+Merton,Merton,14/11/2016,Conversion
+Wandsworth,Wandsworth,06/09/2016,New Build
+Hackney,Hackney,13/11/2016,New Build
+Merton,Merton,20/12/2016,New Build
+Wandsworth,Wandsworth,04/05/2016,Conversion
+Hillingdon,Hillingdon,01/01/2016,New Build
+Havering,Havering,14/09/2016,New Build
+Lewisham,Lewisham,22/12/2016,Conversion
+Ealing,Ealing,11/01/2016,Minor dwellings
+Ealing,Ealing,01/11/2016,Minor dwellings
+Greenwich,Greenwich,28/04/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/02/2016,New Build
+Waltham Forest,Waltham Forest,02/11/2016,Conversion
+Greenwich,Greenwich,31/01/2016,Conversion
+Hounslow,Hounslow,22/12/2016,New Build
+Harrow,Harrow,12/11/2016,New Build
+Hounslow,Hounslow,01/06/2016,New Build
+Islington,Islington,06/08/2016,Conversion
+Islington,Islington,02/06/2016,New Build
+Harrow,Harrow,15/09/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,07/07/2016,Conversion
+Haringey,Haringey,01/04/2016,Conversion
+Waltham Forest,Waltham Forest,25/01/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Islington,Islington,14/09/2016,New Build
+Harrow,Harrow,11/04/2016,Conversion
+Haringey,Haringey,07/03/2016,Conversion
+Greenwich,Greenwich,21/07/2016,Conversion
+Greenwich,Greenwich,22/01/2016,New Build
+Hounslow,Hounslow,18/01/2016,New Build
+Harrow,Harrow,08/06/2016,Conversion
+Haringey,Haringey,18/06/2016,Conversion
+Islington,Islington,30/08/2016,New Build
+Greenwich,Greenwich,27/08/2016,New Build
+Waltham Forest,Waltham Forest,06/09/2016,New Build
+Harrow,Harrow,14/12/2016,New Build
+Haringey,Haringey,13/04/2016,New Build
+Harrow,Harrow,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,15/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,10/03/2016,Conversion
+Harrow,Harrow,13/04/2016,Conversion
+Hounslow,Hounslow,10/05/2016,New Build
+Islington,Islington,19/08/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,22/02/2016,New Build
+Waltham Forest,Waltham Forest,10/10/2016,New Build
+Haringey,Haringey,15/05/2016,Conversion
+Harrow,Harrow,13/10/2016,Conversion
+Waltham Forest,Waltham Forest,25/01/2016,Conversion
+Haringey,Haringey,10/05/2016,New Build
+Hounslow,Hounslow,19/10/2016,New Build
+Harrow,Harrow,31/10/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,12/01/2016,New Build
+Haringey,Haringey,01/10/2016,New Build
+Barking & Dagenham,Barking and Dagenham,16/03/2016,New Build
+Harrow,Harrow,25/10/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,19/12/2016,Conversion
+Harrow,Harrow,22/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/02/2016,Conversion
+Waltham Forest,Waltham Forest,08/08/2016,Conversion
+Islington,Islington,01/03/2016,New Build
+Greenwich,Greenwich,17/10/2016,New Build
+Hounslow,Hounslow,31/08/2016,New Build
+Haringey,Haringey,01/04/2016,New Build
+Islington,Islington,18/04/2016,New Build
+Harrow,Harrow,18/04/2016,New Build
+Harrow,Harrow,31/03/2016,New Build
+Waltham Forest,Waltham Forest,15/12/2016,New Build
+Islington,Islington,01/02/2016,Conversion
+Greenwich,Greenwich,04/08/2016,Conversion
+Harrow,Harrow,03/08/2016,Conversion
+Harrow,Harrow,31/10/2016,Conversion
+Waltham Forest,Waltham Forest,14/04/2016,New Build
+Waltham Forest,Waltham Forest,01/04/2016,New Build
+Hounslow,Hounslow,28/10/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/02/2016,Conversion
+Islington,Islington,05/01/2016,Conversion
+Harrow,Harrow,13/12/2016,New Build
+Waltham Forest,Waltham Forest,06/12/2016,New Build
+Hounslow,Hounslow,18/01/2016,New Build
+Haringey,Haringey,15/07/2016,New Build
+Haringey,Haringey,22/07/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Hounslow,Hounslow,25/11/2016,New Build
+Greenwich,Greenwich,05/09/2016,Conversion
+Islington,Islington,16/06/2016,Conversion
+Greenwich,Greenwich,30/09/2016,New Build
+Haringey,Haringey,31/07/2016,Conversion
+Hounslow,Hounslow,01/02/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,08/03/2016,New Build
+Waltham Forest,Waltham Forest,01/09/2016,New Build
+Haringey,Haringey,01/02/2016,Conversion
+Hounslow,Hounslow,12/01/2016,New Build
+Waltham Forest,Waltham Forest,11/01/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,12/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,Conversion
+Greenwich,Greenwich,17/10/2016,Conversion
+Haringey,Haringey,01/08/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,22/02/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Hounslow,Hounslow,16/02/2016,New Build
+Greenwich,Greenwich,16/12/2016,New Build
+Greenwich,Greenwich,16/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,18/05/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,New Build
+Greenwich,Greenwich,10/03/2016,New Build
+Waltham Forest,Waltham Forest,13/10/2016,Conversion
+Greenwich,Greenwich,21/06/2016,Conversion
+Islington,Islington,08/08/2016,New Build
+Haringey,Haringey,01/04/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,30/06/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/03/2016,New Build
+Waltham Forest,Waltham Forest,12/08/2016,New Build
+Hounslow,Hounslow,22/06/2016,New Build
+Haringey,Haringey,01/04/2016,New Build
+Islington,Islington,23/06/2016,Conversion
+Harrow,Harrow,31/03/2016,New Build
+Greenwich,Greenwich,03/08/2016,Conversion
+Harrow,Harrow,25/10/2016,Conversion
+Harrow,Harrow,31/03/2016,Conversion
+Harrow,Harrow,12/01/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Harrow,Harrow,22/07/2016,New Build
+Waltham Forest,Waltham Forest,20/07/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,10/08/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,Conversion
+Islington,Islington,15/02/2016,New Build
+Barking & Dagenham,Barking and Dagenham,09/11/2016,New Build
+Islington,Islington,31/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,Conversion
+Harrow,Harrow,27/10/2016,New Build
+Harrow,Harrow,30/06/2016,Conversion
+Greenwich,Greenwich,12/02/2016,New Build
+Waltham Forest,Waltham Forest,01/06/2016,New Build
+Islington,Islington,31/03/2016,New Build
+Waltham Forest,Waltham Forest,11/01/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,New Build
+Hounslow,Hounslow,08/11/2016,New Build
+Hounslow,Hounslow,09/12/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,08/03/2016,Conversion
+Haringey,Haringey,20/03/2016,New Build
+Greenwich,Greenwich,25/11/2016,New Build
+Waltham Forest,Waltham Forest,07/04/2016,New Build
+Haringey,Haringey,07/04/2016,New Build
+Greenwich,Greenwich,12/04/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,Conversion
+Islington,Islington,01/05/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Haringey,Haringey,20/05/2016,Conversion
+Harrow,Harrow,10/07/2016,New Build
+Greenwich,Greenwich,30/11/2016,Conversion
+Haringey,Haringey,10/08/2016,New Build
+Barking & Dagenham,Barking and Dagenham,11/01/2016,New Build
+Harrow,Harrow,24/12/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,26/08/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,08/02/2016,Conversion
+Harrow,Harrow,26/05/2016,New Build
+Waltham Forest,Waltham Forest,27/04/2016,New Build
+Harrow,Harrow,11/01/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/03/2016,Conversion
+Harrow,Harrow,30/06/2016,Conversion
+Waltham Forest,Waltham Forest,08/04/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,08/07/2016,New Build
+Waltham Forest,Waltham Forest,02/02/2016,New Build
+Barking & Dagenham,Barking and Dagenham,01/12/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,21/06/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Hounslow,Hounslow,26/04/2016,New Build
+Hounslow,Hounslow,16/09/2016,New Build
+Barking & Dagenham,Barking and Dagenham,29/11/2016,New Build
+Harrow,Harrow,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,10/02/2016,New Build
+Haringey,Haringey,01/04/2016,Conversion
+Harrow,Harrow,19/10/2016,Conversion
+Hounslow,Hounslow,11/08/2016,Conversion
+Harrow,Harrow,09/11/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,Conversion
+Greenwich,Greenwich,18/01/2016,New Build
+Haringey,Haringey,03/04/2016,Conversion
+Waltham Forest,Waltham Forest,01/09/2016,Conversion
+Greenwich,Greenwich,07/09/2016,Conversion
+Hounslow,Hounslow,18/08/2016,New Build
+Islington,Islington,01/12/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,22/08/2016,New Build
+Waltham Forest,Waltham Forest,21/06/2016,New Build
+Greenwich,Greenwich,07/06/2016,New Build
+Harrow,Harrow,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,02/06/2016,Conversion
+Greenwich,Greenwich,13/12/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,04/02/2016,New Build
+Greenwich,Greenwich,28/01/2016,New Build
+Harrow,Harrow,02/08/2016,New Build
+Waltham Forest,Waltham Forest,31/03/2016,Conversion
+Islington,Islington,18/01/2016,Conversion
+Harrow,Harrow,31/12/2016,New Build
+Waltham Forest,Waltham Forest,15/02/2016,Conversion
+Waltham Forest,Waltham Forest,08/11/2016,Conversion
+Greenwich,Greenwich,13/07/2016,Conversion
+Haringey,Haringey,12/02/2016,Conversion
+Waltham Forest,Waltham Forest,22/08/2016,Conversion
+Waltham Forest,Waltham Forest,14/03/2016,Conversion
+Waltham Forest,Waltham Forest,07/04/2016,Conversion
+Waltham Forest,Waltham Forest,23/03/2016,Conversion
+Waltham Forest,Waltham Forest,20/01/2016,Conversion
+Greenwich,Greenwich,23/09/2016,New Build
+Greenwich,Greenwich,18/01/2016,Conversion
+Waltham Forest,Waltham Forest,14/06/2016,Conversion
+Greenwich,Greenwich,14/04/2016,Conversion
+Harrow,Harrow,27/07/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,30/09/2016,Conversion
+Waltham Forest,Waltham Forest,22/04/2016,Conversion
+Islington,Islington,30/06/2016,Conversion
+Waltham Forest,Waltham Forest,31/05/2016,Conversion
+Waltham Forest,Waltham Forest,24/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,28/09/2016,Conversion
+Waltham Forest,Waltham Forest,09/08/2016,Conversion
+Haringey,Haringey,11/02/2016,Conversion
+Islington,Islington,18/02/2016,Conversion
+Waltham Forest,Waltham Forest,21/11/2016,Conversion
+Haringey,Haringey,05/01/2016,Conversion
+Waltham Forest,Waltham Forest,13/04/2016,Conversion
+Haringey,Haringey,13/04/2016,Conversion
+Haringey,Haringey,14/03/2016,Conversion
+Waltham Forest,Waltham Forest,05/08/2016,Conversion
+Waltham Forest,Waltham Forest,09/02/2016,Conversion
+Waltham Forest,Waltham Forest,29/09/2016,Conversion
+Islington,Islington,18/07/2016,Conversion
+Waltham Forest,Waltham Forest,09/02/2016,Conversion
+Waltham Forest,Waltham Forest,06/07/2016,Conversion
+Islington,Islington,15/02/2016,Conversion
+Haringey,Haringey,01/03/2016,Conversion
+Waltham Forest,Waltham Forest,01/04/2016,Conversion
+Islington,Islington,14/11/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,03/04/2016,New Build
+Harrow,Harrow,03/06/2016,Conversion
+Greenwich,Greenwich,05/07/2016,New Build
+Haringey,Haringey,31/07/2016,New Build
+Hounslow,Hounslow,15/04/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,04/02/2016,Conversion
+Hounslow,Hounslow,31/08/2016,New Build
+Harrow,Harrow,26/02/2016,New Build
+Greenwich,Greenwich,25/01/2016,New Build
+Barking & Dagenham,Barking and Dagenham,03/06/2016,New Build
+Waltham Forest,Waltham Forest,13/12/2016,Conversion
+Hounslow,Hounslow,10/04/2016,New Build
+Islington,Islington,11/02/2016,New Build
+Greenwich,Greenwich,29/04/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,20/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,22/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,22/12/2016,Conversion
+Greenwich,Greenwich,25/06/2016,Conversion
+Harrow,Harrow,06/07/2016,Conversion
+Hounslow,Hounslow,01/03/2016,New Build
+Hounslow,Hounslow,15/02/2016,New Build
+Islington,Islington,15/02/2016,New Build
+Hounslow,Hounslow,20/10/2016,New Build
+Harrow,Harrow,01/12/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/01/2016,New Build
+Harrow,Harrow,08/11/2016,New Build
+Barking & Dagenham,Barking and Dagenham,29/06/2016,New Build
+Greenwich,Greenwich,31/12/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,08/02/2016,New Build
+Barking & Dagenham,Barking and Dagenham,02/11/2016,New Build
+Greenwich,Greenwich,18/02/2016,New Build
+Harrow,Harrow,01/08/2016,Conversion
+Harrow,Harrow,07/06/2016,New Build
+Greenwich,Greenwich,18/04/2016,Conversion
+Harrow,Harrow,02/12/2016,Conversion
+Waltham Forest,Waltham Forest,10/05/2016,New Build
+Islington,Islington,01/09/2016,New Build
+Haringey,Haringey,30/04/2016,New Build
+Haringey,Haringey,09/06/2016,Conversion
+Greenwich,Greenwich,08/08/2016,Conversion
+Harrow,Harrow,09/08/2016,Conversion
+Haringey,Haringey,31/07/2016,Conversion
+Islington,Islington,27/06/2016,Conversion
+Hounslow,Hounslow,27/01/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,08/02/2016,Conversion
+Hounslow,Hounslow,13/06/2016,New Build
+Barking & Dagenham,Barking and Dagenham,01/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,30/03/2016,Conversion
+Waltham Forest,Waltham Forest,01/04/2016,New Build
+Hounslow,Hounslow,10/05/2016,New Build
+Waltham Forest,Waltham Forest,11/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,08/02/2016,Conversion
+Waltham Forest,Waltham Forest,19/01/2016,New Build
+Hounslow,Hounslow,28/06/2016,New Build
+Haringey,Haringey,10/05/2016,New Build
+Islington,Islington,01/11/2016,Conversion
+Harrow,Harrow,13/10/2016,New Build
+Islington,Islington,01/01/2016,Conversion
+Hounslow,Hounslow,05/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,08/01/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,04/02/2016,New Build
+Haringey,Haringey,05/08/2016,New Build
+Greenwich,Greenwich,28/01/2016,New Build
+Barking & Dagenham,Barking and Dagenham,14/11/2016,New Build
+Waltham Forest,Waltham Forest,01/03/2016,Conversion
+Waltham Forest,Waltham Forest,25/11/2016,Conversion
+Greenwich,Greenwich,12/12/2016,New Build
+Greenwich,Greenwich,09/12/2016,New Build
+Harrow,Harrow,23/11/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,New Build
+Harrow,Harrow,01/07/2016,Conversion
+Haringey,Haringey,06/04/2016,New Build
+Greenwich,Greenwich,12/10/2016,New Build
+Haringey,Haringey,03/04/2016,New Build
+Waltham Forest,Waltham Forest,23/09/2016,Conversion
+Harrow,Harrow,18/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Islington,Islington,15/07/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,10/06/2016,New Build
+Waltham Forest,Waltham Forest,23/03/2016,New Build
+Harrow,Harrow,09/11/2016,Conversion
+Haringey,Haringey,04/04/2016,New Build
+Hounslow,Hounslow,14/11/2016,New Build
+Hounslow,Hounslow,05/09/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,04/01/2016,New Build
+Islington,Islington,21/02/2016,New Build
+Harrow,Harrow,11/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,20/03/2016,Conversion
+Haringey,Haringey,31/07/2016,Conversion
+Waltham Forest,Waltham Forest,31/05/2016,Conversion
+Greenwich,Greenwich,21/06/2016,Conversion
+Waltham Forest,Waltham Forest,06/06/2016,New Build
+Waltham Forest,Waltham Forest,11/08/2016,New Build
+Haringey,Haringey,15/09/2016,Conversion
+Islington,Islington,31/03/2016,Conversion
+Haringey,Haringey,31/05/2016,New Build
+Islington,Islington,01/04/2016,New Build
+Harrow,Harrow,22/01/2016,New Build
+Haringey,Haringey,31/07/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,10/02/2016,New Build
+Barking & Dagenham,Barking and Dagenham,14/01/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Haringey,Haringey,10/10/2016,New Build
+Barking & Dagenham,Barking and Dagenham,26/04/2016,Conversion
+Harrow,Harrow,06/07/2016,Conversion
+Hounslow,Hounslow,22/04/2016,New Build
+Harrow,Harrow,24/08/2016,Conversion
+Haringey,Haringey,01/05/2016,New Build
+Barking & Dagenham,Barking and Dagenham,04/05/2016,Conversion
+Greenwich,Greenwich,29/02/2016,New Build
+Haringey,Haringey,15/02/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,08/01/2016,Conversion
+Waltham Forest,Waltham Forest,19/10/2016,Conversion
+Haringey,Haringey,24/03/2016,Conversion
+Waltham Forest,Waltham Forest,22/02/2016,Conversion
+Waltham Forest,Waltham Forest,09/11/2016,Conversion
+Haringey,Haringey,26/08/2016,Conversion
+Waltham Forest,Waltham Forest,25/07/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,02/02/2016,New Build
+Waltham Forest,Waltham Forest,17/10/2016,New Build
+Haringey,Haringey,31/07/2016,Conversion
+Haringey,Haringey,10/06/2016,New Build
+Islington,Islington,28/06/2016,New Build
+Greenwich,Greenwich,19/12/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,08/02/2016,Conversion
+Hounslow,Hounslow,01/08/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Greenwich,Greenwich,23/09/2016,New Build
+Harrow,Harrow,28/09/2016,Conversion
+Harrow,Harrow,02/09/2016,Conversion
+Harrow,Harrow,31/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,04/12/2016,Conversion
+Harrow,Harrow,05/09/2016,Conversion
+Haringey,Haringey,21/01/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,10/10/2016,Conversion
+Greenwich,Greenwich,18/02/2016,New Build
+Islington,Islington,20/08/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Haringey,Haringey,01/09/2016,New Build
+Harrow,Harrow,01/03/2016,New Build
+Waltham Forest,Waltham Forest,16/11/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,Conversion
+Islington,Islington,31/10/2016,Conversion
+Haringey,Haringey,26/08/2016,Conversion
+Hounslow,Hounslow,13/05/2016,New Build
+Hounslow,Hounslow,12/05/2016,New Build
+Greenwich,Greenwich,13/01/2016,New Build
+Haringey,Haringey,01/07/2016,Conversion
+Waltham Forest,Waltham Forest,15/01/2016,New Build
+Hounslow,Hounslow,22/09/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Greenwich,Greenwich,22/06/2016,Conversion
+Islington,Islington,30/06/2016,New Build
+Haringey,Haringey,30/06/2016,Conversion
+Haringey,Haringey,20/11/2016,Conversion
+Haringey,Haringey,01/04/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Islington,Islington,03/02/2016,Conversion
+Harrow,Harrow,24/02/2016,Conversion
+Harrow,Harrow,18/07/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,01/09/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,08/02/2016,New Build
+Greenwich,Greenwich,04/08/2016,New Build
+Greenwich,Greenwich,30/06/2016,Conversion
+Haringey,Haringey,01/08/2016,New Build
+Haringey,Haringey,01/02/2016,Conversion
+Waltham Forest,Waltham Forest,14/10/2016,Conversion
+Hounslow,Hounslow,26/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/02/2016,New Build
+Islington,Islington,29/02/2016,Conversion
+Greenwich,Greenwich,24/08/2016,New Build
+Harrow,Harrow,31/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,06/06/2016,Conversion
+Hounslow,Hounslow,07/06/2016,New Build
+Hounslow,Hounslow,14/07/2016,New Build
+Waltham Forest,Waltham Forest,15/01/2016,Conversion
+Hounslow,Hounslow,30/04/2016,Conversion
+Haringey,Haringey,20/04/2016,Conversion
+Hounslow,Hounslow,30/01/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,21/12/2016,New Build
+Haringey,Haringey,22/02/2016,Conversion
+Harrow,Harrow,04/02/2016,New Build
+Haringey,Haringey,10/05/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,16/02/2016,New Build
+Hounslow,Hounslow,01/03/2016,New Build
+Greenwich,Greenwich,14/11/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Islington,Islington,07/07/2016,New Build
+Waltham Forest,Waltham Forest,27/09/2016,Conversion
+Islington,Islington,24/10/2016,New Build
+Greenwich,Greenwich,08/08/2016,New Build
+Waltham Forest,Waltham Forest,06/06/2016,New Build
+Haringey,Haringey,10/09/2016,New Build
+Barking & Dagenham,Barking and Dagenham,02/01/2016,New Build
+Greenwich,Greenwich,28/04/2016,New Build
+Greenwich,Greenwich,30/09/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,22/02/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Haringey,Haringey,31/03/2016,New Build
+Harrow,Harrow,06/12/2016,Conversion
+Harrow,Harrow,14/12/2016,New Build
+Hounslow,Hounslow,01/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/02/2016,Conversion
+Islington,Islington,29/06/2016,Conversion
+Islington,Islington,24/03/2016,New Build
+Hounslow,Hounslow,11/10/2016,Conversion
+Haringey,Haringey,28/04/2016,Minor dwellings
+Hounslow,Hounslow,19/07/2016,Conversion
+Hounslow,Hounslow,20/10/2016,Conversion
+Harrow,Harrow,15/06/2016,New Build
+Haringey,Haringey,01/05/2016,New Build
+Haringey,Haringey,01/04/2016,New Build
+Haringey,Haringey,01/11/2016,New Build
+Haringey,Haringey,21/06/2016,Conversion
+Haringey,Haringey,04/05/2016,Conversion
+Greenwich,Greenwich,10/06/2016,Conversion
+Haringey,Haringey,01/08/2016,New Build
+Barking & Dagenham,Barking and Dagenham,05/11/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,23/09/2016,Conversion
+Islington,Islington,22/07/2016,Conversion
+Islington,Islington,01/11/2016,New Build
+Islington,Islington,15/11/2016,New Build
+Islington,Islington,01/04/2016,New Build
+Islington,Islington,01/02/2016,New Build
+Islington,Islington,20/09/2016,Conversion
+Islington,Islington,14/09/2016,Conversion
+Islington,Islington,24/12/2016,Conversion
+Islington,Islington,05/04/2016,New Build
+Islington,Islington,27/07/2016,New Build
+Islington,Islington,25/11/2016,New Build
+Islington,Islington,14/04/2016,New Build
+Islington,Islington,28/09/2016,Conversion
+Islington,Islington,27/08/2016,Conversion
+Islington,Islington,01/06/2016,Conversion
+Islington,Islington,11/07/2016,Conversion
+Islington,Islington,30/05/2016,New Build
+Islington,Islington,01/06/2016,New Build
+Islington,Islington,10/04/2016,New Build
+Islington,Islington,01/10/2016,Conversion
+Islington,Islington,27/09/2016,Conversion
+Islington,Islington,22/07/2016,Conversion
+Islington,Islington,01/04/2016,New Build
+Islington,Islington,15/07/2016,Conversion
+Islington,Islington,22/04/2016,New Build
+Islington,Islington,01/04/2016,Conversion
+Islington,Islington,15/07/2016,New Build
+Islington,Islington,01/01/2016,New Build
+Islington,Islington,01/09/2016,Conversion
+Islington,Islington,01/02/2016,New Build
+Islington,Islington,24/03/2016,New Build
+Islington,Islington,01/02/2016,New Build
+Islington,Islington,19/09/2016,Conversion
+Islington,Islington,19/10/2016,New Build
+Islington,Islington,02/09/2016,Conversion
+Islington,Islington,16/12/2016,New Build
+Islington,Islington,24/09/2016,New Build
+Islington,Islington,28/06/2016,New Build
+Islington,Islington,01/06/2016,New Build
+Islington,Islington,01/05/2016,New Build
+Islington,Islington,01/05/2016,Conversion
+Islington,Islington,05/12/2016,New Build
+Islington,Islington,01/12/2016,Conversion
+Islington,Islington,04/03/2016,Conversion
+Islington,Islington,31/07/2016,Conversion
+Islington,Islington,12/10/2016,New Build
+Islington,Islington,21/03/2016,New Build
+Islington,Islington,22/07/2016,New Build
+Islington,Islington,01/04/2016,Conversion
+Waltham Forest,Waltham Forest,08/06/2016,Conversion
+Waltham Forest,Waltham Forest,19/10/2016,Conversion
+Waltham Forest,Waltham Forest,14/06/2016,Conversion
+Waltham Forest,Waltham Forest,18/03/2016,Conversion
+Islington,Islington,27/01/2016,Conversion
+Waltham Forest,Waltham Forest,21/06/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,05/05/2016,New Build
+Waltham Forest,Waltham Forest,14/01/2016,Conversion
+Haringey,Haringey,11/04/2016,Conversion
+Waltham Forest,Waltham Forest,14/04/2016,Conversion
+Hounslow,Hounslow,07/07/2016,New Build
+Harrow,Harrow,15/04/2016,Conversion
+Waltham Forest,Waltham Forest,10/06/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,15/01/2016,Conversion
+Haringey,Haringey,16/03/2016,Conversion
+Greenwich,Greenwich,19/12/2016,New Build
+Waltham Forest,Waltham Forest,20/05/2016,Conversion
+Haringey,Haringey,11/05/2016,New Build
+Greenwich,Greenwich,27/05/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/01/2016,New Build
+Harrow,Harrow,24/05/2016,New Build
+Haringey,Haringey,12/07/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,Conversion
+Harrow,Harrow,31/03/2016,Conversion
+Islington,Islington,01/02/2016,New Build
+Haringey,Haringey,20/03/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,New Build
+Harrow,Harrow,08/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,16/02/2016,New Build
+Greenwich,Greenwich,20/06/2016,Conversion
+Islington,Islington,04/07/2016,New Build
+Waltham Forest,Waltham Forest,23/11/2016,New Build
+Haringey,Haringey,07/04/2016,New Build
+Waltham Forest,Waltham Forest,06/01/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Harrow,Harrow,01/12/2016,New Build
+Greenwich,Greenwich,16/06/2016,Conversion
+Greenwich,Greenwich,09/05/2016,Conversion
+Greenwich,Greenwich,10/11/2016,New Build
+Islington,Islington,01/09/2016,New Build
+Harrow,Harrow,28/10/2016,Conversion
+Waltham Forest,Waltham Forest,02/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,02/02/2016,New Build
+Harrow,Harrow,04/01/2016,Conversion
+Islington,Islington,01/04/2016,New Build
+Greenwich,Greenwich,03/06/2016,New Build
+Hounslow,Hounslow,28/10/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,04/02/2016,Conversion
+Islington,Islington,15/07/2016,New Build
+Hounslow,Hounslow,03/06/2016,New Build
+Harrow,Harrow,01/03/2016,New Build
+Islington,Islington,08/09/2016,New Build
+Waltham Forest,Waltham Forest,25/07/2016,Conversion
+Greenwich,Greenwich,30/07/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/02/2016,New Build
+Harrow,Harrow,31/03/2016,Conversion
+Kensington & Chelsea,Kensington and Chelsea,31/03/2016,Conversion
+Greenwich,Greenwich,01/01/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,24/03/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,14/12/2016,New Build
+Haringey,Haringey,10/05/2016,Conversion
+Greenwich,Greenwich,22/01/2016,New Build
+Harrow,Harrow,17/10/2016,New Build
+Haringey,Haringey,31/03/2016,Conversion
+Islington,Islington,31/03/2016,Conversion
+Waltham Forest,Waltham Forest,09/09/2016,New Build
+Greenwich,Greenwich,23/12/2016,New Build
+Kensington & Chelsea,Kensington and Chelsea,28/03/2016,Conversion
+Barking & Dagenham,Barking and Dagenham,31/08/2016,New Build
+Hounslow,Hounslow,07/07/2016,New Build
+Haringey,Haringey,31/03/2016,New Build
+Haringey,Haringey,30/04/2016,Conversion
+Haringey,Haringey,31/07/2016,Conversion
+Haringey,Haringey,30/04/2016,Conversion
+Haringey,Haringey,01/04/2016,Conversion
+Haringey,Haringey,20/08/2016,Conversion
+Haringey,Haringey,28/09/2016,Conversion
+Haringey,Haringey,01/05/2016,Conversion
+Haringey,Haringey,21/12/2016,Conversion
+Haringey,Haringey,31/03/2016,Conversion
+Haringey,Haringey,10/04/2016,New Build
+Haringey,Haringey,10/08/2016,Conversion
+Haringey,Haringey,06/07/2016,Conversion
+Haringey,Haringey,31/03/2016,Conversion
+Haringey,Haringey,28/09/2016,Conversion
+Haringey,Haringey,15/05/2016,Conversion
+Haringey,Haringey,10/07/2016,Conversion
+Greenwich,Greenwich,03/02/2016,New Build
+Ealing,Ealing,03/03/2016,Major dwellings
+Ealing,Ealing,01/06/2016,Minor dwellings
