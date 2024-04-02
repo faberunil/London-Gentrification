@@ -47,7 +47,4 @@ def merge_and_clean_borough_developments():
     # Replace NaN values with 0
     develop_merged.fillna(0, inplace=True)
 
-    # Save the merged DataFrame to a CSV file
-    develop_merged.to_csv('Borough_developments_counts.csv', index=False)
-
     return develop_merged
