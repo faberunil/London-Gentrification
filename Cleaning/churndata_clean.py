@@ -39,5 +39,7 @@ def churn_clean(churn_csv, codes_csv, borough_txt):
 
     # Group by 'area' and calculate the mean for each group
     churn_updated = churn_updated.groupby('area').mean().reset_index()
+
+    churn_updated = churn_updated.melt(id_vars='area', var_name='Year', value_name='Churn Rate')
     
     return churn_updated
