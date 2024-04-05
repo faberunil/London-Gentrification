@@ -47,4 +47,8 @@ def merge_and_clean_borough_developments():
     # Replace NaN values with 0
     develop_merged.fillna(0, inplace=True)
 
+    # Rename the 'Borough' column to 'Area' and make year an int for merging with other DataFrames
+    develop_merged.rename(columns={'Borough': 'Area'}, inplace=True)
+    develop_merged['Year'] = develop_merged['Year'].astype(int)
+
     return develop_merged

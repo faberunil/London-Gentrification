@@ -41,6 +41,9 @@ def clean_crime_data(crime_csv_path, boroughs_txt_path):
     # Remove the 2022 data
     clean_crime_df = clean_crime_df[clean_crime_df['Year'] != '2022']
 
+    # Convert the 'Year' column to integer type
+    clean_crime_df['Year'] = clean_crime_df['Year'].astype(int)
+
     # Multiply the values in the '2010' column by 4/3 (as only 9 months of data are available)
     clean_crime_df.loc[(clean_crime_df['Year'] == '2010'), 'Value'] *= 4/3
 
