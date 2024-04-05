@@ -1,8 +1,5 @@
-import pandas as pd
-
 import sys
 import os
-import pandas as pd
 
 # Get the path to the parent directory (main folder)
 parent_directory = os.path.abspath('.')
@@ -10,6 +7,7 @@ parent_directory = os.path.abspath('.')
 # Add the parent directory to the Python path
 sys.path.append(parent_directory)
 
+import pandas as pd
 from Cleaning.churndata_clean import churn_clean
 from Cleaning.house_price_clean_pivot import process_house_prices_data
 from Cleaning.jobs_market_pivot import process_jobs_data
