@@ -19,6 +19,12 @@ for col in raw_merged2010_df.columns:
         # convert to numeric, coercing errors to NaN
         raw_merged2010_df[col] = pd.to_numeric(raw_merged2010_df[col], errors='coerce')
 
+# Rename Price to House Price
+raw_merged2010_df.rename(columns={'Price': 'House Price'}, inplace=True)
+
+# Remove City of London Borough as lots of incomplete data
+raw_merged2010_df = raw_merged2010_df[raw_merged2010_df['Area'] != 'City of London']
+
 ###############################################################################
 # Summarised_df ################################################################
 ###############################################################################
@@ -35,6 +41,7 @@ development_cols = ['Conversion_count', 'Major all other major developments_coun
 summarized_df = raw_merged2010_df[['Area', 'Year']].copy()
 
 # Add the summaries directly to summarized_df without modifying raw_merged2010_df
+summarized_df[['Churn Rate', 'House Price', 'Earnings']] = raw_merged2010_df[['Churn Rate', 'House Price', 'Earnings']]
 summarized_df['White Collar Jobs'] = raw_merged2010_df[white_collar_cols].sum(axis=1)
 summarized_df['Blue Collar Jobs'] = raw_merged2010_df[blue_collar_cols].sum(axis=1)
 summarized_df['Service Sector Jobs'] = raw_merged2010_df[service_sector_cols].sum(axis=1)
@@ -43,7 +50,6 @@ summarized_df['Property Crimes'] = raw_merged2010_df[property_crimes_cols].sum(a
 summarized_df['Other Offences'] = raw_merged2010_df[other_offences_cols].sum(axis=1)  # Remaining are other offences
 summarized_df['Percentage White'] = (raw_merged2010_df['White'] / raw_merged2010_df['Total Population']) * 100
 summarized_df['Total Development'] = raw_merged2010_df[development_cols].sum(axis=1)
-summarized_df[['Churn Rate', 'Price', 'Earnings']] = raw_merged2010_df[['Churn Rate', 'Price', 'Earnings']]
 
 # Now summarized_df contains 'Area', 'Year', and the summaries for each category
 
@@ -64,14 +70,9 @@ for col in summarized_df.columns.difference(['Area', 'Year']):
 # normalized_df ###############################################################
 ###############################################################################
 # Create a new DataFrame that includes just 'Area' and 'Year' initially
-normalized_df = raw_merged2010_df[['Area', 'Year']].copy()
+normalized_df = summarized_df[['Area', 'Year']].copy()
 
 # Normalize the data for each column (except 'Area' and 'Year') and add it to the new DataFrame
 for col in summarized_df.columns.difference(['Area', 'Year']):
     # Calculate the z-score for each value and fill NaN values with 0 in the new DataFrame
     normalized_df[f'{col} Normalized'] = (summarized_df[col] - summarized_df[col].mean()) / summarized_df[col].std()
-
-# Now normalized_df contains 'Area', 'Year', and the normalized values for each column
-print(normalized_df.head())
-# Save the DataFrames to CSV files
-normalized_df.to_csv('normalized_df.csv', index=False)
