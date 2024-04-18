@@ -41,7 +41,7 @@ development_cols = ['Conversion_count', 'Major all other major developments_coun
 summarized_df = raw_merged2010_df[['Area', 'Year']].copy()
 
 # Add the summaries directly to summarized_df without modifying raw_merged2010_df
-summarized_df[['Churn Rate', 'House Price', 'Earnings']] = raw_merged2010_df[['Churn Rate', 'House Price', 'Earnings']]
+summarized_df[['Churn Rate', 'House Price', 'Earnings', 'Population']] = raw_merged2010_df[['Churn Rate', 'House Price', 'Earnings', 'Population']]
 summarized_df['White Collar Jobs'] = raw_merged2010_df[white_collar_cols].sum(axis=1)
 summarized_df['Blue Collar Jobs'] = raw_merged2010_df[blue_collar_cols].sum(axis=1)
 summarized_df['Service Sector Jobs'] = raw_merged2010_df[service_sector_cols].sum(axis=1)
@@ -67,12 +67,31 @@ for col in summarized_df.columns.difference(['Area', 'Year']):
 # Now rate_change_df contains 'Area', 'Year', and the rate change for each summary category
 
 ###############################################################################
+# pop_adj_df ##################################################################
+###############################################################################
+# Create a new DataFrame that includes just 'Area' and 'Year' initially
+pop_adj_df = summarized_df[['Area', 'Year']].copy()
+
+# Calculate the adjusted population for each column (except 'Area' and 'Year') and add it to the new DataFrame
+for col in summarized_df.columns.difference(['Area', 'Year']):
+    # Calculate the adjusted population and fill NaN values with 0 in the new DataFrame
+    pop_adj_df[f'{col} Pop Adjusted'] = summarized_df[col] / summarized_df['Population'] * 100
+
+# Drop columns that arent necessary
+pop_adj_df = pop_adj_df.drop(columns=['Churn Rate Pop Adjusted', 'Earnings Pop Adjusted', 'Percentage White Pop Adjusted', 'Population Pop Adjusted', 'House Price Pop Adjusted'])
+
+###############################################################################
 # normalized_df ###############################################################
 ###############################################################################
 # Create a new DataFrame that includes just 'Area' and 'Year' initially
-normalized_df = summarized_df[['Area', 'Year']].copy()
+normalized_df = summarized_df[['Area', 'Year', 'Churn Rate', 'House Price', 'Earnings', 'Percentage White']].copy()
 
-# Normalize the data for each column (except 'Area' and 'Year') and add it to the new DataFrame
-for col in summarized_df.columns.difference(['Area', 'Year']):
-    # Calculate the z-score for each value and fill NaN values with 0 in the new DataFrame
-    normalized_df[f'{col} Normalized'] = (summarized_df[col] - summarized_df[col].mean()) / summarized_df[col].std()
+# Add columns from pop_adj_df to normalized_df
+normalized_df = normalized_df.merge(pop_adj_df, on=['Area', 'Year'])
+
+# Normalize the data for each column (except 'Area' and 'Year')
+for col in normalized_df.columns.difference(['Area', 'Year']):
+    # Calculate the normalized value and fill NaN values with 0 in the new DataFrame
+    normalized_df[f'{col} Normalized'] = (normalized_df[col] - normalized_df[col].mean()) / normalized_df[col].std()
+    # Drop the original column
+    normalized_df = normalized_df.drop(columns=[col])

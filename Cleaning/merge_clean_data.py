@@ -15,6 +15,7 @@ from Cleaning.crime_clean_pivot import clean_crime_data
 from Cleaning.earning_clean_pivot import clean_earnings_data
 from Cleaning.demographic_clean_merge import merge_ethnicity_data
 from Cleaning.develop_merge_clean import merge_and_clean_borough_developments
+from Cleaning.pop_clean import clean_pop
 
 # Call each cleaning function
 borough_rename_df = churn_clean('Data/hh_churn.csv', 'Data/uk_areacodes.csv', 'Data/Boroughs.txt')
@@ -24,9 +25,10 @@ crime_data_df = clean_crime_data('Data/MPS Borough Level Crime (Historical).csv'
 earnings_data_df = clean_earnings_data('Data/earnings-residence-borough.xlsx', 'Data/Boroughs.txt')
 demographics_data_df = merge_ethnicity_data()
 development_data_df = merge_and_clean_borough_developments()
+pop_data_df = clean_pop('Data/pop.csv', 'Data/Boroughs.txt')
 
 # Create a list of DataFrames to merge
-dfs_to_merge = [borough_rename_df, house_prices_df, jobs_data_df, crime_data_df, earnings_data_df, demographics_data_df, development_data_df]
+dfs_to_merge = [borough_rename_df, house_prices_df, jobs_data_df, crime_data_df, earnings_data_df, demographics_data_df, development_data_df, pop_data_df]
 
 # Define the columns to merge on
 merge_columns = ['Year', 'Area']
