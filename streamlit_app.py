@@ -24,8 +24,10 @@ option = st.sidebar.radio(
 st.title("London Gentrification Data Visualization Dashboard")
 
 if option == 'Introduction':
-    st.header("London Gentrification Data Visualization Dashboard")
-    st.write("Please select a page on the left sidebar to view different data visualizations.")
+    st.header("London Gentrification Visualization Dashboard")
+    st.subheader("Introduction")
+    st.write("This dashboard offers an interactive exploration of the London Gentrification dataset, which encompasses a range of variables for each borough from 2010 to 2021. The data has been cleaned and preprocessed for straightforward analysis and visualization. The dashboard also projects gentrification trends up to 2030 and provides a feature for users to input real-world data. Our trained model will analyze this data to determine what level of gentrification your area is experiencing.")
+    st.write("Please select a page on the left sidebar to view different data visualizations and models outputs.")
 
 elif option == 'Dataframes':
     st.header("Variations of Dataframes")
