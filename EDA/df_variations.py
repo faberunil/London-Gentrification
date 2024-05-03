@@ -124,3 +124,11 @@ summarized_df = summarized_df.merge(gentrification_df[['Area', 'Year', 'gentrifi
 rate_change_df = rate_change_df.merge(gentrification_df[['Area', 'Year', 'gentrification_index']], on=['Area', 'Year'])
 pop_adj_df = pop_adj_df.merge(gentrification_df[['Area', 'Year', 'gentrification_index']], on=['Area', 'Year'])
 normalized_df = normalized_df.merge(gentrification_df[['Area', 'Year', 'gentrification_index']], on=['Area', 'Year'])
+
+# Using bins make a new column named Classification in a new df named summarized_final to show the level of gentrification
+# Define bins and labels for the classification
+bins = [0, 0.2, 0.4, 0.6, 1]
+labels = ['Low/No Gentrification', 'Mild Gentrification', 'High Gentrification', 'Extreme Gentrification']
+
+summarized_final = summarized_df.copy()
+summarized_final['Classification'] = pd.cut(summarized_final['gentrification_index'], bins=bins, labels=labels)

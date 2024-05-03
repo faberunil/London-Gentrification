@@ -300,3 +300,41 @@ def plot_map_class(data, variable):
     )
 
     return fig
+
+###############################################################################
+# Layered Bar Chart of instances of gentrification levels in each borough ######
+###############################################################################
+def plot_gentrification_instances(data, variable):
+    # Define the color mapping for gentrification levels
+    gentrification_colors = {
+        'Low/No Gentrification': 'green',
+        'Mild Gentrification': 'yellow',
+        'High Gentrification': 'orange',
+        'Extreme Gentrification': 'red'
+    }
+
+    # Create a new DataFrame to count the instances of each gentrification level in each borough
+    gentrification_counts = data.groupby(['Area', variable]).size().unstack().fillna(0)
+
+    # Create a list of colors for each gentrification level
+    colors = [gentrification_colors[level] for level in gentrification_counts.columns]
+
+    # Create the bar chart using Plotly Express
+    fig = go.Figure()
+    for i, level in enumerate(gentrification_counts.columns):
+        fig.add_trace(go.Bar(
+            x=gentrification_counts.index,
+            y=gentrification_counts[level],
+            name=level,
+            marker_color=colors[i]
+        ))
+
+    # Update the layout for better visualization
+    fig.update_layout(
+        barmode='stack',
+        xaxis_title='Borough',
+        yaxis_title='Number of Instances',
+        title=f'Instances of Gentrification Levels in Each Borough ({variable})'
+    )
+
+    return fig

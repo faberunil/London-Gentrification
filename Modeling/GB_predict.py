@@ -20,11 +20,11 @@ gru_predictions_final = gru_predictions[expected_features]
 classification_results = gb_model.predict(gru_predictions_final)
 
 # Add classifications to the DataFrame containing GRU predictions
-gru_predictions_final['Classifications'] = classification_results
+gru_predictions_final['Classification'] = classification_results
 
 # Add the Area and Year columns back to the DataFrame
 gru_predictions_final['Area'] = area_data['Area']
 gru_predictions_final['Year'] = area_data['Year']
 
 # Reorder the columns so Year is the first column and Area is the second column
-gru_predictions_final = gru_predictions_final[['Year', 'Area'] + expected_features + ['Classifications']]
+gru_predictions_final = gru_predictions_final[['Year', 'Area'] + expected_features + ['Classification']]
