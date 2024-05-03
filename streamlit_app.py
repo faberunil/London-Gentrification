@@ -189,7 +189,7 @@ if option == 'Modeling':
     extreme_gentrification_known = dv.summarized_final[dv.summarized_final['Classification'] == 'Extreme Gentrification'].shape[0]
     st.write("There are ", extreme_gentrification_predicted, " instances of Extreme Gentrification in the 10 years between 2021 & 2030. Comparing this to", extreme_gentrification_known, " we see that the predicting model sees a slight up trend in extreme gentrification.")
 
-    st.subheader("Bar Chart of Gentrification Level Instances 2010-2021")
+    st.subheader("Bar Chart of Gentrification Level Instances 2010-2030")
     st.write("The following bar chart shows the number of instances of each gentrification level for each borough from 2010 to 2021.")
     st.plotly_chart(graphs.plot_gentrification_instances(dv.summarized_final, 'Classification'), use_container_width=True)
     st.write("The following bar chart shows that the number of instances of each gentrification level for each borough from 2021 to 2030.")
