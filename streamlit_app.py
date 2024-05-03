@@ -174,13 +174,13 @@ if option == 'Modeling':
     st.dataframe(filtered_df)
 
     st.subheader("Predictions for 2030")
-    st.write("The following table shows the predictions for 2030 using the Gradient Boosting model.")
+    st.write("The following table shows the predictions for 2030 using the Gradient Boosting model with GRU Neural Network.")
 
     # Display the predictions for 2030
     st.dataframe(gb.gru_predictions_final)
 
     st.subheader("Map Visualization of Predictions up to 2030")
-    st.write("The following map shows the predictions for gentrification till 2030 using the Gradient Boosting model. The map has been color coded to show the different classifications. The classifications are as follows: Low/No Gentrification: Dark Green, Moderate Gentrification: Light Green, High Gentrification: Yellow, Extreme Gentrification: Red.") 
+    st.write("The following map shows the predictions for gentrification till 2030 using the Gradient Boosting model to classify and GRU NN to predict data into the future. The map has been color coded to show the different classifications. The classifications are as follows: Low/No Gentrification: Dark Green, Moderate Gentrification: Light Green, High Gentrification: Yellow, Extreme Gentrification: Red.") 
     # Display a map of the predictions for 2030
     st.plotly_chart(graphs.plot_map_class(gb.gru_predictions_final, 'Classification'), theme="streamlit", use_container_width=False)
 
