@@ -87,6 +87,47 @@ def plot_yearly_rate_trends(data, variable):
 
     return fig
 
+###############################################################################
+# Create a line plot of the yearly trends for each borough with pop_adj_df
+###############################################################################
+def plot_yearly_trends_pop_adj(data, variable):
+    # Calculate the trend line by aggregating the data by year and calculating the mean for the specified variable
+    yearly_trend = data.groupby('Year')[variable].mean().reset_index()
+    slope, intercept, r_value, p_value, std_err = linregress(yearly_trend['Year'], yearly_trend[variable])
+
+    # Generate x-values for the trend line, which are the unique years in the data
+    x_trend = pd.Series(yearly_trend['Year'])
+    y_trend = slope * x_trend + intercept
+
+    # Create the interactive plot with Plotly Express
+    fig = px.line(data, x='Year', y=variable, color='Area', title=f'Yearly {variable} Population Adjusted for Each Borough (With Trend Line)',
+                  labels={'Year': 'Year', variable: variable})
+    
+    # Add the trend line to the figure
+    fig.add_traces(px.line(x=x_trend, y=y_trend, labels={'value': 'Trend Line'}).data[0])
+    fig.data[-1].name = 'Trend Line'  # Rename the trend line trace
+    fig.data[-1].line.dash = 'dash'  # Set the line style to dash
+
+    # Update layout for better visualization
+    fig.update_layout(
+        legend_title_text='Borough',
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        margin=dict(l=20, r=20, t=30, b=20)
+        )
+
+    fig.update_layout(
+        legend_title_text='Borough',
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=-1,  # Push the legend down
+            xanchor="center",
+            x=0.5  # Center the legend
+            )
+        )
+
+    return fig
+
 ############################################################################### Create a scatter plot of the variable vs. variable for each borough with a trend line ###############################################################################
 def plot_variable_vs_variable_scatter(data, var_x, var_y):
     # Calculate the trend line
@@ -119,9 +160,9 @@ def plot_variable_vs_variable_scatter(data, var_x, var_y):
 
 ############################################################################### Create a heatmap of the correlation matrix of the variables
 ###############################################################################
-def plot_correlation_matrix(dv):
+def plot_correlation_matrix(data):
     # Calculate the correlation matrix
-    corr_matrix = dv.summarized_df.drop(['Area', 'Year'], axis=1).corr()
+    corr_matrix = data.drop(['Area', 'Year'], axis=1).corr()
 
     # Visualize the correlation matrix
     plt.figure(figsize=(12, 10))  # Adjust figure size as needed
@@ -188,6 +229,74 @@ def plot_map(data, variable):
             "x": 0.05, "y": 0, "currentvalue": {"prefix": "Year: "}
         }],
         title_text=f"London Boroughs {variable} 2010 - 2021)"
+    )
+
+    return fig
+
+###############################################################################
+# Map of London with Classification ##########################################
+###############################################################################
+def plot_map_class(data, variable):
+    # Load GeoJSON
+    with open('EDA/londonboroughs.geojson') as f:
+        geojson_data = json.load(f)
+
+    # Define discrete color mapping for gentrification levels
+    gentrification_levels = {
+        'Low/No Gentrification': 0,
+        'Mild Gentrification': 0.33,
+        'High Gentrification': 0.67,
+        'Extreme Gentrification': 1
+    }
+    
+    # Map classifications to numeric values for coloring
+    data['numeric_classification'] = data[variable].map(gentrification_levels)
+
+    # Define a simple green to red colorscale
+    colorscale = "RdYlGn_r"  # '_r' reverses the usual red to green scale to green to red
+
+    # Create frames for each year
+    frames = []
+    for year in range(2021, 2031):
+        year_data = data[data['Year'] == year]
+        frame_data = go.Choroplethmapbox(
+            geojson=geojson_data,
+            locations=year_data['Area'],
+            z=year_data['numeric_classification'],  # Use the numeric mappings
+            featureidkey="properties.name",
+            colorscale=colorscale,
+            zmin=0,
+            zmax=1,
+            marker_opacity=0.5,
+            marker_line_width=0
+        )
+        frames.append(go.Frame(data=[frame_data], name=str(year)))
+
+    # Initial layout
+    initial_layout = go.Layout(
+        mapbox_style="carto-positron",
+        mapbox_zoom=8.5,
+        mapbox_center={"lat": 51.4974, "lon": -0.1278},
+        margin={"r":0, "t":0, "l":0, "b":0},
+        coloraxis=dict(colorscale=colorscale, cmin=0, cmax=1),
+        coloraxis_colorbar=dict(title=variable, tickvals=[0, 0.33, 0.67, 1], ticktext=list(gentrification_levels.keys()))
+    )
+
+    # Create the initial figure with the layout settings
+    fig = go.Figure(data=[frames[0].data[0]], layout=initial_layout, frames=frames)
+
+    # Update layout with slider
+    fig.update_layout(
+        sliders=[{
+            "steps": [
+                {"args": [[f.name], {"frame": {"duration": 100, "redraw": True}}],
+                 "label": str(year), "method": "animate"}
+                for year, f in zip(range(2021, 2031), frames)
+            ],
+            "transition": {"duration": 100},
+            "x": 0.05, "y": 0, "currentvalue": {"prefix": "Year: "}
+        }],
+        title_text=f"London Boroughs Gentrification 2021 - 2030)"
     )
 
     return fig
