@@ -1,5 +1,4 @@
 import pandas as pd
-import re
 
 def merge_and_clean_borough_developments():
     """

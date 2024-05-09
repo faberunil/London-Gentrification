@@ -7,7 +7,6 @@ import EDA.df_variations as dv
 import json
 import plotly.express as px
 import plotly.graph_objects as go
-import streamlit as st
 
 ############################################################################### Create a line plot of the yearly trends for each borough with summarized_df ###############################################################################
 def plot_yearly_trends(data, variable):
@@ -336,5 +335,115 @@ def plot_gentrification_instances(data, variable):
         yaxis_title='Number of Instances',
         title=f'Instances of Gentrification Levels in Each Borough ({variable})'
     )
+
+    return fig
+
+###############################################################################
+# Graphs for report ###########################################################
+###############################################################################
+import kaleido
+import Modeling.GB_predict as gb
+from plotly.subplots import make_subplots
+
+def plot_gentrification_histogram(df_actual, df_predicted):
+    # Define color mapping and labels
+    gentrification_colors = {
+        'Low/No Gentrification': 'green',
+        'Mild Gentrification': 'yellow',
+        'High Gentrification': 'orange',
+        'Extreme Gentrification': 'red'
+    }
+    
+    # Prepare the figure
+    fig = go.Figure()
+
+    # Helper function to add traces for actual or predicted data
+    def add_data(df, name_suffix, show_legend):
+        for level, color in gentrification_colors.items():
+            # Filter data by gentrification level
+            filtered_data = df[df['Classification'] == level]
+            # Count instances per year
+            counts = filtered_data.groupby('Year').size()
+            # Add trace to the figure
+            fig.add_trace(go.Bar(
+                x=counts.index,
+                y=counts,
+                name=f'{level}',
+                marker_color=color,
+                showlegend=show_legend
+            ))
+
+    # Add actual data to the figure and show legend
+    add_data(df_actual, 'Actual', True)
+    # Add predicted data to the figure and do not repeat the legend
+    add_data(df_predicted, 'Predicted', False)
+
+    # Update the layout for better visualization
+    fig.update_layout(
+        barmode='group',
+        xaxis_title='Year',
+        yaxis_title='Number of Instances',
+        title='Instances of Gentrification Levels by Year',
+        legend_title='Gentrification Level',
+        xaxis_tickangle=-45  # Rotate the year labels
+    )
+
+    # Add a line after 2020 to indicate the division between actual and predicted data
+    fig.add_shape(
+        type="line",
+        x0=2020.5, y0=0, x1=2020.5, y1=1,  # Adjust y1 according to your data scale
+        line=dict(color="Black", width=3, dash="dot"),
+        xref="x", yref="paper"
+    )
+    return fig
+
+def load_geojson():
+    with open('EDA/londonboroughs.geojson') as f:
+        return json.load(f)
+
+def create_single_year_map(data, year, geojson_path):
+    # Load GeoJSON data
+    geojson_data = load_geojson()
+
+    # Define the color mapping for gentrification levels
+    gentrification_levels = {
+        'Low/No Gentrification': 0,
+        'Mild Gentrification': 0.33,
+        'High Gentrification': 0.67,
+        'Extreme Gentrification': 1
+    }
+
+    # Ensure data is for the specified year and map classifications to numeric values
+    year_data = data[data['Year'] == year]
+    year_data['numeric_classification'] = year_data['Classification'].map(gentrification_levels)
+
+    # Create the choropleth map
+    fig = go.Figure(go.Choroplethmapbox(
+        geojson=geojson_data,
+        locations=year_data['Area'],
+        z=year_data['numeric_classification'],
+        featureidkey="properties.name",
+        colorscale="RdYlGn_r",
+        zmin=0,
+        zmax=1,
+        marker_opacity=0.5,
+        marker_line_width=0,
+        colorbar=dict(
+            title="Gentrification Level",
+            tickvals=[0, 0.33, 0.67, 1],
+            ticktext=list(gentrification_levels.keys())
+        )
+    ))
+
+    # Set mapbox style
+    fig.update_layout(
+        mapbox_style="carto-positron",
+        mapbox_zoom=8.75,
+        mapbox_center={"lat": 51.4974, "lon": -0.1278},
+        margin={"r":0, "t":0, "l":0, "b":0}
+    )
+
+    # Title the map
+    fig.update_layout(title_text="London Boroughs Gentrification - 2011")
 
     return fig

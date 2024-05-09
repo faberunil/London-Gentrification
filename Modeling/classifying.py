@@ -46,7 +46,7 @@ def apply_upsampling(df, index_col, drop_cols):
     y = filtered_df['gentrification_category']
     
     # Split into train and test to avoid leakage
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.7, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
     
     # Combine X_train and y_train for resampling
     train_data = pd.concat([X_train, y_train], axis=1)
