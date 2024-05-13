@@ -66,6 +66,57 @@ def apply_upsampling(df, index_col, drop_cols):
     
     return X_train_upsampled, X_test, y_train_upsampled, y_test
 
+"""
+def perform_grid_search(model, param_grid, X_train, y_train, X_test, y_test):
+    """"""Perform grid search and evaluate the model.""""""
+    grid_search = GridSearchCV(model, param_grid, cv=5, scoring='accuracy', n_jobs=-1, verbose=0)
+    grid_search.fit(X_train, y_train)
+    best_model = grid_search.best_estimator_
+    predictions = best_model.predict(X_test)
+    accuracy = accuracy_score(y_test, predictions)
+    report = classification_report(y_test, predictions)
+    return grid_search.best_params_, accuracy, report
+
+# Parameters for grid search
+param_grids = {
+    LogisticRegression: {'C': [0.01, 0.1, 1, 10, 100], 'solver': ['liblinear', 'lbfgs']},
+    KNeighborsClassifier: {'n_neighbors': [3, 5, 7, 10], 'weights': ['uniform', 'distance']},
+    RandomForestClassifier: {'n_estimators': [10, 50, 100, 200], 'max_depth': [None, 10, 20], 'min_samples_split': [2, 5], 'min_samples_leaf': [1, 2]},
+    GradientBoostingClassifier: {'n_estimators': [50, 100, 200], 'learning_rate': [0.01, 0.1], 'max_depth': [3, 5]}
+}
+
+# DataFrames and their respective drops
+dfs = {
+    'summarized_df': dv.summarized_df,
+    'rate_change_df': dv.rate_change_df,
+    'normalized_df': dv.normalized_df
+}
+drop_cols = {
+    'summarized_df': ['Area', 'Year', 'Percentage White'],
+    'rate_change_df': ['Area', 'Year', 'Percentage White Rate Change'],
+    'normalized_df': ['Area', 'Year', 'Percentage White Normalized']
+}
+
+# Evaluate each model on each dataframe
+results = {}
+for df_name, df in dfs.items():
+    print(f"Processing {df_name}:")
+    X_train, X_test, y_train, y_test = prepare_data(df, 'gentrification_index', drop_cols[df_name])
+    X_train_up, y_train_up = apply_upsampling(X_train, y_train)
+    
+    for Model, params in param_grids.items():
+        model = Model()
+        best_params, acc_up, report_up = perform_grid_search(model, params, X_train_up, y_train_up, X_test, y_test)
+        _, acc, report = perform_grid_search(model, params, X_train, y_train, X_test, y_test)
+        
+        print(f"{Model.__name__} on {df_name} - Upsampled: {acc_up}, Non-Upsampled: {acc}")
+        print(f"Best parameters: {best_params}")
+        print(f"Classification report (upsampled):\n{report_up}")
+        print(f"Classification report (non-upsampled):\n{report}")
+        results[(Model.__name__, df_name, 'upsampled')] = (acc_up, best_params)
+        results[(Model.__name__, df_name, 'non-upsampled')] = (acc, best_params)
+"""
+
 # Initialize a DataFrame to store results
 results_df = pd.DataFrame(columns=["Model", "DataFrame", "Accuracy", "Precision", "Recall", "F1-Score"])
 
@@ -318,53 +369,3 @@ joblib.dump(svmnorm_model, 'Models/svmnorm_model.pkl')
 
 # Save results to a CSV file
 results_df.to_csv('Models/results_df.csv', index=False)
-"""
-def perform_grid_search(model, param_grid, X_train, y_train, X_test, y_test):
-    """"""Perform grid search and evaluate the model.""""""
-    grid_search = GridSearchCV(model, param_grid, cv=5, scoring='accuracy', n_jobs=-1, verbose=0)
-    grid_search.fit(X_train, y_train)
-    best_model = grid_search.best_estimator_
-    predictions = best_model.predict(X_test)
-    accuracy = accuracy_score(y_test, predictions)
-    report = classification_report(y_test, predictions)
-    return grid_search.best_params_, accuracy, report
-
-# Parameters for grid search
-param_grids = {
-    LogisticRegression: {'C': [0.01, 0.1, 1, 10, 100], 'solver': ['liblinear', 'lbfgs']},
-    KNeighborsClassifier: {'n_neighbors': [3, 5, 7, 10], 'weights': ['uniform', 'distance']},
-    RandomForestClassifier: {'n_estimators': [10, 50, 100, 200], 'max_depth': [None, 10, 20], 'min_samples_split': [2, 5], 'min_samples_leaf': [1, 2]},
-    GradientBoostingClassifier: {'n_estimators': [50, 100, 200], 'learning_rate': [0.01, 0.1], 'max_depth': [3, 5]}
-}
-
-# DataFrames and their respective drops
-dfs = {
-    'summarized_df': dv.summarized_df,
-    'rate_change_df': dv.rate_change_df,
-    'normalized_df': dv.normalized_df
-}
-drop_cols = {
-    'summarized_df': ['Area', 'Year', 'Percentage White'],
-    'rate_change_df': ['Area', 'Year', 'Percentage White Rate Change'],
-    'normalized_df': ['Area', 'Year', 'Percentage White Normalized']
-}
-
-# Evaluate each model on each dataframe
-results = {}
-for df_name, df in dfs.items():
-    print(f"Processing {df_name}:")
-    X_train, X_test, y_train, y_test = prepare_data(df, 'gentrification_index', drop_cols[df_name])
-    X_train_up, y_train_up = apply_upsampling(X_train, y_train)
-    
-    for Model, params in param_grids.items():
-        model = Model()
-        best_params, acc_up, report_up = perform_grid_search(model, params, X_train_up, y_train_up, X_test, y_test)
-        _, acc, report = perform_grid_search(model, params, X_train, y_train, X_test, y_test)
-        
-        print(f"{Model.__name__} on {df_name} - Upsampled: {acc_up}, Non-Upsampled: {acc}")
-        print(f"Best parameters: {best_params}")
-        print(f"Classification report (upsampled):\n{report_up}")
-        print(f"Classification report (non-upsampled):\n{report}")
-        results[(Model.__name__, df_name, 'upsampled')] = (acc_up, best_params)
-        results[(Model.__name__, df_name, 'non-upsampled')] = (acc, best_params)
-"""
